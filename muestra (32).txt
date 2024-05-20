@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: EN_WR_16_16_0.3_14_CJA
+Year data collection: 2017
+Placement test score (raw): 16 / 43
+Placement test score (%): 37.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 16
+School/University/Institution: Sevenoaks School
+Major: 
+Year at university/school: Year 12
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 16
+Years studying Spanish: 0.3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): Swahili
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish)
+Text: <AT1>Charlie Chaplin encuentra una bébé en el piso sin una madre o padre.</AT1> <Y2><AT1>Por tanto, el intenta <WS1><AT1>pasar el bébé a una mujer</AT1></WS1></AT1> pero <AT1>ella no quere el bébé. </AT1></Y2> <Y1><AT1>Por los tanto, Charlie Chaplin da el bébé a un hombre</AT1> y <AI1>él huye.</AI1></Y1> <Y1><AI1>Hay una policia</AI1> y <AI1>Chaplin no le gusta.</AI1></Y1> <Y1><AT1>Luego, Chaplin tiene que llavar el bébé</AT1> y
+<AT1>él lee una nota <WR1>que <AT1>dice <AT3><Y1><AT1>"por favor, ama<AT1> y <AT1>cuida a este niño huérfano"</AT1></AT1> </WR1></AT1></Y1>. <AI1>Finalmente, Chaplin se va con él bébé.</AI1>

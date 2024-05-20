@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_28_20_7.5_14_EC
+Year data collection: 2018
+Placement test score (raw): 28 / 43
+Placement test score (%): 65.1
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Central College, Bradley University
+Major: International Studies, Political Science, Spanish
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 13
+Years studying Spanish: 7.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): Modern Standard Arabic
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AT1>Primero, el personaje principal (Charlie Chaplin) encontro un bebe sin padres en una calle lleno de basura.</AT1> <AT1>El hombre dedidio <WS1>que <Y3><AI1>alguien se olvide</AI1> o <AT1>perdio el bebe,</AT1></Y3></WS1></AT1> <Y1><AT1>entonces el tomo el bebe</AT1> y <AT1>trato a dar el bebe a una mujer con un otro bebe <WR1>que <AC1>es suya.</AC1></WR1> </AT1></Y1>  <Y1><AI1>La mujer grito mucho</AI1> y <AT1>se lo dio a el hombre.</AT1></Y1> <Y1><AT1>Una policia miro a el hombre</AT1> <AT1>regreso el bebe a la calle entre la basura</AT1> y <AT1>grito al hombre tambien.</AT1></Y1> <AT1><WX6><AT1>Despeus de muchos planes de salir el bebe con otra gente,</AT1></WX6> el personaje principal encontro una carta entre la ropa del bebe.</AT1> <AT1>La carta dice <WS1>que <Y1><AT1>el bebe no tenia padres</AT1> y <AT1>el bebe nesecito amor.</AT1></Y1></WS1></AT1> <AT1>Finalamente el hombre accepto el bebe.</AT1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_12_18_2_14_BAC
+Year data collection: 2019
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 18
+School/University/Institution: Escola secundaria Campos Melo
+Major: Técnico Auxiliar de Saude
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 16
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 180
+Where the task was done: Inside classroom
+Resources used: Help from a Spanish native speaker
+Text: <Y1><AT1>o senhor encontrou um bebe</AT1> e <AT1>pediu encontrou uma senhora com carrinho de bebe</AT1> e <AT1>pos la o bebe mas a mulher comecou com atitudes</AT1><Y1> <Y1><AT1>ele pegou no bebe</AT1> e <AT1>pos o no sitio <WS1><AC1>onde ele estava mas</AC1></WS1></AT1> ‹Y1><AT1>o policia apanhou o ele pegou outra vez na criança</AT1> e <AT1>deixou a a um velho</AT1></Y1> <Y1><AT1>o velho deixou a criança a mulher do carrinho</AT1> e <AT1>o policia apanhou no fim o homem ficou com a criança</AT1></Y1>

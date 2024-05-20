@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_16_21_1_14_SS
+Year data collection: 2019
+Placement test score (raw): 16 / 43
+Placement test score (%): 37.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 21
+School/University/Institution: Texas Tech University
+Major: Global Studies
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English, Farsi, Kurdish
+Age of exposure to Spanish: 19
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2019
+Stay abroad (months): 5
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 1.75 / 6
+Additional foreign language(s): Kurdish
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 25
+Where the task was done: Outside classroom
+Resources used: Help from a Spanish native speaker, Bilingual dictionary (English/Spanish), Grammar book, Background readings about the task topic (newspapers, internet, TV, etc.)
+Text: <Y2><Y1><AT1>Charlie Chaplin encuentra un bebé</AT1> y ‹AT1>trata de abandonarlo varias veces, </AT1></Y1> pero <AT1>no puede hacerlo «WX3>porque <AT1>un oficial de policía lo ve haciéndolo.</AT1></WX3></AT1></Y2> <Y1><AC1>Una de las personas a las <WR1>que <AT1>trató de darle al bebé</AT1></WR1> era una mujer</AC1> y <AT1>lo puso en un cochecito varias veces</AT1> y <AI1>falló cada vez.</AI1></Y1> <Y1>Y «AC1>la siguiente persona a la <WR1><AT1>que trató de darle al bebé</AT1></WR1> fue un hombre mayor <WR1>que <AT1>realmente trató de dar el bebé a las mujeres.</AT1></WR1></AC1></Y1> <Y2><AI1>Pero Charlie Chaplin siempre terminaba con el bebé.</AI1></Y2> <AI1>Él termina quedándose con el bebé <WX6>una vez que <AT1>lee la nota <WR1>que <AT1>dice <WS1>que <Y1><AC1>el bebé es huérfano</AC1> y <AT1>necesita <WS1><PI4>ser amado.</PI4></WS1></AT1></Y1></AT1></WR1></AT1></WX6></AI1>

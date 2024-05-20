@@ -1,0 +1,48 @@
+Subcorpus: Learners
+Filename: JP_WR_21_20_0.5_14_SF
+Year data collection: 2018
+Placement test score (raw): 21 / 43
+Placement test score (%): 48.8
+Proficiency: Lower intermediate
+Sex: Male
+Age: 20
+School/University/Institution: Sophia Universidad
+Major: Estudios globales
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 20
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Mexico
+Stay abroad (when): 2017-2018
+Stay abroad (months): 3
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Primero, Chaplin pasea.</AI1>
+<AI1>Algo cae.</AI1>
+<Y1><AT1>El fume</AT1> y <AT1>busca chico.</AT1></Y1>
+<Y2><AT1>El creas <WS1>que <AC1>este chico es hijo de muger <WR1>qui <AT1>pasea.</AT1></WR1></AC1></WS1></AT1>
+Pero <AC1>lo no es.</AC1></Y2>
+<Y2><AT1>El quiere <WS1><AT1>tirar chico.</AT1></WS1> Pero <AT1>politica mira el.</AT1></Y2> 
+<AT1>El no tira chico.</AT1>
+<Y2><AI1>El move muy bien <WX3>para <AT1>tira chico.</AT1></WX3></AT1> Pero <AT1>el no puede <WS1><AT1>tira chico.</AT1></WS1></AT1></Y2>
+<Y1><AT1>Al final, el lee carta</AT1> y <AT1>quiera <WS1><AT1>tomar es chico.</AT1></WS1></AT1></Y1>

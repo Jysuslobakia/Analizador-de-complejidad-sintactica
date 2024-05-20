@@ -1,0 +1,50 @@
+Subcorpus: Learners
+Filename: JP_WR_19_20_1.5_14_MM
+Year data collection: 2018
+Placement test score (raw): 19 / 43
+Placement test score (%): 44.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 20
+School/University/Institution: Universidad,Teikyo
+Major: espanol
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: English
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 19
+Years studying Spanish: 1.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 300
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1>Esta historia es una historia <WX6>antes dé qué <AI1>naciera.</AI1></WX6></AC1> 
+<AT1>Cahplin <WX6>cuando <AC1>era pequeño,</AC1></WX6> conocé el bebé.</AT1>
+<Y1><AC1>Bebé es muy bonito</AC1> y <AC1>sipatico.</AC1></Y1> 
+<Y2><AI1>Él bebé está llorando.</AI1> 
+Pero <AI1>cahplin se escapa.
+<WX1>por que <AC1>es problematico.</AC1></WX1></AI1></Y2> 
+<AI1>Entonces enojarse.</AI1>
+<AI1>Él bebé hay letras viejo.</AI1> 
+<AC1>Múy poble.</AC1> <AT1>Fainalmente yo amo ami bebé.</AT1>
+<Y1><AC1>Cahplin es muy sinpatico</AC1> y <AC1>amabre.</AC1></Y1> 
+<AC1>¡Bebé bién!</AC1>

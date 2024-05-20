@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_43_16_4_14_BRG
+Year data collection: 2019
+Placement test score (raw): 43 / 43
+Placement test score (%): 100
+Proficiency: Upper advanced
+Sex: Female
+Age: 16
+School/University/Institution: ESDJGFA
+Major: Línguas e Humanidades
+Year at university/school: 11º Ensino Secundário
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Portuguese)
+Text: <AT1>En este video, Chaplin, <WX6>a cuando <AT1>de un paseo, </AT1></WX6> encuentra un niño dejado en la calle.</AT1> <Y2><AT1>Intenta <WS1><AT1>dejálo con una mujer <WR1>que <AI1>pasá con un cochecito</AI1></WR1></AT1></WS1></AT1> pero <AT1>ella dice <WS1>que <AC1>el niño no és suyo.</AC1></WS1></WS1></AT1> <AT1>Chaplin intenta <WS1><AT1>dejar el niño en la calle de nuevo.</AT1></WS1></AT1> <Y1><AI1>La policía aparece</AI1> y <AT1>el vuelve a cogerlo</AT1> y <AI1>camina un poco más.</AI1></Y1> <Y1><AT1><WX6>Cuando <AT1>encuentra a un hombre mayor</AT1></WX6> finge que tiene sus zapatos sucios</AT1> y <AI1>corre en la dirección contraria, <WR2><AT1>dejando el niño con el mayor.</AT1></WR2></AI1></Y1> <Y1><AT1>Este señor encuentra la mujer del cochecito</AT1> y ‹AT1>deja el niño con ella de nuevo. </AT1></Y1> <Y1><WX6>Cuando <AI1>Chaplin pasa por la mujer, </AT1></WX6> <AT1>ella piensa <WS1>que <AT1>la culpa ha sido suya</AT1></WS1></AT1> y, <AT1> por eso, le pega.</AT1></Y1> <Y1><AI1>El protagonista se queda con el niño</AT1> y <AT1>encuentra un billete <WR1><AT1>diciendo para <WS1><Y1><AI1>cuidar del</AI1> У <AT1>amarlo <WX5>como <WX0>si <AC1>fuera suyo.</AC1></WX0></WX5></AT1></Y1></WS1></AT1></Y1>

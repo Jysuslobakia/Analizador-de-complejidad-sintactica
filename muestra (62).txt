@@ -1,0 +1,42 @@
+Subcorpus: Learners
+Filename: GR_WR_12_21_0.5_14_XT
+Year data collection: 2019
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Male
+Age: 21
+School/University/Institution: Φιλοσοφική Σχολή Ιωαννίνων
+Major: Φιλολογία
+Year at university/school: 4
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 21
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 90
+Where the task was done: Outside classroom
+Resources used: Help from a Spanish native speaker
+Text: Charlie Chaplin, en uno de sus paseos, acaba manchándose de los escombros de un edificio. De repente, ve que a su lado hay un bebé abandonado en la calle. No sabe qué hacer e intenta deshacerse de él, dándole a unos paseantes. Por mala suerte, no lo consigue porque el guardia no le pierde de vista. En una carta que encuentra en el cochecito del bebé pone “Ama y cuida al niño huérfano". Entonces parece decidida a sostener al bebé.
+
+<AI1>Charlie Chaplin, en uno de sus paseos, acaba manchándose de los escombros de un edificio.</AI1> <AT1>De repente, ve <WS1>que <AI1>a su lado hay un bebé abandonado en la calle.</AI1></WS1></AT1> <AT1>No sabe <WS2>qué <Y1><AT1>hacer</AT1> e <AI1>intenta deshacerse de él, <WR2><AT1>dándole a unos paseantes.</AT1></WR2></AI1><Y1></WS2></AT1> <AT1>Por mala suerte, no lo consigue <WX4>porque <AI1>el guardia no le pierde de vista.</AI1></WX4></AT1> <AT1>En una carta <WR1>que <AT1>encuentra en el cochecito del bebé</AT1></WR1> pone <WR1><Y1><AT4>"Ama</AT4> y <AT4>cuida al niño huerfano"</AT4></Y1><WR1></AT1> <AC1>Entonces parece decidida a <WS1><AT1>sostener al bebé.</AT1></WS1></AC1>

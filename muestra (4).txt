@@ -1,0 +1,46 @@
+Subcorpus: Learners
+Filename: PT_WR_24_19_3_14_SCM
+Year data collection: 2019
+Placement test score (raw): 24 / 43
+Placement test score (%): 55.8
+Proficiency: Lower intermediate
+Sex: Female
+Age: 19
+School/University/Institution: Escola Secundária Campos Melo
+Major: Técnico Auxiliar de Saúde
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 17
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1>És una película de charlin Chaplin , <WR2>donde <AT1>este encuentra un bebê abandonado <WR1>que <Y1><AI1>precisa de amor</AT1> e <AT1>cari no.</AT1></Y1></WR1></AT1></WR2></AC1> 
+<AC1>Charlin és um hombre muy amoroso <WR1>que <AT1>quier tomar conta de lo Chico.</AT1></WR1></AC1> 
+<AT1>charlin encuentra um bilhete com una mensajem muy  interessante .
+<WR2>Donde <AT1>este tiene que tomar cuenta de una vida muy precisosa.</AT1></WR2></AT1> 
+<AT1>Yo no sei <WS1><AT1>escribir muy bien espanol</AT1></WS1></AT1>, <AT1>estou fazendo um texto .</AT1>
+<AT1>No se <WS1><AT1>escribir..</WS1></AT1></AT1>
+<AI1>A mi me gusta mucho.</AI1>

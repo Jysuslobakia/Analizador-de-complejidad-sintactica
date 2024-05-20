@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_34_22_1_14_VB
+Year data collection: 2018
+Placement test score (raw): 34 / 43
+Placement test score (%): 79.1
+Proficiency: Upper intermediate
+Sex: Male
+Age: 22
+School/University/Institution: εκπα
+Major: φαρμακευτικη
+Year at university/school: τεταρτο
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 21
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 8
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y1><AI1>charles chaplin esta caminando por la calle</AI1> y <AI1>esta fumando.</AI1></Y1> <AI1>De pronto se encontra con un niño <WR1>que <AT1>le toma en sus brazos.</AT1></WR1></AI1> <AT1>No sabe <WS1><AC1>de quien es.</AC1></WS1></AT1> <Y2><AT1>Luego Chaplin intenta <WS1><AT1>darlo a un señora <WR1>que <AI1>esta pasando</AI1></WR1></AT1></WS1> pero <AT1>no lo acepta.</AT1></Y2> <Y1><AT1>Además chaplin lo da a un viego</AT1> y <AT1>el vuelve a darlo a la señora <WR2>que <AT1>acusa chaplin por esto.</AT1></WR2></AT1></Y1> <Y1><AT1>Ella golpea chaplin</AT1> y <AT1>regresa el niño.</AT1> <AT1>Chaplin decide <WS1><AI1>cuidar del niño.</AI1></WS1></AT1> <AI1>Todo esto sucede <WX5><AI1>mientras de chaplin esta escondiendose de policia</AI1></WX5></AI1>

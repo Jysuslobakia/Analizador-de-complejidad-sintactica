@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_20_18_2.5_14_ABGM
+Year data collection: 2019
+Placement test score (raw): 20 / 43
+Placement test score (%): 46.5
+Proficiency: Upper beginner
+Sex: Female
+Age: 18
+School/University/Institution: Sec Campos Melo
+Major: Profissional de
+Year at university/school: 12.º
+L1: Portuguese
+Father's native language: Portuguese (Angola)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 16
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): French, English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: Help from a Spanish native speaker
+Text: <Y1><AT1>el chapin estava a fumar um cigarro <WX6>ate que  <AT1>encontró un bebe abandonado</AT1></WX6><AT1> y <AT1>no quería quedarse con él</AT1></Y1>. <AT1><Y1><AT1>Assi dio el bebé a una señora</AT1> e <AT1>a un senor</AT1></Y1> ,  hasta <WX6>que <AT1>ha vsito un bilhete escrito com la frase <WR1>que dizia para ello <WS1><Y1><AT1>dar amor</AT1> e </AT1>carinho a el nino</AT1></Y1></WS1></WR1></WX6></AT1>

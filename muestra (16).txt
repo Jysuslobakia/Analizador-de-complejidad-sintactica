@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_38_17_2.5_14_BR
+Year data collection: 2019
+Placement test score (raw): 38 / 43
+Placement test score (%): 88.4
+Proficiency: Lower advanced
+Sex: Female
+Age: 17
+School/University/Institution: Escola Secundária de Albufeira
+Major: Línguas e Humanidades
+Year at university/school: 12º
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 15
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 3.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Portuguese)
+Text: <Y1><AI1>Chaplin estaba caminando por la calle <WS6>cuando <AI1>algo cayó</AI1></WS6> y <AT1>lo hizo parar.</AT1></Y1> <AT1><WX6><AT1>Mientras enciende un cigarrilo, </AT1></Wx6> escucho un ruido;</AT1> <AC1>Seria un niño <WR1>que ‹AI1>lloraba abandonado.</AI1></WR1></AC1> <Y1><AT1>Chaplin agarró lo niño</AT1> y <AI1>empezó a pensar en lo <WR1>que<AI1>iria hacer con ello.</AI1></WR1></AI1></Y1> <Y1><AT1>En ese momento pasó una mujer con un carrito de bebe</AT1> y <AT1>Chaplin intenta <WR1><AT1>ponerlo en lo carrito.</AT1></WR1></AT1></Y1> <Y2><Y1><AT1>La mujer ve lo <WS1><AT1>ello está haciendo</AT1></WS1></AT1> y <AT1>empenza a golpearlo con un paraguas,</AT1></Y1> <Y1><AT1>saca lo niño de allí</AT1> y <AT1>vuelve a ponerlo <WX5>adonde <AC1>estaba <WX6>cuando <AT1>o escuchó</AT1></WX6></AC1></WX5> pero <AI1>aparece un policia</AI1> y <AI1>ello fica con lo niño otra vez.</AI1></Y1></Y2> <Y1><AI1>Con lo niño en sus brazos Chaplin fue pasear <WX5><AI1>intentando encontrar una solución</AI1></WX5></AI1> y <AT1>ai mira un hombre.</AT1></Y1> <Y1><AT1>Finge <WS1>atar lo zapato,</WS1></AT1> <AT1>pide para <WS1><AT1>agarrar lo niño</AT1></WS1></AT1> y ‹AI1>salió corriendo. </AI1></Y1> <AI1><WX5><AI1>Pensando <WS1><AT1>ya no tenía esta preocupación</AT1></WS1></AI1></WX5> sigo caminando por la calle.</AI1> <Y1><AT1>El señor a <WR2>quien <AT1>le había dado lo niño, </AT1></WR2> mira lo mismo carrito de bebe</AT1> y <AT1>pone lo niño</AT1></Y1> <Y2><Y1>pero <AI1>en eso momento chaplin estaba caminando por la</AI1> y <AT1><WX6>cuando <AT1>la mujer miro lo carrito con dos bebes,</AT1></Wx6> miro en su vuelta</AT1> y <AT1><WX6>cuando <AT1>penso <WS1>que <AT1>Chaplin tuviese lo ponido</AT1></WS1> y <AT1>empenzó a golpearlo de nuevo.</AT1></Y1></Y2> <Y1><AT1>Chaplin lleva lo niño</AT1> y <AI1>acaba por ficar con ello despues de <WS1><AT1>leer lo papelito <WR1>que <AT1>lo bebe tenía.</AT1></WR1></AT1></WS1></AI1>

@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: JP_WR_17_19_2_14_SBE
+Year data collection: 2018
+Placement test score (raw): 17 / 43
+Placement test score (%): 39.5
+Proficiency: Upper beginner
+Sex: Female
+Age: 19
+School/University/Institution: universidad Seisen
+Major: Lengua y literatura
+Year at university/school: 
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese), Monolingual dictionary (Spanish)
+Text: <AT1><WX6>Cuando <AI1>corre ,</AI1></WX6> CHAPLIN busco um bebe.</AT1> <Y2><AT1>Pasa a una mujer</AT1>  pero <AT1>tiene un bebe.</AT1></Y2> <Y2><AI1>Otra vez va <WX3>para <WS1><AI1>volver</AI1></WS1></WX3></AI1> pero <AT1>no pude poner <WX1>porque <AT1>hay un oficial de policía.</AT1></WX1></AT1></Y2> <AI1>Estoy caminado varios lugares.</AI1> <AT1>He visto video de chaprin <WX6>cuando <AC1>sea  estudiante de segundo.</AC1></WX6></AT1>
+<AT1>Quiero un voz.</AT1> <Y2><AT1>No puedo entender tiempo de ciudad</AT1> pero <AT1><Y1>video de blanco y negro.</Y1></AT1></Y2>

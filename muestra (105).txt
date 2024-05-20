@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_23_19_0.5_14_SM
+Year data collection: 2018
+Placement test score (raw): 23 / 43
+Placement test score (%): 53.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 19
+School/University/Institution: Πανεπιστήμιο Ιωαννίνων
+Major: ΦΠΨ
+Year at university/school: 2
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 19
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 2.75 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Greek), Grammar book
+Text: <AI1>Chaplin camina en una calle.</AI1> <AT1>De repente el encontra un bebe, <WR2>que <AI1>llora.</AI1></WR2></AT1> <Y1><AT1>el no sabe <WS1>que <AI1>hace con el</AI1> y <AT1>se da en un madre.</AT1></Y1> <Y1><AT1>ella no quiere el bebe <Y1> y <AI1>ella grita.</AI1></Y1> <Y1><AT1>chaplin toma el bebe</AT1> y <AI1>se pone en la mismo sitio <WR1>que <AT1>encontro.</AT1> </WR1></AI1></Y1> <AT1>el repente un policia mire chaplin.</AT1> <AT1>el toma el bebe.</AT1> <AT1>Despues el da el bebe en un hombre viejo.</AT1> <Y1><AT1>el hombre pone el bebe en un cochecito</AT1> y <AI1>va.</AI1></Y1> <AC1>EL cochecito esta de la misma mujer <WR1>que <AT1>chaplin ya conocio.</AT1></WR1></AC1> <Y1><AT1>ella se encontra</AT1> y <AT1>pegale en la cabeza.</AT1></Y1> <Y1><AT1>Al final Chaplin encontra una nota</AT1> y <AI1>el va con el bebe.</AI1></Y1>

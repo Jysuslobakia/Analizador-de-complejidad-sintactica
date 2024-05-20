@@ -1,0 +1,42 @@
+Subcorpus: Learners
+Filename: EN_WR_40_44_31_14_SFS
+Year data collection: 2018
+Placement test score (raw): 40 / 43
+Placement test score (%): 93
+Proficiency: Lower advanced
+Sex: Female
+Age: 44
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: English
+Father's native language: Spanish (Chile)
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 13
+Years studying Spanish: 31
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 1997-2000
+Stay abroad (months): 0
+Language certificates (type and level): Degree in Hispanic Studies with Catalan Philology
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): Catalan
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Charlie Chaplin andaba por un pasillo un dia.</AI1> <AT1>En dos ocasiones gente tiraron cosas desde el piso de arriba....</AT1> <AC1><Y1>parece ladrillo y <Y3>cigarillos o algo parecido.</ҮЗ></Y1></AC1>  
+<AI1> Estaba a punto de marcharse <WX6> cuando <AT1> vio un bebe llorando.</AT1></WX6></AI1> <Y1><AT1>Cogio el bebe</AT1> У <AT1> intentaba calmarlo.</AT1></Y1> <AT1>Vio una mujer <WR1><AT1>empujando un cochecito con otro bebe dentro. </AT1></WR1></AT1> <AT1><WX6><AI1> Sin que la mujer se daba cuenta, </AI1></WX6> Charlie meto el bebe dentro del mismo cochecito....</AT1> <Y2>pero <Y1><AI1> de repente la mujer se bajo de las escaleras</AI1> y <AT1>vio a Charlie <WX5><AI1>escapando del escenario,</AI1></WX5></AT1> y <AT1> le devolvió el bebe.</AT1></Y1></Y2> <Y1><ΑI1>Vino un policia</AI1> y <AT1> miraba a ver <WX0>si <Y3><AT1>Charlie se cuidaba del bebe</AT1> O <AT1>nо.</AT1></Y3></WX0></AT1> <AT1> Al final Charlie se logro <WS1><AT1> dejar el bebe con un anciano <WR1>que <AT1>después metio el bebe dentro del mismo cochecito de nuevo.</AT1></WR1></AT1></WS1></AT1> <AT1>El Policia devolvio el bebe a Charlie.</AT1>
+<AI1> La escena termino con <WX5><AT1> Charlie a punto de tirar el bebe por las alcantarillas de la calle.</AT1></WX5></AI1> <AT1> Justo a tiempo, descubrió una nota <WR1><AT1> pidiendo <WS1>que <AT1> alguien cuidara del bebe <WX3> porque <AC1>era orfano.</AC1></WX3></AT1></WS1></AT1></WR1></AT1>

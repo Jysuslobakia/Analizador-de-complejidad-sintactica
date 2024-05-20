@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_34_20_0.8_14_BP
+Year data collection: 2018
+Placement test score (raw): 34 / 43
+Placement test score (%): 79.1
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Πανεπιστήμιο Ιωαννίνων
+Major: Χημείας
+Year at university/school: 2
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 19
+Years studying Spanish: 0.8
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Greek)
+Text: <AT1><WX6><AI1>Mientras Charles Chaplin estaba caminando</AI1></WX6> vio un bebé solo en la calle.</AT1> <Y2><AT1>Al principio pensó <WS1>que <AC1>era el bebé de una mujer</AC1></WS1></AT1> pero <AT1><WX6>cuando <AT1>traió de darlo a ella,</AT1></WX6> ella le dijo <WS1>que <AC1>no era suyo.</AC1></WS1></AT1></Y2> <Y2><AT1>Entonces, Charles decidió <WS1><AT1>dejarlo en la calle</AT1></WS1></AT1> pero <AT1>un policía le vió.</AT1></Y2> <WX4><AI1>Así que Charles empecó que correr con el bebé.</AI1></WX4> <Y1><AT1>Perdió de un hombre <WR1>que <AT1>llevar el bebé de un poco de tiempo</AT1></WR1></AT1> y <AT1>intentó de <WS1><AI1>escepar sin el bebé.</AI1></WS1></AT1></Y1> <Y2><AT1>Ese hombre luego dio el bebé a la misma mujer de antes</AT1> pero <AT1><WX6>cuando <AT1>ella vio Charles</AT1></WX6> lo dio a él de nuevo.</AT1></Y2> <AT1>Al final, Charles vio una carta <WR1>que <AT1>dijo a él <WS1>que <AT1>encontraría a el bebé <WR1>que <AT1>cuidarlo.</AT1></WR1></AT1></WS1></WR1></AT1>

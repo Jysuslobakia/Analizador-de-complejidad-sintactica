@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_41_49_2.5_14_KE
+Year data collection: 2018
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Female
+Age: 49
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 30
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2014
+Stay abroad (months): 
+Language certificates (type and level): Cervantes C2
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper advanced (C2)
+Proficiency (self-assessment): 6 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>El protagonista, <WX5>mientras ‹AI1>está paseando en un barrio marginal,</AI1></WX5> descubre un bebé abandonado en un rincón.</AT1> <Y2><AT1><WX5><AI1>Actuando espóntaneamente</AI1></WX5> lo recoge</AT1> pero <AT1>después intenta <WS1><AI1>deshacerse del pobre niñito.</AT1></WS1></AT1> <Y2><Y1><AT1>Encuentra un cochecito con un bebé <WR1>que <AT1>su madre deja por unos minutos</AT1></WR1></AT1> e <AT1>intenta <WS1><AT1>dejarlo allí</AT1></WS1></AT1><Y1> pero <Y1><AT1>la mujer 1o descubre</AT1> y <AT1>le echa una bronca.</AT1></Y1></Y2> <Y1><AI1><WX5><AI1>Amenazándose de un policía otra vez</AI1></WX5> se encuentra con el bebé en las manos</AI1> y <AI1>después de diversos intentos acaba por aceptar <WS1>que<AC1><Y1> el destino del niño y de él</Y1> es estar juntos...</AC1></WS1></AI1></Y1>

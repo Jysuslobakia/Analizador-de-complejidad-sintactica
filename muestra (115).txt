@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_25_19_0.25_14_NMP
+Year data collection: 2018
+Placement test score (raw): 25 / 43
+Placement test score (%): 58.1
+Proficiency: Lower intermediate
+Sex: Female
+Age: 19
+School/University/Institution: Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης
+Major: Οδοντιατρική
+Year at university/school: Πρώτο
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek, German
+Languages spoken at home: Greek
+Age of exposure to Spanish: 19
+Years studying Spanish: 0.25
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Greek)
+Text: <AI1>Charlie caminaba por la calle <WX6>cuando <AI1>un ladrillo cayó sobre su cabeza.</AI1></WX6></AI1> <Y1><AI1>Se detuvo entonces <WX3>a <AT1>hacer un cigarrillo</AT1></WX3></AI> y <AT1>vio a un bebé.</AT1> <Y2><Y1><AT1>Vio a una mujer</AT1> y <AT1>trató de darle el bebé,</AT1></Y1> pero <AI1>ella lloró.</AI1></Y2> <Y2><AI1>Luego fue a deshacerse del bebé,</AI1> pero <AI1>nuevamente sucedió lo mismo.</AT1></Y2> <AT1>El hombre al <WR1>que <AI1>se fue,</AT1></WR1> la dejó nuevamente en el cochecito de la misma señora.</AT1> <AI1>Finalmente se quedó con el bebé.</AI1> <AT1>Al final encontró una nota sobre el bebé.</AT1>

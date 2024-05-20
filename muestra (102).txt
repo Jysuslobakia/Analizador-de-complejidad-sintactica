@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_26_20_2_14_FE
+Year data collection: 2019
+Placement test score (raw): 26 / 43
+Placement test score (%): 60.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: La facultad de Al Alsn en la Universidad de Kafr El Skeikh
+Major: Español
+Year at university/school: 2017
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Arabic)
+Text: <AC1>Chaplin es un hombre de mala suerte,</AC1> <Y1><AT1>encontró un niño en la calle</AT1> y <Y2><AT1>trató de dejarle con una dama</AT1> pero <AT1>ella gritó a él</AT1><Y2> y <WR2><AI1>Chaplin</AI1></WR2> y <Y2><AT1>trató dejarle en la calle</AT1> pero <AT1>tuvo miedo del oficial.</AT1></Y2></Y1> <Y1><AT1>Le dio a un hombre</AT1> y <AI1>corrió</AI1> y <Y2><AT1>este hombre le dejó con la dama otra vez.</AT1> Pero <AT1>la dama vio a Chaplin,</AT1> <AT1>le golpeó</AT1> y <AT1>dijo al oficial.</AT1></Y2></Y1> <Y1><AT1>Caplin llevó al niño</AT1> y <AI1>fue.</AI1></Y1> <Y1><AI1>Chaplin se sentó en la calle,</AI1> <AT1>miró al niño</AT1> y <AT1>encontró un artículo con él,</AT1></Y1> <AT1>se fue escrito: <WS1><Y1><AT1>"Por favor, amad</AT1> y <AI1>cuidad de este pobre niño.</AI1></Y1></WS1></AT1> <Y1><AI1>Chaplin sonrió</AI1> y <AT1>mantuvo al niño</AT1></Y1>

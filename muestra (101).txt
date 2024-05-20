@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: GR_WR_26_22_2_14_EP
+Year data collection: 2018
+Placement test score (raw): 26 / 43
+Placement test score (%): 60.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 22
+School/University/Institution: ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ
+Major: ΤΟΥΡΚΙΚΩΝ ΚΑΙ ΣΥΧΡΟΝΩΝ ΑΣΙΑΤΙΚΩΝ ΣΠΟΥΔΩΝ
+Year at university/school: 4
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 21
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): ΔΕΝ ΕΧΩ
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): Turkish
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>En eso video yo veo Charle Chaplin el actor ingles.</AT1> <AI1>El video empieza con un bebe.</AI1> <Y2><AC1>es un bebe abandonado.</AC1> pero <AT1>el actor no sabe <WS2>donde <Y1><AT1>ponga el bebe</AT1> y <AI1>hay una mujer <WR1>que <AT1>tiene un otro bebe.</AT1></WR1></AI1></Y1> <Y2><AT1>Charlie lo da a ella</AT1> pero <AT1>ella no lo quiere.</AT1></Y2> <Y1><AI1>entonces hay un hobre, polis</AI1> y <AT1>esta visto a Charlie <WX4>porque <AI1>no lo confia.</AI1></WX4><AT1></Y1> <AT1>busce Charlie <WX4><AT1>ponga el bebe en la basura.</AT1></WX4></AT1> <Y1><AT1>despues Charlie da el bebe a un hombre</AT1> y <AI1>el corria.</AI1></Y1> <Y1><AT1>el homble pone el bebe a la silla del otro bebe</AT1> h <AT1>la mujer pieso <WS1>que <AT1>Charlie lo da a ella de nuevo</AT1></WS1></AT1></Y1>
+

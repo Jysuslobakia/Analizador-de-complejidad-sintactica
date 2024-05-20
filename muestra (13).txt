@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_35_14_3_14_IC
+Year data collection: 2019
+Placement test score (raw): 35 / 43
+Placement test score (%): 81.4
+Proficiency: Upper intermediate
+Sex: Female
+Age: 14
+School/University/Institution: Escola Secundaria Dr. Joaquim Gomes Ferreira Alves
+Major: 
+Year at university/school: 
+L1: Portuguese
+Father's native language: Portuguese (Angola)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 4.75 / 6
+Additional foreign language(s): French (B2), English (A2)
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Y3><Y1><AT1>En el vídeo Chaplin encontró un bebé en la calle</AT1> y <AT1>ententó <WS1><AT1>encontrar sus padres,</AT1></WS1> pero <AT1>no los hay visto.</AT1></Y1></Y3> <Y2><AT1>Chaplin avistó una mujer</AT1> pero <AC1>no era la madre del bebé,</AC1></Y2> <Y1><Y2><AT1>después ententó <WS1><AT1>dejarlo en la calle de nuevo</AT1></WS1></AT1> pero <AI1>la policía apareció</AT1><Y2> y <AT1>Chaplin tuve que llevarlo con el.</AT1></Y1> <Y2><AT1>Después ententó <WS1><AT1>dejar el bebé con un hombre</AT1></WS1></AT1> pero <AT1>este lo dejo con la misma mujer de anteriormiente,</AT1> pero <Y1><AT1>la mujer llamó la policía</AT1> y <AT1>le ha dicho <WS1>que <AT1>Chaplin lo habia hecho.</AT1></WS1></AT1></Y1></Y2> <AT1>En el final Chaplin encontró un papel <WR1>que <AT1>dicia <WS1>que <Y1><AT1>el bebé no tenía padres</AT1> y <WX3>para que <AT1>lo tratasen con cariño.</AT1></WX3></Y1></WS1></AT1></WR1></AT1>

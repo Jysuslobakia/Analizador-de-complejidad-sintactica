@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_41_43_3_14_JM
+Year data collection: 2019
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Male
+Age: 43
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 34
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): Instituto Cervantes
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.75 / 6
+Additional foreign language(s): English, French
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <PI1>En ese vídeo se observan várias escenas.</PI1> <AI1>Al princípio, Chaplin pasea por las calles <WX6> <AT1>mientras las gentes tiran basura por las ventanas, </AT1> </WX6></AT1> <WX6>hasta que <Y1><AI1>llega junto a unos contenedores de basura</AI1> y <AT1>intenta <WS1><AT1>acender un cigarillo.</AT1></WS1></AT1></Y1></WX6> <Y2><Y1><AT1>Chaplin encuentra a un niño en sus pañales</AT1> y <AT1>intenta <WS1><AT1>dejarlo con otro niño en su coche,</AT1></WS1></AT1></Y1> pero <AT1>la madre no lo accepta.</AT1></Y2> <Y2><AT1>Después vuelve a colocarlo en el suelo, </AT1> pero <AT1>el policia no 10 deja.</AT1></Y2> <Y2><AT1>Más tarde, intenta <WS1><AT1>dejarlo con un viejo <WR1>que <AT1>le deposita de nuevo con el otro niño,</AT1></WR1></AT1></WS1></AT1> pero <AT1>de nuevo <Y1><AT1>la madre</AT1> y <AT1>el policia no lo dejan.</AT1></Y1> <Y2><AI1>Se queda con él, <WX5><AI1>aún piensa en tirarlo al agujero, </AI1></WX5> pero <AT1>descubre una carta <WR1><AT1>pediendo a <WR1>quién <AT1>encuentre al niño</AT1></WR1> <WS1>que <Y1><AT1>le cuide</AT1> y <AT1>le ame. </AT1></Y1></WS1></AT1></WR1></AT1></Y2>

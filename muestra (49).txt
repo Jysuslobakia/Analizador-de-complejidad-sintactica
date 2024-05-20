@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_40_38_18_14_YN
+Year data collection: 2019
+Placement test score (raw): 40 / 43
+Placement test score (%): 93
+Proficiency: Lower advanced
+Sex: Female
+Age: 38
+School/University/Institution: 
+Major: Filosofía inglesa en la universidad.
+Year at university/school: 
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 20
+Years studying Spanish: 18
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): Dele c1
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper advanced (C2)
+Proficiency (self-assessment): 6 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AC1>Erase una vez un hombre <WR1>que <AI1>estaba caminando por la calle entre edificios.</AI1></WR1></AC1> <Y1><AT1>De repente vio algo <WR1><AI1>cayendo,</AI1></WR1></AT1> <AI1>miró por el suelo</AI1> y <AT1>encontró a un bebé recién nacido,</AT1> <AT1>entonces recogió al bebé.</AT1></Y1> <AI1>Luego, vino una señora con un cochecito de bebé.</AI1> <Y2><AT1>El hombre puso el bebé en el cochecito,</AT1> pero <AT1>la señora devolvió el bebé al hombre.</AT1> <Y2><AT1>El hombre trató de poner al bebé en el suelo <wX6>donde <AT1>lo encontraba,</AT1></WX6></AT1> pero <AT1>un policía lo vio,</AT1></Y2> <AT1>entonces no le quedaba al hombre más remedio <WX2>que <AI1>quedarse con el bebé.</AI1></WX2></AT1> <Y2><AI1>Trato muchas veces de deshacerse del bebé,</AI1> pero <AI1>al final se quedó con el bebé.</AI1></Y2> <AT1>Encontró una nota con el bebé <WR1>que <AT1>pide al <WR1>que <AT1>la va a leer a <Y1><WS1><AT1>cuidar del bebé</AT1> y <AT1><Y1>darle cariño y amor.</Y1></AT1></WS1></Y1></AT1>

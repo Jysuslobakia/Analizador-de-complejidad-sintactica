@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_29_20_4_14_PG
+Year data collection: 2018
+Placement test score (raw): 29 / 43
+Placement test score (%): 67.4
+Proficiency: Upper intermediate
+Sex: Male
+Age: 20
+School/University/Institution: Central College
+Major: Biochemistry, Spanish
+Year at university/school: Sophomore
+L1: English
+Father's native language: English
+Mother's nativelanguage: Spanish
+Languages spoken at home: English
+Age of exposure to Spanish: 16
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 5
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 33
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Charlie Chaplin estaba andando en la calle <WX6>cuando <AT1>veía un bebe en el suelo.</AT1></WX6></AI1> <Y1><AT1>Después, Chaplin vio una mujer</AT1> y <AT1>le deja el bebe con ella.</AT1></Y1> <Y1><AI1>La mujer le grito a Chaplin <WX4>porque <AC1>el bebe no era suya</AC1></WX4></AI1> y <AT1>La revolvió el bebe a Chaplin,</AT1></Y1> <Y1><AT1>entonces Chaplin no quería el bebe</AT1> y <Y2><AT1>probó <WS1><AT1>dejarlo</AT1></WS1></AT1> pero <AT1>la policía no lo permite.</AT1></Y2></Y1> <AT1><WX6><AI1>Después de andando mas lejos desde la policía, </AI1></WX6> <AT1>Chaplin probó <WS1><Y2><AT1>dejar el bebe con un hombre</AT1> aunque <AT1>ese vez tenía éxito.</AT1></Y2></WS1></AT1> <Y1><AT1>Ese hombre, vio la mujer desde temprano, </AT1> y <AT1>dejó el bebe con ella <WX6>cuando <AI1>no estaba viendo.</AI1></WX6></AT1></Y1> <Y1><AI1>Chaplin estaba andando en la misma calle con la mujer</AI1> y <AT1>ella creía <WS1>que <AT1>Chaplin se dejó el bebe otra vez.</AT1></WS1></AT1></Y1> <AI1>Ella se gritaba a Chaplin <WX5>mientras <AI1>la policía aparecía.</AI1></WX5></AI1> <Y1><AT1>Chaplin sacó el bebe</AT1> y <AI1>luego sentó con él.</AI1></Y1> <Y2><AT1>Quería <WS1><AT1>dejarlo en la calle</AT1></WS1></AT1> pero <AT1>decidió <WS1>que <AC1>no es una idea mala.</AC1></WS1></AT1></Y2> <AT1>Chaplin encontró una nota <WR1>que <AT1>dijo <WS1><Y1><AT1>"amar<AT1> y <AI1>cuidar del bebe".</AI1></Y1></WS1></AT1></WR1></AT1> <AT1>Finalmente, Chaplin decidió <WS1><AT1>hacer eso.</AT1></WS1></AT1>

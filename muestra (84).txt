@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_29_20_7_14_MC
+Year data collection: 2018
+Placement test score (raw): 29 / 43
+Placement test score (%): 67.4
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Abilene Christian University
+Major: Spanish
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 13
+Years studying Spanish: 7
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Honduras
+Stay abroad (when): 2018
+Stay abroad (months): 3
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 3.75 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>En este video, Charlie Chaplin camino en una calle entre muchas casas.</AI1> <AT1><WX6>Cuando <AI1>el esta caminando,</AI1></WX6> la gente eliman su basura a fuera de las ventanas.</AT1> <Y1><AT1>Charlie encuentro un bebe en la calle,</AT1> y <AT1>el lo da a una otra mama con su bebe.</AT1></Y1> <Y1><AT1>Ella no lo quiere,</AT1> <AT1>por eso, el da el bebe a un otro hombre.</AT1> <AT1>El regresa el bebe a la mama tambien.</AT1> <Y2><Y1><AT1>La mama dice a el policia,</AT1> y <AT1>el hombre de policia da el bebe a Charlie otra vez,</AT1></Y1> pero <AC1>el bebe no es el hijo de el.</AC1></Y2>

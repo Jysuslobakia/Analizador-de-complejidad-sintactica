@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_25_17_3_14_DF
+Year data collection: 2019
+Placement test score (raw): 25 / 43
+Placement test score (%): 58.1
+Proficiency: Lower intermediate
+Sex: Male
+Age: 17
+School/University/Institution: Colegio de Amorim
+Major: Ciencias e tecnologías
+Year at university/school: 
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 14
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 1
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Y1><AT1>En este video yo veo charlin Chaplin <WR1>a <AI1>andar</AI1></WR1></AT1> y <AI1><WX6>cuando <AT1>no estava a espera</AT1></WX6> cayó un recien nacido del céo</AI1> y <AT1>ello se asustó</AT1></Y1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_18_17_2.5_14_MBBS
+Year data collection: 2019
+Placement test score (raw): 18 / 43
+Placement test score (%): 41.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 17
+School/University/Institution: Escola Secundária Campos Melo
+Major: Técnico de apoio Psicossocial
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 15
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 7
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Y2><Y1><AT1>Chaplin encontron un bebe no chao</AT1> e <AT1>tenta entrega lo a una senora,</AT1></Y1> pero <AT1>ella no o quiere,</AT1></Y2> <Y2><AT1>despos volta a po lo no chao</AT1> pero <AT1>llega un policia entao ele da o bebê a un vello mas esse volta a po lo con una senora</AT1></Y2> <Y1><AT1>despos ela volta a encontra lo</AT1> e <AT1>elle ve un billete <WR1>que <AT1>dis para amar o bebe</AT1></WR1></AT1> e <AT1>elle fica con elle.</AT1></Y1> <AT1>Gostei muito de la película.</AT1>

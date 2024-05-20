@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_23_20_2_14_SAV
+Year data collection: 2018
+Placement test score (raw): 23 / 43
+Placement test score (%): 53.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Universidad Seisen
+Major: Lengua y literatura española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Y2>Aunque <AT1>sin palabras en este pelicula,</AT1> <AT1>puse entender el situación por movimiento de Charles Chaplin.</AT1> <AC1>Su movimiento era un poco extraño.</AC1> <AC1>Especialmente su canina era interesante para mi.</AC1> <Y1>Y <AC1>la música es alegre</AC1> y <AC1>felicidad.</AC1></Y1> <Y2><AC1>El bebé <WR1>que <AC1>estaba en el camino no es suyo, </AC1></WR1></AC1> pero <Y1><AT1>Chaplin se dudó a una dama</AT1> y <AT1>policía.<AT1></Y1></Y2> <AT1>Creo <WS1>que <AT1>él tuvo mala suerte ese día.</AT1></WS1></AT1>

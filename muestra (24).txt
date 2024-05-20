@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_43_22_5_14_CAC
+Year data collection: 2019
+Placement test score (raw): 43 / 43
+Placement test score (%): 100
+Proficiency: Upper advanced
+Sex: Female
+Age: 22
+School/University/Institution: Faculdade de Letras Universidade de Lisboa
+Major: Línguas, Literaturas e Culturas
+Year at university/school: 3º ano
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 17
+Years studying Spanish: 5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 1
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 2
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1>Chaplin está por la calle con un bebé en el regazo.</AC1> <Y1><AT1>Chaplin no quería el bebé</AT1> y <Y2><AT1>buscaba un lugar <WR1>donde <AT1>pudiera dejarlo</AT1></WR1></AT1> pero <AT1>el guadria estaba mirándolo <WX3>para que <Y1><AT1>él no dejase el bebé</AT1> y <AI1>se quedase con él.</AI1></Y1></WX3></AT1></Y2></Y1> <AT1>Chaplin dio el bebé a un hombre <WR1>que <AT1>encontró por la calle, </AT1></WR1></AT1> <Y2><AT1>el hombre no entendió lo <WR1>que <AT1>él estaba haciendo</AT1></WR1></AT1> pero <Y1><AT1>luego lo percibió</AT1> y <AT1>intentó <WS1><AI1>correr hasta Chaplin</AI1></WS1></AT1> pero <AI1>el se huyó</AI1> y <AI1>se escondió del hombre.</AI1><Y1></Y2> <Y1><AT1>Este mismo hombre dejó el bebé en un carro <WR1>donde <AC1>estaba otro bebé</AC1></WR1></AT1> y <AI1><WX6>cuando <AI1>la madre se acercó al carro</AI1></WX6> se dio cuenta <WS1>que <AC1>además de su hijo estaba el bebé de Chaplin. </AC1></WS1></AI1> <AI1>Al final, Chaplin se quedó con el bebé después de <SW1><AT1>leer un papelito <WR1>que <AT1>este niño tenia el su ropa.</AT1></WR1></AT1></SW1></AI1>

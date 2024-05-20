@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_25_20_2_14_KT
+Year data collection: 2018
+Placement test score (raw): 25 / 43
+Placement test score (%): 58.1
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: 清泉女子大学
+Major: 文学部スペイン語スペイン文学科
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese)
+Text: <AC1>Ese video es interesante para mi.</AC1> <AT1>Creo <WS1>que <AC1>el extraño comportamiento de Chaplin es agradable.</AC1></WS1></AT1> <AT1>Entendí <WS2>por qué <AC1>Chaplin es un gran actor.</AC1></WS2></AT1> <AI1>Me gusta música de ese video también.</AI1> <Y2><AC1><Y3>El niño o niña es bonito,</Y3></AC1> pero <AC1>es pobre.</AC1></Y2> <AI1>Me gusta Chaplin.</AI1> <Y1><AT1>Quiero <WS1><AT1>ver otros videos de Chaplin.</AT1></WS1></AT1> Y <AT1>también quiero <WS1><AI1>saber sobre el nacimiento de Chaplin.</AI1></WS1></AT1></Y1>

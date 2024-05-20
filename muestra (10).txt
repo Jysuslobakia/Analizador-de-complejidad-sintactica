@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_13_14_2_14_ALA
+Year data collection: 2019
+Placement test score (raw): 13 / 43
+Placement test score (%): 30.2
+Proficiency: Upper beginner
+Sex: Male
+Age: 14
+School/University/Institution: Escola Secundária Dr. Joaquim G. F. A.
+Major: 
+Year at university/school: 9º
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Inside classroom
+Resources used: Spellchecker
+Text: <AI1>Al principio viene un hombre,</AI1> <Y1><AI1>detente</AI1> y <AT1>enciende un cigarrillo,</AT1> <AT1>encontró un bebé abandonado,</AT1> <AT1>intenta darle a una mujer <WX4>porque pensó <WS1>que <AC1>era de ella</AC1></WS1></WX4></AT1>. <Y2><AI1>La mujer se quejó</AI1> e <AT1>Charles Chaplin voltó a dejar el bebé abandonado</AT1> pero <Y1><AI1>un policia aperció en su frente</AI1> e <AT1>el tieve que volver a llevar el bebé .</AT1></Y1></Y2> <Y1><AI1>Apareció un hombre</AI1> e <AT1>el le dio
+el bebe para sus brazos</AT1> y <AT1>cogió.</AT1></Y1> <AT1>Más tarde ese mesmo hombre dejó em bebé com la mujer do principio,</AT1> </AI1>la mujer procurava em Charles Chaplin,</AT1> <WX6>quando <Y1><AT1>encontró le deo o bebé</AT1> e <AT1>Charles Chaplin se quedó com ello.</AT1></Y1></WX6>

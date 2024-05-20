@@ -1,0 +1,45 @@
+Subcorpus: Learners
+Filename: AR_WR_39_25_7_14_MM
+Year data collection: 2019
+Placement test score (raw): 39 / 43
+Placement test score (%): 90.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 25
+School/University/Institution: Universidad de jordania
+Major: Universidad de jordania
+Year at university/school: 2012
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 7
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Arabic)
+Text: <AC1>Erase una vez habia un hombre <WR1>que <Y1><AI1>paseaba en un barrio antiguo,</AI1> <AT1>tenia casi 30 años</AT1> y <AT1>le acompañaba su palo.</AT1></Y2></WR1></AC1> <AT1>De repente, encontrò un bebè sin sus padres, <WR2><AC1>solo al lado de una basura.</AC1></WR2></AT1> <WS1>?Hombre <AC2>quien es este niño tan guapo?</AC2></WS1> <AI1>Se preguntaba.</AI1> 
+<Y1><AT1>El hombre llevò al niño</AT1> y <AT1>empezò a buscar sus padres.</AT1></Y1> <Y2><Y1><AI1>De vez en cuando apareciò una mujer con su carrio</AI1> y <AT1>el hombre directamente puso el niño en el carrio</AT1></Y1> pero <Y1><AC1>la mujer se puso enojada</AC1> y <AT1>le dio el niño.</AT1></Y1></Y2> <AC3>! No es Mio !</AC3> <Y1><AT1>El hombre devolviò el niño</AT1> y <AI1>al mismo tiempo aparecio la policia.,</AI1></Y1> <Y1><AT1>con una cara llena de miedo el hombre llevò el niño otra vez</AT1> y <AI1>saliò del barrio</AI1> 
+<Y1><AI1>Otro hombre apareciò</AI1> y <AT1>se le dio el niño</AT1>
+<Y1><AT1>Aquel hombre no tenía paciencia</AT1> y <AT1>encontrò otra vez la mujer con el carrio</AT1> y <AT1>puso el niño en el carrio</AT1> y <AI1>luego la mujer volvio al carrio</AT1> y
+<AT1>encontro en el niño</AT1> y <AT1>lo devolvio al primer hombre</AT1>
+<AC3>Dios mio parece <WS1>que <AI3>nada me ayudara en dejar este niño,</AI3></WS1></AC3> <AT3>le voy a cuidar.</AT3>

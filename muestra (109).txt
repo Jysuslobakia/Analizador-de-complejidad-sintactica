@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_31_20_1_14_MZ
+Year data collection: 2019
+Placement test score (raw): 31 / 43
+Placement test score (%): 72.1
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Universidad de Granada
+Major: 
+Year at university/school: Curso 3
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 19
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2019
+Stay abroad (months): 5
+Language certificates (type and level): SIELE (B1-B2)
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.25 / 6
+Additional foreign language(s): French, English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AT1>En el videoclip, hay un hombre (Charlie Chaplin) <WR1>que <AI1>marcha en la calle, tranquilo.</AI1></WR1></AT1> <AT1>El encuentre a un bebe cerca de la basura, <WR2><AC1>abandonado.</AC1></WR2></AT1> <Y2><AT1>Cree <WS1>que <AC1>el bebe es el hijo de una mujer <WR1>que <AI1>camine en la calle con su proprio bebe,</AI1></WR1></AC1></WS1></AT1> pero, <AC1>este no fue correcto.</AC1></Y2> <Y2><AT1>Después, pruebe a poner el bebe otra vez cerca de la basura,</AT1> pero <AT1>un (policeman) lo prohibí de <WS1><AT1>hacer este.</AT1></WS1></AT1></Y2> <Y1><AT1>Entonces, Chaplin dio el bebe a un otro hombre en la calle</AT1> y <AT1>este hombre poni el bebe en la (babycart) de la mujer de antes.</AT1></Y1> <Y1><AC1>Ella estaba muy emojonada</AC1> y <AT1>dio el bebe a Chaplin otra vez.</AT1></Y1> <Y1><AI1><WX6>Sin saber <WS2>que <AT1>hacer,</AT1></WS2></WX6> Chaplin se sentado con el bebe, <AI1><AC1>desesperado, </AC1> y <AT1>encuentre a una carta en la ropa del bebe.</AT1> <AT1>En esta carta se escribí: <WS1><Y1><AT1>"Ten cuidado</AT1> y <AT1>ama este orfano bebe por favor".</AT1></Y1></WS1></AT1>

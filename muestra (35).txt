@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_19_46_2_14_SK
+Year data collection: 2018
+Placement test score (raw): 19 / 43
+Placement test score (%): 44.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 46
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 44
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 1805
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Greek)
+Text: <Y1><AI1>Un hombre camina en la caiie</AI1> y <AT1>de repente ve a un bebe en el camino.</AT1></Y1> <Y2><AT1>El mira a alrededor</AT1> pero <AT1>no ve niguin.</AT1></Y2> <Y1><Y2><AT1>trata de dejar en algun parte</AT1> pero <AT1>no io ne</AT1></Y2> y <AT1>asi se abraza</AT1> y <AI1>se sienta</AI1> y <AT1>encuentra una nota <WR1>que <Y2><AT1>escribe algo el amor</AT1> pero <AC1>esta ingles</AC1></Y2></WR1></AT1> y <AT1>no entiendo nada</AT1></Y1> <AT1>no tengo otras palabras <WX3>para <AT1>escribe</AT1></WX3></AT1>

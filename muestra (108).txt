@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_30_23_0.25_14_PM
+Year data collection: 2018
+Placement test score (raw): 30 / 43
+Placement test score (%): 69.8
+Proficiency: Upper intermediate
+Sex: Female
+Age: 23
+School/University/Institution: Πανεπιστήμιο Μακεδονίας
+Major: Βαλκανικών, Σλαβικών και Ανατολικών Σπουδών
+Year at university/school: 6ο
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 23
+Years studying Spanish: 0.25
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.75 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Greek)
+Text: <AI1>Charlie Chaplin ha pasado, <WX6>cuando <AT1>vio un niño en la calle.</AT1></WX6></AI1> <AC1>El niño estaba solo.</AC1> <Y1><AT1>Charlie lo recogio,</AT1> y <AT1>comencé a buscar a sus padres.</AT1></Y1> <Y1><AT1>Vio una mujer con un carro de bebe, <WR1>que <AI1>ha pasado en la calle, </AI1></WR1></AT1> У <AT1>el dijo a ella <WS1>que <AT1>dejo <WS1><AT1>caer algo.</AT1></WS1></AT1></WS1></AT1></Y1> <Y2>Pero <AC1>el niño no es suyo.</AC1></Y2> <Y2><AT1>Después, fue a dejarlo <WX5>donde <AT1>lo encontró</AT1></WX5></AT1> pero <AT1>vio a un policía.</AT1></Y2> <Y1><AT1>Charlie recogio el niño otra vez,</AT1> y <AI1>comencé caminar.</AT1></Y1> <Y1><AT1>En la calle, encontró un hombre,</AT1> y <AT1>dejó el niño con el, <WR2>quien <AT1>otra vez, déjolo a la mujer.</AT1></WR2></AT1></Y1> <AI1>El policia aparecio de nuevo.</AI1> <AT1>Charlie recogio el niño,</AT1> <AI1>se sentó en la acera <WX6>cuando <AT1>encontró una nota en la manta del bebé.</AT1></WX6></AI1> <AT1>La nota decía <WS1><AT1>"Cuida a este niño huérfano".</AT1></WS1></AT1>
