@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_12_18_2.5_14_AJ
+Year data collection: 2019
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 18
+School/University/Institution: Escola secundária Campos melo
+Major: Profissional psicossocial
+Year at university/school: 12 ano
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 2
+Where the task was done: Inside classroom
+Resources used: Background readings about the task topic (newspapers, internet, TV, etc.)
+Text: <AT1>resumo do video do charlie chaplin</AT1>  <AT1>acolheu um niño pequeno ahahahahhahahabahahahanajajahahhahahahahahahahahahahahahahahahahahahhahahababababababababababababababababababbabababsbababababababahahababahahahahahhahahahahahahahahahahahahhahahahahahhahahahajajjahahahahahahahahahhahahahajajajhajajajahjajajajjajsjsjjajajajajsjwhjajajsjsjsnsjjsnajsjsjsjsjsjsjsnnsjsjsnsjnshajsjsjsjsjjsjsjsjsVbbbbvvggikendjkdk</AT1>

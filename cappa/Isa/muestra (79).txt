@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_21_17_6_14_RC
+Year data collection: 2019
+Placement test score (raw): 21 / 43
+Placement test score (%): 48.8
+Proficiency: Lower intermediate
+Sex: Male
+Age: 17
+School/University/Institution: Segundaria campos melo
+Major: Técnico de manutenção industrial
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 6
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 2.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 1
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1>És mucho gaupo y interessante.</AC1> <AT1>Gostei mucho del vidio <WX1>pois <AT1>El Chaplin tentou <WS1><AT1>dar mucha vezes El ninho</AT1></WS1></AT1></WX1></AT1> <AT1>y acabou por ficar com nel, <WX2>apesar de <AT1>ter fugio de tudo y de todos.</AT1></WX2></AT1> <Y1><AT1>Al final, Charlot ficou com el 
+<WX1>pois <AT1>encontro um bilhete  ninho</AT1></WX1></AT1> y <AI1>vicierem felizes para sempre hahays ahsbusbe uabshhsuw hsnsbsusn nsjwjbdue shs sue JS dhd sjd dj dhd sjd shs sjsbjs sj sjsnsijsis sjsjoa sucnc xidnis sixnxindismsixn xjsksns</AI1></Y1>

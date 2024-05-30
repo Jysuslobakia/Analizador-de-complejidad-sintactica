@@ -1,0 +1,9 @@
+muestra (4)
+
+<AC1>És una película de charlin Chaplin , <WR1>donde <AT1>este encuentra un bebê abandonado <WR1>que <AT1>precisa de amor e cari no.</AT1></WR1></AT1></WR1></AC1> 
+<AC1>Charlin és um hombre muy amoroso <WR1>que <AT1>quier tomar conta de lo Chico.</AT1></WR1></AC1> 
+<AT1>charlin encuentra um bilhete com una mensajem muy  interessante .
+<WR1>Donde <AT1>este tiene que tomar cuenta de una vida muy precisosa.</AT1></WR1></AT1> 
+<AT1>Yo no sei escribir muy bien espanol, <AC1>estou fazendo um texto .</AC1>
+<AT1>No se escribir..</AT1>
+<AT1>A mi me gusta mucho.</AT1>

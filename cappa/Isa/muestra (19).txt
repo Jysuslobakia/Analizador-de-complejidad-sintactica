@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: JP_WR_18_20_2_14_TW
+Year data collection: 2020
+Placement test score (raw): 18 / 43
+Placement test score (%): 41.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 20
+School/University/Institution: Seisen
+Major: Lengua y literatura española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Z>Muy interesante.</Z> <AT1>Primero, algunos perdió entre chaprin.</AT1> <AT1>Segúndo él vió bebé cerca de casa.</AT1> <AT1>Él quieré si alugna madre <WR1><AT1>tiene el bebé.</AT1></WR1></AT1> <Y2><AT1>Por eso, el se sienta a bebé de caja para bebés de alguna madre.</AT1> Pero <AT1>la madre ingoré.</AT1></Y2>
+<AT1>Pero, Él vió la carta.</AT1> <AT1>Padre de este bebé escríto <WS1><AT1>“I love baby.</AT1> <AT1>Take care for baby”</AT1></WS1></AT1> <AT1>Y él amío bebé.</AT1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_27_19_1_14_LK
+Year data collection: 2019
+Placement test score (raw): 27 / 43
+Placement test score (%): 62.8
+Proficiency: Lower intermediate
+Sex: Male
+Age: 19
+School/University/Institution: جامعة
+Major: جامعة كفرالشيخ
+Year at university/school: 2019
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y1><AT1>En esta video hay un hombre <WR1>que <AI1>marchó en la calle</AI1></WR1></AT1> y <AT1>otro hombre lanzó un bebé de la terraza</AT1></Y1> y <Y2><Y1><AT1>después el primero hombre tomó este bebé</AT1> y <AT1>qiso <WS1><AT1>darlo a una mujer <WR1>que <AT1>tiene otra bebé también</AT1></WR1></AT1></WS1></AT1></Y1> pero <AT1>el mujer pegió el hombre <WX4>por eso <AT1>el hombre dejió el bebé solo en la calle</AT1></WX4></AT1></Y2> <Y1><AT1>pero la policía vio esto <WX4>por eso <AT1>tomió el bebé otra vez <WX6>hasta <AT1>vio un hombre <WR1>que marchó en la calle</WR1></AT1></WX6></AT1></WX4></AT1> y <AT1>dio el bebé a este hombre</AT1></Y1> y <AT1>el hombre lanzó a la misma mujer <WR1>que tiene otra bebé.</WR1></AT1> <Y2><Y1><AT1>después la polícia vino y <WX2>por eso <AT1>el hombre tomó el bebé otra vez</AT1></WX2></AT1> y <AT1>quiso <WS1><AT1>lanzarlo en bajo dela tierra</AT1></WS1></AT1></Y1> pero <AT1>al final le gusta este bebé</AT1></Y2>
