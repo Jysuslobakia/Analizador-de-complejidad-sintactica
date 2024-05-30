@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_28_34_1_14_BB
+Year data collection: 2018
+Placement test score (raw): 28 / 43
+Placement test score (%): 65.1
+Proficiency: Lower intermediate
+Sex: Female
+Age: 34
+School/University/Institution: CUNY New York City College of Technology
+Major: Human Services
+Year at university/school: 2018
+L1: English
+Father's native language: French
+Mother's nativelanguage: French
+Languages spoken at home: English
+Age of exposure to Spanish: 21
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3 / 6
+Additional foreign language(s): Creole
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 17
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish)
+Text: <AT1>El corto video mostró a Charles Chaplin, <WR2><AI1>un hombre extraño caminando por la calle <WX6><AI1>fumando un cigarrillo.</AI1></WX6></AI1></WR2></AT1> <AT1><WX6><AI1>Mientras caminaba,</AI1></WX6> encontró un bebé en la calle.</AT1> <AI1>Chaplin estaba tratando de <WS1><AT1>devolver el bebé a todas las mujeres <WR1>que <AT1>pensaba <WS1>que <AC1>eran las madres del niño.</AC1></WS1></AT1></WR1></AT1></WS1></AI1> <AT1><WX6>Después de <WS1><AT1>intentarlo varias veces,</AT1></WS1></WX6> nadie se llevaba al bebé.</AT1> <Y1><AI1>Se sentó</AI1> y <AT1>encontró una nota en la manta del bebé.</AT1></Y1> <AT1>Él dijo, <WS1><Y1><AT4>"por favor, ama</AT4> y <AI4>cuida de este niño huérfano."</AI4></Y1></WS1></AT1> <Y1><AI1>Sonrió,</AI1> <AT1>sostuvo al bebé</AT1> y <AI1>se alejó.</AI1></Y1>

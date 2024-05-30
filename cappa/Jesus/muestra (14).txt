@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_31_19_3_14_HSC
+Year data collection: 2020
+Placement test score (raw): 31 / 43
+Placement test score (%): 72.1
+Proficiency: Upper intermediate
+Sex: Male
+Age: 19
+School/University/Institution: Escola Secundária Campos Melo
+Major: Técnico Comercial
+Year at university/school: 12 ano
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 17
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): For 5 years
+Stay abroad (months): 1
+Language certificates (type and level): B2
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1>Es un video <WR1>que <AT1>demonstra muchas personas <WR1>intentando <AT1>abandonar um bebé.</AT1></WR1></AT1></WR1></AC1> <Y2><AT1>Chaplin queria <WS1><AT1>abandonar el bebe,</AT1></WS1> <WX5><AI1>havendo muchas cosas <WX3>para <AI1>no ficar con ele</AI1></WX3></AI1></WX5></AT1></Y2> pero <Y1><AT1>nunca conseguiu <WX1><AI1>devido a la polícia</AI1></WX1></AT1> y <AI1>a otras personas.</AI1></WX1></Y1> 
+<Y1><AT1>Chaplin itentou <WS1><AT1>poner el bebe en el chão,</AT1></WS1></AT1> <AT1>intentou <WS1><AT1>poner ele en un cochito de bebe,</AT1> <AT1>pediu para un senor <WS1><AT1>segurar el nino <WX6>enquanto <AT1>apertava los atacadores</AT1></WX6></AT1></WS1></AT1></WS1> e <AI1>saiu corriendo.</AI1></Y1> <WX5>Como <AT1>Chaplin nunca conseguiu <WS1><AT1>abandonar el bebe,</AT1></WS1></AT1></WX5> <PI1>fue quase obrigado a <Y1><WS1><AI1>ficar con ele</AI1></WS1> y <WS1><AI1>a cuidar del bebé.</AI1></WS1></Y1></PI1>

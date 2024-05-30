@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_42_19_6_14_CS
+Year data collection: 2017
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Male
+Age: 19
+School/University/Institution: UCLA
+Major: Linguistics
+Year at university/school: 2
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 13
+Years studying Spanish: 6
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2016
+Stay abroad (months): 2
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): Swahili
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>Un hombre <WR1>que <AI1>está caminando por la calle</AI1></WR1> descubre a un bebé abandonado al lado de aquel camino.</AT1> <Y1><AT1><WX5><AT1>Pensando en <WS1><AT1>devolverlo a su madre,</AT1></WS1></AT1></WX5> él ve a una mujer <WS1><AT1>empujando a su proprio bebé</AT1></WS1> y <AT1>él cree <WS1>que <AC1>ella es la madre.</AC1></WS1></AT1></Y1> <Y1><AT1>Por eso él mete el bebé con el otro,</AT1> y <WX6><AI1>al regresar la mujer,</AI1></WX6> <AI1>ellos discuten</AI1> y <AT1>él aprende <WS1>que <AC1>ella no es la madre real.</AC1></WS1></AT1></Y1> <Y2><AI1><WX6><AI1>A continuar,</AI1></WX6> él piensa también en <WS1><AT1>abandonar el bebé <WR1>donde <AT1>lo encontró originalmente,</AT1></WR1></AT1></WS1></AI1> pero <Y1><AI1>un policía aparece</AI1> y <AT1>el hombre tiene que llevarlo de nuevo</AT1> y <AT1><WS1><AT1>buscar una solución mejor.</AT1></WS1></AT1></Y1></Y2> <Y2><Y1><AT1>Él le hace un truco a otro hombre, <WX5><AT1>dándoselo a él,</AT1></WX5> y <AI1>trata de escaparlo,</AI1></Y1> pero <Y1><AT1>el segundo hombre abandona el bebé con la mujer de antes,</AT1> y <AT1>ella le da al primer hombre el bebé a la vista del policía.</AT1></Y1></Y2> <Y2><AI1>Por fin, el hombre piensa en <WS1><AT1>abandonar el bebé,</AT1></WS1></AI1> pero <AT1>de verdad no quiere.</AT1></Y2> <Y1><AI1>De repente él se fija en una nota <WR1><AT1>dejado con el bebé</AT1></WR1> <WR1>que <AT1>dice <WS1><AT4>cuide a este huérfano,</AT4></WS1></AT1></WR1></AI1> y <AT1>decide <WS1><AI1>salir juntos con el bebé <WR1>a lo cual <AT1>él va a cuidar según la nota.</AT1></WR1></AI1></WS1></AT1></Y1>

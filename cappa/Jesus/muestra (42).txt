@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_31_34_1_14_RO
+Year data collection: 2019
+Placement test score (raw): 31 / 43
+Placement test score (%): 72.1
+Proficiency: Upper intermediate
+Sex: Female
+Age: 34
+School/University/Institution: Cervantes/ Amman
+Major: Universidad de Jordania
+Year at university/school: 
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 33
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 1
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y1><AT1>El video sobre un hombre (Chaplin) <WR1>que mientras <Y1><AI1>esta caminando en la calle</AI1> y <AI1>fumando,</AI1></Y1></WR1> ha encontrado un nino tiene un mes (mas o menos)</AT1> y <AT1>se pone al lado de basura en suelo,</AT1></Y1> <Y2><Y1><AT1>el hombre ha levantado el nino</AT1> y <AT1>lo ha puesto en un coche con otro nino</AT1></Y1> pero <AI1>el madre del otro nino no ha estado acuerdo <WX3>porque <AC1>no es su hijo,</AC1></WX3></AI1></Y2> <Y1><AT1>por eso el hommbre ha probado <WS1><AT1>dar el nino por otra persona en la calle</AT1></WS1></AT1> y <AI1>ha escapado,</AI1></Y1> <Y1><AT1>este persona ha puesto el nino en el mismo coche otra vec</AT1> y <AI1>ha escapado.</AI1></Y1> <Y1><AT1>La madre ha visto Chaplin</AT1> y <AT1>ha devuelto el nino por el.</AT1></Y1> <Y1><AT1>Finalmente Chaplin, ha encontrado un papel en la ropa del nino</AT1> y <AT1>se escribe <WS1>que <AC1>el esta orphan.</AC1></WS1></AT1></Y1>

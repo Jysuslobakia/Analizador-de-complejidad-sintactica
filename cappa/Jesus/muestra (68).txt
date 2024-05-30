@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: GR_WR_41_34_8_14_MB
+Year data collection: 2018
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Male
+Age: 34
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 22
+Years studying Spanish: 8
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2009
+Stay abroad (months): 1
+Language certificates (type and level): Dele B2
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 9
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1><WX6><AC1>Erase un dia</AC1></WX6> un hombre <WR1>que,<WX6><AT1>mientras buscaba en la basura</AT1></WX6> <AC1>-probablemente fuera vagabundo-</AC1></WR1> encontro un bebe abandonado</AT1> <Y1><AT1>De repente, vio a una mujer con un niño en la carroza</AT1> y <AT1>supuso <WS1>que ‹ACI>era su madre.</AC1></WS1></AT1> <Y1><Y2>Pero <AT1>la mujer le devolvio el bebe</AT1> y <AT1>el hombre lo dejo en la esqina al lado de la cuba de basura.</AT1></Y2></Y1> <Y1><Y2>Sin embargo, <AT1>un policia lo miro</AT1> y <AT1>lo ordeno <WS1><AT1>coger el bebe.
+</AT1></WS1></AT1></Y1></Y2> <AT1>Al final, el hombre, <WX6>despues de <WS1><AT1>leer una carta <WR1>que <AT1>encontro al azar dentro de su ropa procedente de su madre,</AT1></WR1> </AT1></WS1>decidio <WS1><AT1>crecerlo.</AT1></WS1></AT1>

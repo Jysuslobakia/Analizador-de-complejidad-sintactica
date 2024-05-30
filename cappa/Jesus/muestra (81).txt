@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_41_20_7_14_CP
+Year data collection: 2016
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Male
+Age: 20
+School/University/Institution: Haverford
+Major: Political Science
+Year at university/school: 3rd
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 12
+Years studying Spanish: 7
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Mexico
+Stay abroad (when): 2000, 2012, 2014
+Stay abroad (months): 1.5
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Charlie estaba andando por la calle <WX6>cuando <AI1>le cayó basura por una ventana.</AI1></WX6></AI1> <Y1><AI1>Paró <WX3>para <AT1>encendir otro cigarillo,</AT1></WX3></AI1> y <AI1>se dió cuenta <WS1>que <AI1>había un bebé solito en la calle.</AI1></WS1></AI1></Y1> <Y2><AT1>Lo cogió,</AT1> pero <AT1>no querría un bebé por nada.</AT1></Y2> <AI1>Entonces un madre con otro bebé pasó por la calle.</AI1> <Y2><AT1>El lo dejo con ella,</AT1> pero <Y1><AI1>ella se enfadó</AI1> y <AT1>lo devolvió inmediatamente.</AT1></Y1></Y2> <Y2><AT1>Charlie intentó dejar el bebé con un anciano tambien,</AT1> pero <Y1><AT1>el anciano lo dejo con la madre,</AT1> y <WX6>cuando <AT1>ella vió a Charlie en seguida,</AT1></WX6></Y1><Y2> <Y1><AT1>le dió golpes con su paraguas</AT1> y <AT1>se lo mandó <WS1><AT1>tomar.</AT1></WS1></AT1></Y1> <Y1><AI1>Por fin, Charlie vió que había una nota en el bebé: <AT4>"por favor, cuide a este huerfano."</AT4> <AT1>Y decidió <WS1><AT1>hacerlo.</AT1></WS1></AT1></Y1>
