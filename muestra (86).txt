@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_36_16_5_14_CICA
+Year data collection: 2019
+Placement test score (raw): 36 / 43
+Placement test score (%): 83.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 16
+School/University/Institution: Escola Secundária Campos Melo
+Major: Profissional Técnico de Receção
+Year at university/school: 11°
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 3.75 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Inside classroom
+Resources used: Spellchecker
+Text: <Y1><AT1>Chaplin ve un bebe en una calle desierta abandonado</AT1> e <AT1>decide <WS1><AT1>investigar <WS1>quién <AC1>és <Y3>la madre o lo padre.</Y3></AC1></WS1></AT1></WS1></AT1></Y1> <Y1><AT1>Primero ve una mujer <WR1><AI1>passeando con un coche de bebe</AI1></WR1></AT1> e <Y2><AT1>el piensa <WS1>que <AT1>ella dejo <WS1><AI1>caer el bebe</AI1></WS1></AT1></WS1></AT1> pero <AC1>lo bebe no es deja mujer./AC1></Y2></Y1> <Y2><AT1>Después el tienta <WS1><AT1>dejar el bebe con un hombre</AT1></WS1></AT1> pero <AT1>el acaba por dejar el bebe no coche de bebe de la otra mujer.</AT1></Y2> <Y1><AT1>La misma mujer ve el Chaplin</AT1> e <AT1>piensa <WS1>que <AC1>fue el <WR2>que <AT1>dejó el bebe en el coche <WX3><AT1>haciendo con <WS1>que <AI1>Chaplin fuese buscar ele bebe.</AI1></WS1></AT1></WX3></AT1></WR2></AC1></WS1></AT1></Y1> <Y1><AT1>Por fin, Chaplin procura alguna cosa sobre ele bebe</AT1> e <AT1>encuentra un billete <WX5><AT1>pidiendo <WS1>para que <AT1>alguien cuidase dese bebe orfan</AT1></WS1></AT1></WX5></AT1></Y1>

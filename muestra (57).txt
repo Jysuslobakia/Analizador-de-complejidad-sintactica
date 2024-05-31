@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_41_29_11_14_M
+Year data collection: 2019
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Male
+Age: 29
+School/University/Institution: Universidad Rey Saud
+Major: Universidad Santiago de Compostela
+Year at university/school: Máster de lingüística aplicada
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic, Spanish
+Age of exposure to Spanish: 18
+Years studying Spanish: 11
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2016
+Stay abroad (months): 36
+Language certificates (type and level): CILE (C2)
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper advanced (C2)
+Proficiency (self-assessment): 6 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y2><AT1>En la vida nos ocurren cosas inesperadas,</AT1> pero <AT1>nos cambia la vida.</AT1></Y2> <AI1><WX6><AI1>Mientras sucede este cambio,</AI1></WX6> pasamos por muchos <Y1>obstáculos y perjuicios.</Y1></AI1> <AT1>Ocultamos los prejuicios que lanza la gente, <WX5><AT1>según lo que vea.</AT1></WX5></AT1> <Y1><AT1>A veces nos cansa este cambio</AT1> y <AT1>nos deja ante la opción <WR1><AI1>de rendirnos.</AI1></WR1></AT1></Y1> <AI1>Sin embargo, <Y1><WX3>para <AT1>alcanzar este objetivo</AT1> y <AI1>llegar a <WS1>lo que <AC1>ha sido destinado,</AC1></WS1></AI1></WX3> hay <WS1>que <AI1>seguir hasta el final</AI1></WS1></AI1> y <AT1>ver <WS1>a dónde <AI1>nos llevaría.</AI1></WS1></AT1></Y1> <AT1>No siempre las cosas significan <WS1>como <AC1>a nosotros nos parece.</AC1></WS1></AT1>

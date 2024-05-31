@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_42_26_7_14_JQ
+Year data collection: 2019
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Male
+Age: 26
+School/University/Institution: College of Language and Translation
+Major: King Saud University
+Year at university/school: Graduado 2015
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 19
+Years studying Spanish: 7
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2012-2013, 2017-2019
+Stay abroad (months): 34
+Language certificates (type and level): SIELE (C1)
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <Y1><AI1>Chaplin va caminando por la calle</AI1> y, <AT1><WX6>mientras <AT1>saca la cajita de tabaco,</AT1></WX6> se encuentra con un bebé abandonado en una esquina.</AT1></Y1> <AT1>Al principio, intenta <WS1><AT1>ayudarle <WX6>cuando <AT1>ve a una señora con un carrito,</AT1></WX6></AT1></WS1></AT1> <Y1><AT1>piensa <WS1>que <AC1>es su hijo</AC1></WS1></AT1> y <AI1>se va corriendo hacia la señora <WX3>para <AT1>devolvérselo.</AT1></WX3></AI1></Y1> <Y1><AI1><WX6>Al <AT1>poner el bebé en el carrito,</AT1></WX6> viene la señora</AI1> y <AT1>le grita <WS1>que <AC1>no es su hijo</AC1></WS1> y <WS1>que <AT1>se lo quite.</AT1></WS1></AT1></Y1> <Y2><Y1><AT1>Enseguida se lo lleva</AT1> y <AT1>se va buscando a otra madre <WR1>que <AT1>se haya perdido su bebé.</AT1></WR1></AT1> Pero <AI1>se cansa</AI1> y <AT1>decide <WS1><AT1>devolverlo en su lugar <WR1>donde <AC1>estaba.</AC1></WR1></AT1></WS1></AT1></Y1></Y2> <Y1><AI1><WX6>Al <AT1>dejarlo en el suelo,</AT1></WX6> viene un policía</AI1> y <AI1>sospecha en Chaplin, <WX4>por lo que <AI1>este último actúa <WX5>como si <AI1>no hubiera nada</AI1></WX5></AI1></WX4></AI1> y <AT1>recoge el bebé</AT1> y <AI1>se va a otro sitio.</AI1></Y1> <Y1><AT1>En otra calle, se encuentra con un señor mayor</AT1> y <AT1>decide <WS1><AT1>darle el bebé</AT1></WS1></AT1> y </AI1>se escapa.</AI1></Y1> <Y1><AC1>El señor se queda impactado</AC1> y <AT1>no sabe <WS1>qué <AT1>hacer con el bebé!</AT1></WS1></AT1> Y <AT1><WX6>mientras <AI1>va caminando por una calle</AI1></WX6> encuentra un carrito parado fuera de una tienda</AT1> y <AT1>lo deja allí</AT1> y <AI1>sigue andando.</AI1></Y1> <Y1><AI1>En este momento, la señora sale de la tienda</AI1> y <AT1>se encuentra con un bebé más en su carrito.</AT1>/Y1> <AT1>Se da cuenta de <WS1>que <AI1>acaba de pasar por la misma calle Chaplin;</AI1></WS1></AT1> <AI1>le persigue,</AI1> <Y1><AT1>le pega con el paraguas</AT1> y <AT1>le ordena <WS1>que <AT1>lo quite de allí.</AT1></WS1></AT1></Y1> <Y1><AI1><WX6>Mientras <AI1>están discutiendo</AI1></WX6> viene la policía</AI1> y <AI1>se asusta Chaplin.</AI1></Y1> <Y1><AT1>Entonces, decide <WS1><AT1>llevar al bebé</AT1></WS1></AT1> y <AI1>irse.</AI1></Y1> <AI1>Al final, se sienta en la acera <WX5><AT1>pensando <WS1>qué <AT1>hacer con él...</AT1></WS1></AT1></WX5></AI1> <Y2><AT1>Intenta <WS1><AT1>tirar el bebé en el desagüe de lluvia</AT1></WS1></AT1> pero <AT1>no puede.</AT1></Y2> <Y1><AT1><WX5><AT1>Al registrar el bebé,</AT1></WX5> encuentra un papelito <WR1>que <AT1>le hace feliz</AT1></WR1></AT1> y <AT1>decide <WS1><AI1>llevarse al niño con él.</AI1></WS1></AT1></Y1>

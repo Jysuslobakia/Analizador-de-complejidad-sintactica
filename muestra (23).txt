@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_41_45_3_14_AMQAMR
+Year data collection: 2019
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Female
+Age: 45
+School/University/Institution: Universidade de Évora
+Major: Línguas, Literaturas e Culturas, Perfil Estudos Portugueses e Espanhóis
+Year at university/school: 
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 30
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.5 / 6
+Additional foreign language(s): English (C1), French (A1)
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>El famoso comediante, <Y1>mundialmente conocido, y uno de los genios del cine,</Y1> en este cortometraje, nos trae una historia <Y1>comoviente y <WR2>que <AT1>al mismo tiempo tine un excelente sentido del humor.</AT1></WR2></Y1></AT1>
+<Y1><AI1>Chaplin va caminando por la calle</AI1> y <AT1>encuentra a un bebé.</AT1></Y1> <Y1><AI1>No hay nadie cerca</AI1> y <AT1>Chaplin lo coge</AT1> y <AT1>intenta <WS1><AT1>ver a <WS1>quien <AT1>pertenece.</AT1></WS1></AT1></WS1></AT1></Y1> <Y2><Y1><AI1>Va pasando una señora con su hijo en un coche de bebé</AI1> y <AT1>él intenta dejarlo con ella,</AT1></Y1> pero <AT1>la señora no lo quiere <WX1>porque <AC1>no es su hijo.</AC1></WX1></AT1></Y2> <Y2><AT1>Chaplin intenta <WS1><AT1>entonces dejar el bebé <WX5>donde <AT1>lo ha encontrado</AT1></WX5></AT1></WS1></AT1> pero <Y1><AI1>aparece un policía</AI1> y <AT1>Chaplin vuelve a cogerlo.</AT1></Y1></Y2> <AT1>Lo intenta dejar entonces con un anciano, <WR2>que <AT1>deja el bebé en el coche de bebé de la señora.</AT1></WR2></AT1> <AI1><WX6>En el momento que <AI1>Chaplin pasa de nuevo junto a la señora,</AI1></WX6> ella se da cuenta de <WS1>que <AI1>el bebé ha sido colocado de nuevo en el coche de su hijo.</AI1></WS1></AI1> <AT1>Le pega a Chaplin con un paraguas.</AT1> <Y1><AT1>Chaplin encuentra un papel, en las ropas del bebé, <WR2>en que <AT1>se pide a <WS1>que <AT1>cuiden al niño huérfano.</AT1></WS1></AT1></WR2></AT1> Y <AI1>Chaplin se marcha con el bebé.</AI1></Y1>

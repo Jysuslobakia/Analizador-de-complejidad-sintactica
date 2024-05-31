@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_16_17_3.5_14_MA
+Year data collection: 2019
+Placement test score (raw): 16 / 43
+Placement test score (%): 37.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 17
+School/University/Institution: Escola
+Major: Profissional
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 15
+Years studying Spanish: 3.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): French
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: Help from a Spanish native speaker
+Text: <AT1>Chaplin encuentra un bebé perdido pelas calles de la aldeia.</AT1> 
+<Y2><Y1><AT1>Chaplin no quería el bebé.</AT1> Y <AT1>él quería <WS1>que <AI1>el bebé fuera con otra madre</AI1><WS1><AT1> y <AT1>el policía andaba vigilando el Chaplin.</AT1></Y1> Pero <AT1>luego el bebé terminó por quedarse con el Chaplin.</AT1></Y2>

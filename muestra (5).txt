@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_27_16_4_14_DSSP
+Year data collection: 2019
+Placement test score (raw): 27 / 43
+Placement test score (%): 62.8
+Proficiency: Lower intermediate
+Sex: Female
+Age: 16
+School/University/Institution: Escola Secundária Campos Melo
+Major: Técnico Administrativo
+Year at university/school: 11°
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): English, French
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Inside classroom
+Resources used: Help from a Spanish native speaker
+Text: <Y1><PI1>Fue encontrado un bebe por Charlie Chaplin</PI1> y <AT1>el pensaba <WS1>que <AC1>el bebe era de un señora <WR1>que </AI1>tinha passado con un cochecito de bebe</AI1></WR1></AC1></WS1></AT1> y <Y2><AT1>fue la dejalo</AT1> e <AC1>parece <WS1>que <AT1>ninguen o queria <WS1><AT1>e tentou</AT1></WS1></AT1></WS1></AC1> mais <AT1>una vez entregalo a un señor</AT1> e <AT1>esse señor fue dejalo no cochecito da miesma señora <WR1>que <AT1>Charlie Chaplin tinha tentado</AT1></WR1></AT1></Y2> y <AC1>el Charlie Chaplin é <WR2>que <AC1>fue el culpado de <WS1><AT1>la dejalo.</AT1></WS1></AC1></WR2></AC1></Y1> <AT1>Entoces Charlie Chaplin deciciu <WS1><AT1>ficar con elle.</AT1><WS1></AT1>

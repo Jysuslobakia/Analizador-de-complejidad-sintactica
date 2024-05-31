@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_41_39_15_14_KI
+Year data collection: 2018
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Female
+Age: 39
+School/University/Institution: ninguno
+Major: 
+Year at university/school: 
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 19
+Years studying Spanish: 15
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2002-2003, 2007-2010, 2017-2018
+Stay abroad (months): 60
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Chaplin estaba andando por la calle <WR1>que <AC1>parecía del barrio bajo.</AC1></WR1></AI1> <AT1>De pronto, encuentra un bebé abandonado.</AT1> <AI1>Pasa una señora con el carro de bebé,</AI1> <AT1>entonces él piensa <WS1>que <AC1>el bebé era de ella.</AC1></WS1></AT1> <Y2><AT1>Pregunta a la señora <WX0>si <AC1>era su bebé,</AC1></WX0></AT1> pero no,</Y2> <AT1>además la señora echa la bronca.</AT1> <Y2><AI1>Chaplin vuelve al lugar <WR1>donde <AT1>encontró el bebé</AT1></WR1> <WX3>para <AT1>dejarlo <WX5>donde <AC1>estaba,</AC1></WX5></AT1></WX3></AI1> pero <AI1>justo viene un policía.</AI1></Y2> <Y1><AT1><WX3>Para que <AC1>no aparezca raro,</AC1></WX3> Chalpin recoge el bebé otra vez</AT1> y <AI1>va caminando por otra calle.</AI1></Y1> <Y1><AI1>Cruza con un hombre</AI1> y <AT1>deja el bebé a él.</AT1></Y1> <AT1><WX1>Como <AT1>este hombre tampoco quiere,</AT1></WX1> deja el bebé al carro de la señora.</AT1> <Y1><AI1>Con mala suerte, Chaplin pasa por el carro</AI1> y <AT1>la señora echa bronca otra vez,</AT1></Y1> <AI1>encima pasa el policía otra vez.</AI1> <Y1><AT1>Sin otra opción, Chalpin recoge el bebé de nuevo</AT1> y <AI1>se sienta <WX3>para <AT1>averiguar <WX0>si <AT1>el bebé tenía algo <WR1>que <AT1>pueda mostrar su origen.</AT1></WR1></AT1></WX0></AT1></WX3></AI1></Y1> <AT1>Encuentra un papel <WR1>que <AT1>dice <WS1><AT1>"por favor, cuide este bebé huérfano".</AT1></WS1></AT1></WR1></AT1> <Y1><AT1>En seguida Chaplin se siente pena por el bebé</AT1> y <AT1>decide <WS1><AT1>cuidarlo de momento.</AT1></WS1></AT1></Y1>

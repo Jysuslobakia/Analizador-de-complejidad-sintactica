@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_38_28_3_14_GA
+Year data collection: 2018
+Placement test score (raw): 38 / 43
+Placement test score (%): 88.4
+Proficiency: Lower advanced
+Sex: Female
+Age: 28
+School/University/Institution: Πανεπιστήμιο Ιωαννίνων
+Major: Φιλολογία
+Year at university/school: 7ο
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 23
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2017
+Stay abroad (months): 10
+Language certificates (type and level): ΚΠΓ Γ2
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 5.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 4
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>En este video el protagonista camina por una calle en un barrio pobre.</AI1> <AT1>De repente ve un bebé <WR1>que <AT5>quizá sea abandonado.</AT5></WR1></AT1> <AT1>A continuación Chaplin intenta <WS1><AT1>a dar el bebé a un mujer<WR1> que <AT1>ya tiene su propio hijo.</AT1></WR1></AT1></WS1></AT1> <Y1><AT1>Ella de una manera muy cómica realiza su truco</AT1> y <AT1>le regresa el bebé.</AT1></Y1> <AT1>Pocos minutos después el protagonista intenta del nuevo <WS1><AT1>a dar el bebé esta vez a un hombre <WR1>que <AC1>parece <WS1>que <AC1>sea judío.</AC1></WS1></AC1></WR1></AT1></WS1></AT1> <Y1><AT1>Él entiende su plano</AT1> y <AT1>le da el bebé otra vez.</AT1></Y1> <Y1><AT1>Durante toda esta parte un policía observa toda la escena</AT1> y <AT1>intenta <WS1><AT1>impedirlo.</AT1></WS1></AT1></Y1> <Y1><AI1>Al final Chaplin se queda solo con el bebé</AI1> y <AT1>lee una noticia <WR1>que <AT1>descubre en su ropa.</AT1></WR1></AT1></Y1> <Y1><AT1><WX6>Cuando <AT1>el personaje por excelencia más clásico del arte séptimo realiza <WS1>que <AC1>el bebé está <Y1>solo y abandonado</Y1></AC1></WS1></AT1></WX6> se conmueve</AT1> y <AT1>decide <WS1><AT1>compartir su vida con su nuevo amiguete</AT1></WS1></AT1></Y1>

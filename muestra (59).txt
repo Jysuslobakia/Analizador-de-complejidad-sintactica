@@ -1,0 +1,56 @@
+Subcorpus: Learners
+Filename: JP_WR_2_19_0.5_14_TAG
+Year data collection: 2018
+Placement test score (raw): 2 / 43
+Placement test score (%): 4.7
+Proficiency: Lower beginner
+Sex: Female
+Age: 19
+School/University/Institution: teikyo universidad
+Major: espanola
+Year at university/school: 1
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 19
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): Mexico
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 
+Where the task was done: 
+Resources used: 
+Text: <AC1>Chaplin es antipatico.</AC1>
+
+<Y2><AC1>No no está grapo.</AC1>
+
+pero,<AC1>Chaplin es amabre.</AC1></Y2>
+
+<AT1>Veo a niño.</AT1> <AC1>Niño es grapo.</AC1> <AC1>Niño esta preocpado.</AC1>
+
+<AI1>Hay un niño <WR1><AC1>es nadie en parque.</AC1></WR1></AI1>
+
+<Y2><AI1>Chaplin esta salir de casa.</AI1> pero, <AI1>La policica  esta  vino.</AI1></Y2>
+
+<AI1>Vino a casa con nino.</AI1>
+
+<AC1>Chaplin es mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</AC1>
+
+mmmmmmmmmmmmmmmmmmmmmmm

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_10_24_0.5_14_AW
+Year data collection: 2017
+Placement test score (raw): 10 / 43
+Placement test score (%): 23.3
+Proficiency: Lower beginner
+Sex: Male
+Age: 24
+School/University/Institution: New york college of technology
+Major: LA
+Year at university/school: 2
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 22
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish), Spellchecker
+Text: <Y1><AI1>El hombre estaba caminando solo <WX3>paro <AT1>toma un cigarrilo</AT1></WX3></AI1> y <AT1>encontró un bebe en un rincón vacío.</AT1></Y1> <Y1><AI1>Hombre sala so bebe</AI1> y <AT1>no no sabe <WS1>a donde <AI1>ir.</AI1></WS1></AT1></Y1>  <PI1>Bebe fue abandonar.</PI1> <AT1>Trata de <WS1><AT1>darle al bebe a extranos.</AT1></WS1></AT1> <AT1>El hombre no le gusta el bebe en primero.</AT1> <AT1>la polica vio al tipo <WS1><AT1>tretar de <WS1><AT1>dejar al bebe.</AT1></WS1></AT1></WS1></AT1> <AT1>el hombre trata de <WS1><AT1>darle al bebé a otra madre.</AT1></WS1></AT1> <AI1>madre se enoja.</AI1> <AT1>la madre del bebé dejó a su niño <WX3>para <AC1>ser <Y1>amado y cuidado</Y1></AC1></WX3></AT1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_43_21_3_14_GSH
+Year data collection: 2019
+Placement test score (raw): 43 / 43
+Placement test score (%): 100
+Proficiency: Upper advanced
+Sex: Female
+Age: 21
+School/University/Institution: الجامعة الاردنية
+Major: لغات اسباني انجليزي
+Year at university/school: الثالثة
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 1
+Language certificates (type and level): ESPAñOL B2
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 3.5 / 6
+Additional foreign language(s): English, Turkish
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Arabic)
+Text: <AI1>Había un hombre pobre que <WR1><AT1>fumaba cigarros usados.</AT1></WR1></AI1> <AI1>Estaba paseando <WX6>cuando <AT1>encontró un bebé <WR1>que <AI1>estaba llorando.</AI1></WR1></AT1></WX6></AI1> <AT1>Lo cogió en  brazos <WX3>para que <AT1>dejara de <WS1><AI1>llorar.</AI1></WS1></AT1></WX3></AT1> <Y1><Y2><AT1>Luego intentó dejarlo en un carrito junto con otro bebé</AT1> pero <AT1>la madre lo vio</AT1></Y2> y <AT1>tuvo <WS1>que <AT1>cogerlo otra vez.</AT1></WS1></AT1></Y1> <AT1>Entonces decidió <WS1><AT1>dejarlo <WX5>donde <AT1>lo vio por primera vez.</AT1></WX5></AT1></WS1></AT1> <Y1><AT1><WX6>Mientras <AT1>lo estaba dejando,</AT1></WX6> lo vio el policía</AT1> y <AT1>pensó <WS1>que <AC1>el bebé era del hombre</AC1></WS1> y <WS1>que <AT1>queria <WS1><AT1>deshacerse de él.</AT1></WS1></AT1></WS1></AT1></Y1> <Y2><AT1>Intentó en varias ocasiones <WS1><AT1>deshacerse del bebé</AT1></WS1></AT1> pero <AT1>no pudo.</AT1></Y2> <Y1><AT1>Luego vio una nota <WR1>que <AT1>tenía el bebé en su manta</AT1></WR1></AT1> y <AT1>decidió <WS1><AT1>quererlo</AT1></WS1></AT1> y <AT1>cuidarlo.</AT1></Y1>

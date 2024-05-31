@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_34_20_3.5_14_SAA
+Year data collection: 2018
+Placement test score (raw): 34 / 43
+Placement test score (%): 79.1
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Universidad Seisen
+Major: Lengua y literatura española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 17
+Years studying Spanish: 3.5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Costa Rica
+Stay abroad (when): 
+Stay abroad (months): 1
+Language certificates (type and level): 西検　3級
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese), Monolingual dictionary (Spanish)
+Text: <AT1>En esta película, un hombre encontró un bebé en una calle al azar.</AT1> <Y2><Y3><AT1>Al principio, él lo trató <WS1><AT1>de dejar al borde del camino</AT1></WS1></AT1> o <AT1>lo confió a personas <WR1>que <AI1>pasaron,</AI1></WR1></AT1></Y3> pero <AI1>fracasaron sin excepción.</AI1></Y2> <Y2><AT1>El hombre no sabía <WS1>que <AT1>podía hacer,</AT1></WS1></AT1> pero <AT1><WX6>después de que <Y1><AT1>halló</AT1> y <AT1>leyó una carta con que el bebé,</AT1></Y1></WX6> decidió <WS1><AT1>encargárselo.</AT1></WS1></AT1></Y2> <AT1>No creo <WS1>que <AT1>él no tenga alma.</AT1></WS1></AT1> <AT1>Me interesa mucho la continuación del relato.</AT1>

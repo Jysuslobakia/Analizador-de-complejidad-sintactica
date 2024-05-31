@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_29_20_4_14_HO
+Year data collection: 2018
+Placement test score (raw): 29 / 43
+Placement test score (%): 67.4
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: 上智大学
+Major: 外国語学部英語学科
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 15
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese)
+Text: <AT1><WX6>Cuando <AI1>un hombre estaba andando</AI1></WX6> se dejó un niño muy pequeño en la calle.</AT1> <AI1>Estaba llorando.</AI1> <Y1><AT1>El hombre tomó el niño</AT1> y <AT1>estaba buscando su madre.</AT1></Y1> <Y2><AT1>Primero, encuentró una mujer con un niño en un¨coche¨ para dos niños</AT1> pero <AC1>ella no fue la madre del niño <WR1>que <AT1>el hombre toma.</AT1></WR1></Y2> <WX4>Por eso <AT1>él dejó el niño a lugar <WR1>donde <AT1>se dejó en primera vez.</AT1></WR1></AT1></WX4></AC1> <Y1><AI1>Ahí vino un policía</AI1> y <AT1>ordió <WS1>que <AT1>no deja el niño.</AT1></WS1></AT1></Y1> <Y1><AI1>El hombre salió de ahí</AI1> y <AT1>da el niño a un hombre con barba en la calle.</AT1></Y1> <Y1><AC1>El hombre con barba estaba nervioso</AC1> y <AT1>puso el niño a el coche del niños de la mujer enfrente de la tienda</AT1> y <AI1>se fue.</AI1></Y1> <Y1><AC1>No estaba la mujer ahí en el tiempo</AC1> y <AI1>luego ella volvió.</AI1></Y1> <Y1><AT1>Ella vió el hombre <WR1>que <AI1>estaba pasando la calle</AI1></WR1></AT1> y <AT1>dejó el niño a él muy fuerte con agony.</AT1></Y1> <Y1><AT1>Él tuve el niño otra vez</AT1> y <AI1>se sentó de la calle.</AI1></Y1> <Y1><AT1>Encuentró una carta en la ropa del niño</AT1> y <AT1>lo lee.</AT1></Y1> <Y1><AC1>Fue una carta con amor de la madre</AC1> y <AT1>decidió <WS1><AT1>llevar el niño a casa.</AT1></WS1></AT1></Y1>

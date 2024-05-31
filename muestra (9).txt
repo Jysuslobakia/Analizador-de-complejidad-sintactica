@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_35_20_0.5_14_CG
+Year data collection: 2019
+Placement test score (raw): 35 / 43
+Placement test score (%): 81.4
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: FCSH Universidade Nova de Lisboa
+Major: Ciências da Comunicação
+Year at university/school: 3º
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 20
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): Não tenho.
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 2.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 8
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y1><AI1>Chaplin vai caminando</AI1> y <AT1>fumando por la calle <WR1>donde <AT1>ha encontrado un bebe.</AT1></WR1></AT1></Y1> <AC1>El bebe esta solo <WX5><AI1>llorando.</AI1></WX5></AC1> <Y2><AI1>Chaplin corre el bebe</AI1> pero <AT1>no sabe <WS1>que <AT1>hacer.</AT1></WS1></AT1></Y2> <Y2><AT1>Lo ententa <WS1><AT1>dar a una señora <WR1>que <AI1>esta pasando por la calle</AI1></WR1></AT1></WS1></AT1> pero <AT1>ella no lo quier.</AT1></Y2> <AT1>Despois lo ententa <WS1><AT1>dar a un señor más viejo.</AT1></WS1></AT1> <AT1>El señor no puede quedarse con el bebe.</AT1> <AT1>Lo deija en un coche con otro bebe de la primera señora <WR1>que <AT1>Chaplin habia encontrado.</AT1></WR1></AT1> <AT1>Al final Chaplin se queda com el bebe.</AT1>

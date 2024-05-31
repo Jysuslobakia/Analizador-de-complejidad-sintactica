@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_23_22_4_14_DW
+Year data collection: 2018
+Placement test score (raw): 23 / 43
+Placement test score (%): 53.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 22
+School/University/Institution: City tech
+Major: Civil engineering
+Year at university/school: Senior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 13
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 25
+Where the task was done: Outside classroom
+Resources used: Help from a Spanish native speaker, Bilingual dictionary (English/Spanish)
+Text: <Y1><AI1>se trataba de un hombre <WR1>que <AT1>encontró un bebé abandonado</AT1></WR1></AT1> e <AT1>intentó <WS1><AI1>deshacerse del bebé.</AI1></WS1></AT1></Y1> <AT1>Trató <WS1><AT1>de dárselo a una mujer <WR1>que <AT1>pensó <WS1>que <AC1>era la madre <WX1>al <AT1>poner al bebé en su carrito <WR2>que <AT1>ya tenía un bebé.</AT1></WR2></AT1></WX1></AC1></WS1></AT1></WR1></AT1></WS1></AT1> <Y1><AT1>la mujer le dijo <WS1>que <AT1>sacara al bebé de la carriola</AT1></WS1></AT1> y </AI1>se fue.</AI1></Y1> <AT1>Luego trató <WS1><AT1>de darle el bebé a un anciano.</AT1></WS1></AT1> <AT1>el hombre trató <WS1>de <AI1>deshacerse del bebé <WX5><AT1>colocando al bebé en una carriola aleatoria, <WR2>que <AC1>resultó ser la columpio de la señora en <WR1>la que <AT1>el primer hombre intentó <WS1><AT1>meter al bebé.</AT1></WS1></AT1></WR1></AC1></WR2></AT1></WX5></AI1></WS1></AT1> <AT1>Finalmente decidió <WS1><AT1>cuidar al bebé.</AT1></WS1></AT1> <AT1><WX6>cuando <AT1>desglosó al bebé de su manta,</AT1></WX6> notó una nota atada.</AT1>

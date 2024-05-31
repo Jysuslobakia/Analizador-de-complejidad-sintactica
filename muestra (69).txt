@@ -1,0 +1,42 @@
+Subcorpus: Learners
+Filename: GR_WR_42_37_3_14_PCH
+Year data collection: 2018
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Female
+Age: 37
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 19
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): DELE C2
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y2><AT1>estimados senores, lo siento mucho</AT1> pero <AT1>no he podido ver el video.<AT1></Y2> <Y1><WX1>es que <AT1>no dispongo de MB de sobra</AT1></WX1> y <AI1>me quedare sin saldo.</AI1></Y1> <AT1>ademas, quisiera <WS1>que <AT1>me perdonaran <WX1>por <AT1>no haber escrito las tildes o la ene.</AT1></WX1></AT1></WS1></AT1> <AT1>me cuesta <WS1><AT1>mucho buscarlas en mi teclado!</AT1></WS1></AT1> 
+<AT1>de todas formas, he decidido <WS1><AT1>escribirles <WX3>para que <AI1>se den cuenta de mi nivel.</AI1></WX3></AT1></WS1></AT1> <AT1>espero <WS1>que <AT1>les haya ayudado.</AT1></WS1></AT1> <Y2><AC1>estoy segura de <WS1>que <AI1>se reiran <WX6><AT1>al leer mi textito.</AT1></WX6></AI1></WS1></AC1> pues, <AI1>no importa!</AI1></Y2>
+<AT1>les envio un saludo cordial.</AT1>

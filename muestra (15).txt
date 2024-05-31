@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_38_16_4_14_DT
+Year data collection: 2019
+Placement test score (raw): 38 / 43
+Placement test score (%): 88.4
+Proficiency: Lower advanced
+Sex: Male
+Age: 16
+School/University/Institution: ESDJGFA
+Major: Línguas e Humanidades
+Year at university/school: 11ºano Ensino Secundário
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Inside classroom
+Resources used: Monolingual dictionary (Spanish)
+Text: <AT1>Al inicio Chaplin tiene una discusión con su mujer, <WX5><AI1>quedando en la calle.</AI1></WX5></AT1> <AT1>En la calle Chaplin encuentra un bebé <WR1>que <AT1>no tiene <Y1>madre ni padre.</Y1></AT1></WR1></AT1> <Y1><AT1>El cre <WS1>que <AC1>el bebé es de una señora con un chico</AC1></WS1></AT1> e <Y2><AT1>el va dejar el chico cochecito</AT1> pero <AT1>la mujer devuelve el bebé <WX1>porque <AT1>ella diz <WS1>que <AC1>no eres de ella.</AC1></WS1></AT1></WX1></AT1></Y2></Y1> <Y2><Y1><AT1>Caplin no quiere <WS1><AT1>quedar con el chico</AT1></WS1></AT1> e <AT1>va a dejalo <WX5>donde <AT1>o encontró</AT1></WX5></AT1> e <AI1><WX6>enquanto <AT1>va a dejalo</AT1></WX6> aparece la policia</AI1> e <AT1>obrigalo a quedar con el bebé</AT1> pero <AT1>el encuntra un señor</AT1> e <AT1>deja el chico con el</AT1> e <AI1>se va a esconder <WX3>para <AT1>no quedar con el</AT1></WX3></AI1> pero <AT1>el señor <WR1>que <AT1>ahora tiene el chico</AT1></WR1> va a dejalo en el cochecito de la señora <WR1>que <AT1>chaplin tuvo problemas</AT1></WR1></AT1> e <AT1>con esso la señora encuentra Chaplin</AT1> e <AT1>le devuelve el bebé</AT1></Y1></Y2> <Y1><AT1>después de esso Chaplin encuentra una hoja de papel pedindo <WX3>para <AT1>tomar cuenta del chico</AT1></WX3></AT1> e <AT1>Chaplin decidió <WS1><AT1>quedar con el.</AT1></WS1></AT1></Y1>

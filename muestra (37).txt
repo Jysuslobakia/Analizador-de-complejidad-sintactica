@@ -1,0 +1,42 @@
+Subcorpus: Learners
+Filename: AR_WR_27_20_2_14_CK
+Year data collection: 2019
+Placement test score (raw): 27 / 43
+Placement test score (%): 62.8
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: La escuela de Notre dame de sion
+Major: La facultad de el Alsun en la universidad de Kafr el Sheikh
+Year at university/school: Segundo año
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3 / 6
+Additional foreign language(s): French, English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 7
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Un día Chaplin estaba caminando</AI1>
+<Y1><AI1>De repente, un jarrón cayó del cielo</AI1> y <AI1>Chaplin se detuvo por un momento cerca de la basura.</AI1></Y1>
+<Y1><WX3>Para <AC1>ser sorprendido por la presencia de un bebé cerca de él</AC1></WX3> y <AI1>al mismo tiempo cruza cerca de Chaplin una madre de un bebé con la misma edad que él</AI1></Y1> <Y1><Y2><AT1>cree <WS1>que <AT1>estaba buscando al bebé desaparecido,</AT1></WS1></AT1> pero <AC1>él estaba equivocado</AC1></Y2> y <AI1>continúa en intentos fallidos de <WX3><AT1>conseguir <WS1><AT1>deshacerse del niño</AT1></WS1></AT1></WX3></AI1></Y1>

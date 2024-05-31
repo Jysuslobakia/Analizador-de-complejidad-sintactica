@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: JP_WR_28_22_3_14_MM
+Year data collection: 2018
+Placement test score (raw): 28 / 43
+Placement test score (%): 65.1
+Proficiency: Lower intermediate
+Sex: Female
+Age: 22
+School/University/Institution: Universidad de KANAGAWA
+Major: Lengua español
+Year at university/school: 4
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): DELE A2
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <AC1>En una ciudad estuvo un hombre <WR1>que <AT1>lleva <Y1>chaqueta y pantalones.</Y1></AT1></WR1></AC1> <AT1>Andado humando al lado de edificio.</AT1> <AT1>Luego,se cayó unos objetos a el.<AT1> <AT1>Otra vez, comenzó <WS1><AT1>a fumar</AT1></WS1> <WX1>porque <AT1>lo perdió</AT1></WX1></AT1> <AT1>después encontró un bebé <WX5><AI1>llorando.</AI1></WX5></AT1> <AC1>Entonces una mujer <WR1>que <AT1>llevó su bebé</AT1></WR1> estuvo cercano.</AC1> <AT1>El creía <WS1>que <AT1>ella estuvo buscando un bebé,</AT1></WS1> <Y2><WX4>así que <AT1>el intentó a <WS1><AT1>hablar un mujer</AT1></WS1></AT1></WX4> pero <AC1>lo no es suyo.</AC1></Y2></AT1> <Y2><AT1>Luego revolvió a ponerlo un lugar primero,</AT1> pero <AT1>no pudo <WX1>porque <AC1>estuvo un policía en cerca.</AC1></WX1></AT1></Y2> <AT1>Anduvo lo llevando en brazo <WX3>para <AT1>buscar un madre de bebé en ciudad.</AT1></WX3></AT1> <AI1>Hay un hombre viejo en calle,</AI1> <Y1><AT1>lo dio a el</AT1> y <AI1>corrió a otro lugar <WX6>hasta <AT1>no vio.</AT1></WX6></AI1></Y1>
+<Y2><AT1>Un hombre lo puso un coche para bebé <WR1>que <AI1>hubo en calle,</AI1></WR1></AT1> pero <AC1>eso es de aquella  mujer.</AC1></Y2> <Y1><AC1>Mujer estuvo enfadada</AC1> y <AI1>el pasó en ese calle,</AI1></Y1> <AT1>luego mujer atacó a el.</AT1>  <Y1><AT1>Lo llevó en brazo</AT1> y <AI1>se sentó al lado de calle,</AI1></Y1> <Y2><AT1>entonces pensó <WS1>que <AT1>va a poner por aquí,</AT1></WS1></AT1> pero <AT1>encontró un papel mientras ropa de bebé.</AT1></Y2> <AT1>Vio un mensaje en el papel,</AT1> <AT1>dejó a <WS1><AT1>ponerlo calle.</AT1></WS1></AT1>

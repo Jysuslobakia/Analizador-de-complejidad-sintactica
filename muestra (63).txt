@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_12_21_2_14_AS
+Year data collection: 2017
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 21
+School/University/Institution: Penn State University
+Major: 
+Year at university/school: 
+L1: English
+Father's native language: English
+Mother's nativelanguage: Creole
+Languages spoken at home: English
+Age of exposure to Spanish: 14
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 1.75 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Outside classroom
+Resources used: Help from a Spanish native speaker, Spellchecker, Grammar book
+Text: <AT1>El hombre de la película está teniendo un día difícil <WX4>por lo que <AT1>decide <WS1><AI1>ir a dar un paseo.</AT1></WS1></AT1></WX4></AT1> <AT1><WX6>Mientras <AI1>camina por la calle,</AI1></WX6> alguien le echa basura en la ventana.</AT1> <AT1><WX3>En lugar de <AC1>estar demasiado molesto</AC1></WX3> trata de <WS1><AT1>fumar un cigarro <WX5>cuando <AT1>de repente oye un bebé cryng.</AT1></WX5></AT1></WS1></AT1> <Y1><AT1>Mira hacia abajo</AT1> y <AT1>ve <WS1>que <AI1>hay un bebé cerca de un cubo de basura,</AI1></WS1></Y1> <WX4>así que <AT1>lo recoge.</AT1></WX4></AT1> <Y1><AT1>Él mira alrededor para los padres de los babys</AT1> y <AT1>ve a una señora <WR1>que <AT1>empuja a un bebé en un cochecito.</AT1></WR1></AT1></Y1> <Y2><Y1><AI1>Él se acerca a ella</AI1> y <AT1>trata de <WS1><AT1>darle el bebé,</AT1></WS1></AT1></Y1> pero <AT1>el bebé no pertenece a ella <WX4>por lo que <AT1>lo empuja lejos.</AT1></WX4></AT1></Y2> <Y2><AI1>Él camina de regreso a la papelera <WX3>para <AT1>poner al bebé de regreso <WX5>donde <AT1>lo consiguió,</AT1></WX5></AT1></WX3></AI1> pero <AT1>el oficial de policía lo ve.</AT1></Y2> <Y1><AT1>Recoge al bebé</AT1> y <AI1>camina hasta <WX5><AT1>encontrar a alguien más.</AT1></WX5></AI1></Y1> <Y1><AT1>Él le da el bebé a un hombre en la calle</AT1> y <AI1>luego huye.</AI1></Y1> <Y2><AT1>El hombre persigue tras él,</AT1> pero <AT1>no pudo ponerse al día <WX4>así que <AT1>pone al bebé en un cochecito <WR1>que <AT1>ve en la calle.</AT1></WR1></AT1></WX4></AT1></Y2> <Y1><AT1>La señora ve un nuevo bebé en su cochecito</AT1> y <AT1>ve al primer chico de antes</AT1> y <AT1>le grita hasta <WX5>que <AI1>la policía aparece.</AI1></WX5></AT1></Y1> <AT1>El chico toma el bebé de nuevo</AT1> <Y1><AI1>se sienta</AI1> y <AT1>encuentra una nota <WR1>que <AT1>dice <WS1><Z>"por favor, el amor y el cuidado de este niño huérfano".</Z></WS1></AT1></WR1></AT1></Y1> <Z>El fin.</Z>

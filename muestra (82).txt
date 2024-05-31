@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_34_21_6_14_CO
+Year data collection: 2018
+Placement test score (raw): 34 / 43
+Placement test score (%): 79.1
+Proficiency: Upper intermediate
+Sex: Male
+Age: 21
+School/University/Institution: Central College, Monmouth College
+Major: Accounting
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 15
+Years studying Spanish: 6
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 4
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 4
+Where the task was done: Inside classroom
+Resources used: Spellchecker
+Text: <AT1>Charlie encontró un bebe por la calle.</AT1> <AI1>No hay nadie cerca de él a <WR2>quien <AT1>podría ser el padre del bebé.</AT1></WR2></AI1> <Y1><Y2><AT1>Charlie intentaba <WS1><AT1>dejar el bebe <WX5>donde <AT1>lo había encontrado</AT1></WX5></AT1></WS1></AT1> pero <AI1>una policía llegó</AI1></Y2> y <AT1>vio <WS1>lo que <AI1>estaba pasando.</AI1></WS1></AT1></Y1> <Y1><AT1>Charlie tomó el bebé</AT1> y <AT1>eventualmente encontró un carro de un mujer con otro bebé,</AT1> y <AT1>intentó <WS1><AT1>ponerlo en el carro.</AT1></WS1></AT1></Y1> <Y1><AI1>La mujer vino</AI1> y <AT1>vio <WS1>lo que <AT1>Charlie estaba haciendo</AT1></WS1></AT1> y <AT1>le golpeó.</AT1></Y1> <Y1><AI1>Al fin, Charlie estaba sentado en la calle,</AI1> y <AT1>vio una carta en el bebé <WR1>que <AT1>pedía la persona <WR1>que <AT1>estaba leyéndola <WS1><AT1>cuidar por el bebé.</AT1></WS1></AT1></WR1></AT1></WR1></AT1></Y1>

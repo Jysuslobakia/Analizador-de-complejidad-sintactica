@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_36_20_2_14_SAB
+Year data collection: 2018
+Placement test score (raw): 36 / 43
+Placement test score (%): 83.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 20
+School/University/Institution: Universidad Seisen
+Major: Lengua y literatura española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): DELE A2
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AC1><WX2>Aunque <AT1>no puedo oír la voz,</AT1></WX2> el vídeo es muy interesante.</AC1> <AT1>Creo <WS1>que <AC1>Chaplin es muy inteligente <WX1>porque <AT1>puede explicar todas cosas interesantes sin voz.</AT1></WX1></AC1></WS1></AT1> <Y1><AT1>A mí me gusta su acción para el bebé</AT1> y <AT1>también me gusta su traje y barba,</Y1> <WX1>porque <AT1>se ve un poco interesante.</AT1></WX1></AT1> <Y1><Y2><AT1>Primero Chaplin le puso el bebé en el coche de bebé de una madre,</AT1> pero <AC1>ella no era madre de la pobre bebé,</AC1> y <AT1>le pagó unos golpes a Chaplin.</AT1> Pero <AC1>al fina Chaplin estaba cariñoso con el bebé.</AC1></Y2></Y1> <AT1>Por eso quiero <WS1><AT1>saber <WS1>que <AI1>pasará con el bebé después de este vídeo.</AI1></WS1></AT1></WS1></AT1>

@@ -1,0 +1,52 @@
+Subcorpus: Learners
+Filename: JP_WR_15_19_0.6_14_TAD
+Year data collection: 2018
+Placement test score (raw): 15 / 43
+Placement test score (%): 34.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 19
+School/University/Institution: 帝京大学
+Major: 外国語学部外国語学科
+Year at university/school: 1
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 19
+Years studying Spanish: 0.6
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 
+Where the task was done: Inside classroom
+Resources used: 
+Text: <Y1><AT1>La película tiene cinco, dos hombre , una mujer , el chico y un police.</AT1></Y1>
+
+<AC1>Chaplin es hombre.</AC1>
+
+<AC1>Chaplin es no amable <WX1>porque <AC1>chico.</AC1></WX1></AC1>
+
+<AC1>El chico está street.</AC1>
+
+<AC1>El chico no está su madre.</AC1>
+
+<AT1>La mujer tiene su chico.</AT1>
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

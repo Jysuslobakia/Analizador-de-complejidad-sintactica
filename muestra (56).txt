@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_43_20_2_14_HA
+Year data collection: 2019
+Placement test score (raw): 43 / 43
+Placement test score (%): 100
+Proficiency: Upper advanced
+Sex: Female
+Age: 20
+School/University/Institution: La universidad de Kafr Elsheikh
+Major: 
+Year at university/school: 
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 19
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Había una vez Un hombre<AI1> <AT1>se llama Chaplin<AT1> <Y1><AI1>estaba caminando en la calle</AI1> y <AI1>de repente algo se cayó del cielo</AI1></Y1> <AT1>con pocos pasos algo se pone otra vez,</AT1> <AT1>él miró a su lado</AT1> <AT1>se encontró un bebé,</AT1> <Y2><AT1>estaba intentando <WS1><AI1>librarle</AI1></WS1></A1> pero <AT1>no pudo <WX1>porque <AI1>había un hombre de policía</AI1></WX1></AT1></Y2> <AT1>le observó,</AT1> <AT1>de la segunda vez intendado <WS1><AT1>deshacer el niño</AT1></WS1></AT1> <Y1><Y2><AT1><WX1>por <AT1>ponerlo con una mujer</AT1></WX1> tuvo otro bebé</AT1> pero <AT1>ella rechazó</AT1></Y2> y <AC1>estaba muy enfadada,</AC1></Y1> <Y2><AT1>de la tercera vez le dió a un viejo</AT1> sino <AT1>falló</AT1></Y2> <Y1><AT1>luego el hombre llevó el niño</AT1> y <AT1>se encontró <Y1>dinero y un mensaje</Y1></AT1> y <AT1>desde hace este momento el hombre amo el niño.</AT1></Y1> <AC1>Las cosas malas no siempre aparecen <WX5>como <AC1>son.</AC1></WX5></AC1>

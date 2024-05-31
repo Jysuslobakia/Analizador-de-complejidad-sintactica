@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_42_26_12_14_MG
+Year data collection: 2018
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Female
+Age: 26
+School/University/Institution: NYU
+Major: Linguistics
+Year at university/school: 3rd year PhD
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 12
+Years studying Spanish: 12
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Uruguay
+Stay abroad (when): 2012 and 2014
+Stay abroad (months): 10
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper advanced (C2)
+Proficiency (self-assessment): 6 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 8
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>El clip trata de un hombre <WR1>que <AT1>encuentra a un bebé en la calle.</AT1></WR1></AT1>  <Y1><AI1>Está paseando tranquilo, <WX5><AT1>fumando,</AT1></WX5> <WX6>cuando <AT1>ve al bebé acostado en un rincón</AT1></WX6></AI1> y <AT1>decide <WS1><AI1>aproximarse <WX3>para <AT1>investigar la situación.</AT1></WX3></AI1></WS1></AT1></Y1> <Y2><AT1>Toma el bebé en los brazos,</AT1> pero <AT1>no sabe <WS1>qué <AT1>hacer con el chico.</AT1></WS1></AT1></Y2> <AI1>De repente pasa una mujer con un carrito <WR1>que <AT1>ya lleva otro bebé.</AT1></WR1></AI1>  <Y2><Y1><AI1>Ella entra en un edificio</AI1> y <AI1>el hombre va corriendo detrás <WX3>para <AT1>dejar el bebé huérfano en el carrito junto al otro.</AT1></WX3></AI1> Pero <AT1>la mujer la ve,</AT1> <AT1>lo regaña,</AT1> y <AT1>el hombre tiene <WS1>que <AT1>tomar de nuevo el bebé.</AT1></WS1></AT1></Y1></Y2>  <Y1><AI1><WX6>Cuando <AT1>intenta <WS1><AT1>dejarlo en la calle de nuevo,</AT1></WS1></AT1></WX6> se da vuelta</AI1> y <AI1>hay un militar <WX5><AT1>mirándolo.</AT1></WX5></AI1></Y1> <Y1><AI1><WX1>Ya que <AT1>no puede dejar el bebé en la calle bajo la supervisión del militar,</AT1></WX1> sale corriendo</AI1> y <AT1>encuentra un viejito <WX5><AI1>caminando solo por la calle.</AI1></WX5></AT1></Y1> <Y1><Y2><AT1>Deja el bebé en los brazos de él,</AT1> pero <AT1>el viejo no lo quiere</AT1> y <AT1>lo deja de nuevo en un carrito <WR1>que <AT1>ya tiene otro bebé.</AT1></WR1></AT1></Y2></Y1>  <AT1>Pasa <WS1>que <AC1>el carrito es el mismo <WR1>en que <AT1>el personaje principal ya tenía dejado el bebé antes.</AT1></WR1></AC1></WS1></AT1> <Y1>>AT1>La mujer no ve <WS1>que <AC1>fue el viejito <WR1>que <AT1>dejó el bebé esta vez,</AT1</WR1></AC1></WS1></AT1> y, <AI1>por coincidencia, el personaje principal pasa justo <WX6>cuando <AI1>la mujer sale del edificio</AI1></WX6></AI1> y <AT1>ve de nuevo el bebé en su carrito.</AT1></Y1>  <AI1>Se enoja con el hombre, <WX1><AT1>pensando <WS1>que <AC1>fue él <WR2>que <AT1>lo había dejado de nuevo.</AT1></WR2></AC1></WS1></AT1></WX1></AI1>  <Y1><AT1>Al fin, el hombre toma el bebé en los brazos</AT1> y <AI1>sale corriendo.</AI1></Y1> <AI1>Se sienta en la vereda con el bebé, <WX5><AT1>sin saber <WS1>qué <AT1>hacer.</AT1></WS1></AT1></WX5></AI1> <AT1>Encuentra una cartita dentro de la ropa del bebé <WR1>que <AT1>pide <WS1>que alguien <Y1><AT1>lo ame</AT1> y <AT1>cuide.</AT1></Y1></WS1></AT1></WR1> <WX2>Aunque <AC1>parece <WS1>que <AT1>el hombre no quiere el bebé huérfano,</AT1></WS1></AC1></WX2></AT1> <Y1><AI1>se emociona con la carta</AI1> y <AT1>decide <WS1><AT1>llevárselo.</AT1></WS1></AT1></Y1>

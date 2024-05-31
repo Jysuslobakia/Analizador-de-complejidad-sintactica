@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_35_24_2_14_PB
+Year data collection: 2019
+Placement test score (raw): 35 / 43
+Placement test score (%): 81.4
+Proficiency: Upper intermediate
+Sex: Female
+Age: 24
+School/University/Institution: Faculdade de Letras da Universidade de Lisboa
+Major: Línguas, Literaturas e Culturas
+Year at university/school: 3º
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 22
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.25 / 6
+Additional foreign language(s): English (C1), Italian (B2)
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Portuguese)
+Text: <AC1>Es un video de Chaplin, <WR1>en que <Y1><AI1>él va por la calle</AI1> e </AT1>encuentra un niño <WR1>que <AI1>está llorando</AI1></WR1></AT1> e <AT1>intentar <WS1><AT1>procurar <WS1>de quien <AC1>es el niño.</AC1></WS1></AT1></WS1></AT1></Y1></WR1></AC1> <AT1>Primer pone el niño en un coche de niño de una mujer.</AT1> <Y2><Y1><AI1>Después vuelta al local <WR1>en el cual <AT1>encontro el niño</AT1></WR1></AI1> e <AT1>lo pone en el suele,</AT1></Y1> pero <PI1>es atrapado por un policía.</PI1></Y2> <Y1><AT1>Después lo da a un hombre <WR1>que <AI1>esta caminando por la calle</AI1></WR1></AT1> y <AI1>huye.</AI1></Y1> <Y1><AT1>El hombre pone el niño en el covhe de niños de la mujer</AT1> y <AT1><WX6>cuando <AI1>Chaplin esta pasando cerca de la mujer,</AI1></WX6> ella lo persigue</AT1> y <AT1>lo golpea <WX3>para que <AT1>el recoja el niño del coche.</AT1></WX3></AT1></Y1> <Y1><AI1>Al final Chaplin se sienta en la acera</AI1> y <AT1>descubre un papel <WR1><AT1>diciendo <WS1>que <AC1>el niño es un huérfano.</AC1></WS1></AT1></WR1></AT1></Y1>

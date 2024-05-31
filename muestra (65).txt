@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_11_22_3_14_AA
+Year data collection: 2018
+Placement test score (raw): 11 / 43
+Placement test score (%): 25.6
+Proficiency: Lower beginner
+Sex: Male
+Age: 22
+School/University/Institution: Penn State
+Major: Security and Risk analysis
+Year at university/school: Senior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 18
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish), Grammar book, Background readings about the task topic (newspapers, internet, TV, etc.)
+Text: <AC1>El vidoe esta en <Y1>blanco y negro.</Y1></AC1> <Y1><AT1>El hombre es fumar</AT1> y <AI1>camino.</AI1></Y1> <AT1>Entonces el encuentro in bebe.</AT1> <AT1>El hombre de encontrar a su mama <WX1>porque <Z>no papi.</Z></WX1></AT1>  <AI1>Entonces el policia hablo el hombre.</AI1> <AT1>El hombre encuento nota sobre el baby.</AT1> <AT1>No se que nota <WX1>porque <AC1>nota francis.</AC1></WX1></AT1> <AC1>En general  video es interastante.</AC1> <AC1>El revive es ocho de diez <WX1>porque <AC1>calidad.</AC1></WX1></AC1> <AC1>No say negative.</AC1> <AC1>Yo como el viendo la pelicula <WX1>porque <AC1>es <Y1>blanco y negro.</Y1></AC1></WX1></AC1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_20_18_2_14_SA
+Year data collection: 2018
+Placement test score (raw): 20 / 43
+Placement test score (%): 46.5
+Proficiency: Upper beginner
+Sex: Female
+Age: 18
+School/University/Institution: New York City College of Technology
+Major: Liberal Arts
+Year at university/school: 1
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 8
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 3 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish), Spellchecker, Background readings about the task topic (newspapers, internet, TV, etc.)
+Text: <AT1>Charles encontro a un bebe <WX5><AI1>llorando en el piso.</AI1></WX5></AT1> <AT1>El estaba tratando de <WS1><AT1>averiguar <WS1>de donde <AI1>venia.</AI1></WS1></AT1></WS1></AT1> <Y2><AT1>Encontro a una enora con un cochecito de bebe,</AT1> pero <AT1>el bebe no pertenecia a ella.</AT1></Y2> <AT1>Charles puso al bebe de vuelta <WX5>donde <AT1>lo encontro.</AT1></WX5></AT1> <AT1>Alguin lo vio <WX5><AT1>poniendo al bebe de nuevo en el suelo.</AT1></WX5></AT1> <Y1><AT1>Le dio el bebe a un anciano</AT1> y <AI1>huyo.</AI1></Y1> <AT1>Ese tipo dejo al bebe junto con otrto bebe en un carruaje <WR1>que <AI1>quedo desatendido.</AI1></WR1></AT1> <Y1><AI1>La senora regreso</AI1> y <AT1>vio a otro bebe</AT1></Y1>

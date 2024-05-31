@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_40_26_2_14_ΕΗ
+Year data collection: 2018
+Placement test score (raw): 40 / 43
+Placement test score (%): 93
+Proficiency: Lower advanced
+Sex: Female
+Age: 26
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 24
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2018
+Stay abroad (months): 28
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>Charlie Chaplin estaba fumando tranquilo su cigarro <WX6>cuando <AT1>ha visto un bebe.</AT1></WX6></AT1> <AT1><WX5><AT1>Sin saber <WS1>que <AT1>hacer</AT1></WS1></AT1></WX5> empezó <WS1><AT1>a buscar la madre.</AT1></WS1></AT1> <AI1>De repente una señora apareció <Y1>con una sillita y otro bebe.</Y1></AI1> <Y2><Y1><AT1>La señora estaba buscando algo también</AT1> y <AT1>naturalmente el protagonista pensó <WS1>que <AC1>el bebe perdido era de ella.</AC1></WS1></AT1> Pero <AI1>se equivoco</AI1> y <AI1>la señora se ha ido cabreada.</AI1></Y1></Y2> <AT1><WX5><AT1>Chaplin, otra vez sin saber <WS1>que <AT1>hacer,</AT1></WS1></AT1></WX5> dejo el bebe <WX5>donde <AT1>lo había encontrado al principio.</AT1></WX5></AT1> <AT1>Un policía <WR2>que <AT1>vi lo ultimo,</AT1></WR2> empezó <WS1><AT1>a mirarle <WX5><AT1>pensando <WS1>que <AC1>el es <WR2>que <AT1>intentaba <WS1><AT1>abandonarlo.</AT1></WS1></AT1></WR2></AC1></WS1></AT1></WX5></AT1></WS1></AT1> <Y1><AI1>Chaplin obligado se fue con el bebe</AI1> y <AT1>lo dio a un señor <WR1>que <AI1>pasaba por la calle.</AI1></WR1></AT1></Y1> <AT1>El señor a continuación lo ha dejado a la misma sillita <WR1>que <AT1>Chaplin lo había dejado antes.</AT1></WR1></AT1> <AT1>La señora llamó el policía <WR1>que cabreado con Chaplin- <WR2>que <AI1>el pobre solo pasaba por allí por casualidad-</AI1></WR2> <AT1>le ha obligado <WS1><AI1>llevar el bebe.</AI1></WS1></AT1></WR1></AT1> <AI1>Al final el protagonista se quedó con el bebe perdido, <WR1>lo cual <AI1>llevaba una nota puesta <WR1>que <AT1>explicaba <WS1>que <AI1>hay <WS1>que <AT1>querer los niños huérfanos.</AT1></WS1></AI1></WS1></AT1></WR1></AI1></WR1></AI1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_38_21_6.5_14_GLN
+Year data collection: 2018
+Placement test score (raw): 38 / 43
+Placement test score (%): 88.4
+Proficiency: Lower advanced
+Sex: Female
+Age: 21
+School/University/Institution: Central College, Valparaiso University
+Major: Elementary Education and Spanish
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 15
+Years studying Spanish: 6.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Charlie Chaplin, el personaje del video esta andando por la calle <WX6>cuando <AI1>algo se cae del cielo.</AI1></WX6></AI1>  <AT1><WX6>Cuando <AT1>mira al suelo</AT1></WX6> ve un bebe abandonado.</AT1>  <AT1>Toma el bebe en sus brazos <WX3>para <AT1>ponerlo en la canasta de otro bebe.</AT1></WX3></AT1>  <AT1>La madre del otro bebe ve el nuevo bebe,</AT1> <Y1><AC1>esta enfadada</AC1> y <AT1>toma el nuevo bebe <WX3>para <AT1>darle al Chaplin.</AT1></WX3></AT1></Y1> <Y2><Y1><AT1>Con el bebe otra vez, Chaplin empieza <WS1><AI1>a andar por el calle</AI1></WS1></AT1> y <AT1>va a poner el bebe en el suelo otra vez</AT1></Y1> pero <AT1>ve un policia.</AT1></Y2>  <AT1>A causa de eso, Chaplin toma el bebe,</AT1> <Y1><AI1>esta andando por el calle</AI1> y <AT1>da el bebe a un hombre viejo.</AT1></Y1>  <Y1><AT1>Este hombre ve la canasta de la misma mujer que antes</AT1> y <AT1>pone el bebe en la canasta.</AT1></Y1>  <Y1><AT1><WX6><AI1>Cuando Chaplin esta andando,</AI1></WX6> <Y3>la mujer o madre</Y3> ve Chaplin</AT1> y <AT1>da el bebe al Chaplin <WX1>porque <AT1>piensa <WS1>que <AC1>fue el <WR2>quien <AT1>puso el bebe en su canasta con su bebe.</AT1></WR2></AC1></WS1></AT1></WX1></AT1></Y1> <Y2><Y1><AI1>Chaplin va a sentarse en el suelo</AI1> y <AT1>esta pensando en <WS1><AT1>poner el bebe en el suelo,</AT1></WS1></AT1></Y1> pero <AT1>ve una carta en la rope del bebe <WR1>que <AT1>dice <WS1><AT1>"por favor, cuidate por este pobre huerfano".</AT1></WS1></AT1></WR1></AT1></Y2> <AT1>Con esta carta, Chaplin decide a <WS1><AT1>cuidar por el bebe.</AT1></WS1></AT1>

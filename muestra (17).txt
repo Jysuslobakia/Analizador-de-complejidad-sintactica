@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_39_25_7_14_ST
+Year data collection: 2018
+Placement test score (raw): 39 / 43
+Placement test score (%): 90.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 25
+School/University/Institution: Ninguno
+Major: 外国語学部スペイン語学科
+Year at university/school: 
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 7
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): スペイン語技能検定3級
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1><WX6>Cuando <AT1>Chaplin fumaba</AT1></WX6> encontró a un bebé tirado en el suelo.</AT1> <Y2><AT1>Él se lo dio a una señora <WR1>que <AT1>andaba cerca de allí <WX5><AT1>pujando un carro de bebé.</AT1></WX5></AT1></WR1></AT1> Pero <AT1>ella lo rechazó.</AT1></Y2> <Y2><AT1>Chaplin iba a tirarlo de nuevo,</AT1> pero <AT1>no pudo <WX1>es que <AI1>vino un policía desgraciadamente.</AI1></WX1></AT1></Y2> <AT1>Chaplin confundido se lo dio a un anciano.</AT1> <AI1>El anciano huyó <WX5><AT1>dándoselo a la señora.</AT1></WX5></AI1> <AT1>Ella <WR2>que <AT1>encontró a Chaplin</AT1></WR2> se lo devolvió <WX5><AI1>enfadándose.</AI1></WX5></AT1> <AT1>Finalmente Chaplin decidió <WS1><AT1>cuidarlo</AT1></WS1> <WX1>es que <AT1>encontró una carta cariñosa de los padres del bebé.</AT1></WX1></AT1> <AC1>Pareció <WS1>que <AC1>la esparda de Chaplin era <Y1>cariñosa y feriz.</Y1></AC1></WS1></AC1>

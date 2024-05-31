@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_42_17_4_14_DFCS
+Year data collection: 2019
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Male
+Age: 17
+School/University/Institution: ESDJGFA
+Major: LÍnguas e Humanidades
+Year at university/school: 11º Ensino Secundário
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 12
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Portuguese)
+Text: <AI1>Este video empezó <WX5><AI1>con Chaplin caminado en la calle <WX6>cuando después <AT1>de empezar a fumar,</AT1></WX6></AI1></WX5></AI1> <Y1><AT1>miró el suelo</AT1> e <AT1>encontró un niño <WR1>que <AI1>estaba llorando mucho.</AI1></WR1></AT1></Y1> <Y2><Y1><AT1>El lo cogió</AT1> y <AT1><WX6><AT1>después de mirar</AT1></WX6> una mujer con un cochecito intentó <WS1><AT1>dejar el niño con ela</AT1></WS1></AT1></Y1> pero <AT1>ella no dejó.</AT1></Y2> <Y1><Y2><AT1>Entonces, intentó <WS1><AT1>ponerlo otra vez en el suelo</AT1></WS1></AT1> pero <AI1>apareció la policía</AI1> y <AT1>con eso cambió de lugar con el niño</AT1> e <AT1>intentó <WS1><AT1>dejarlo con un hombre</AT1></WS1></AT1> pero <AI1>más una vez no le salió bien</AI1> e <AI1>el niño acabó con la mujer <WR1>que <AT1>Chaplin ya había intentado dejar.</AT1></WR1></AI1></Y2></Y1> <Y1><AT1>La policía tuvo <WS1>que <AT1>intervenir</AT1></WS1></AT1> y <AT1>Chaplin una vez mas se quedó con el niño</AT1> y <Z>desta vez para siempre.</Z></Y1>
