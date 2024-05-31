@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_41_21_2_14_HT
+Year data collection: 2018
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Male
+Age: 21
+School/University/Institution: Johns Hopkins
+Major: Neuroscience
+Year at university/school: 4th
+L1: English
+Father's native language: Spanish
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 16
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): fall 2017
+Stay abroad (months): 8
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.75 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <AT1>En el video de Charlie Chaplin había un hombre, <WR2>creo que <AC1>era Charlie Chaplin,</AC1></WR2> <WR1><AI1>caminado por la calle.</AI1></WR1></AT1> <Y2><AI1>En principio basura cayó</AI1> pero <AT1>no le pegó.</AT1></Y2> <Y1><AI1>Mas debajo de la calle mas basura cayó</AI1> y <AT1>pegó el hombre.</AT1></Y1> <Y1><AT1>Después, Charlie, sacó una caja para habanas</AT1> y <AC1>era buscando un cigarrillo.</AC1></Y1> <Y1><AT1><WX6>Justo después de <AT1>enciendo el cigarrillo</AT1></WX6> le escuchó</AT1> y <AT1>encontró un bebé llorando,</AT1></Y1> <AT1>el video no tenia sonido,</AT1> <Y2><AT1>no estoy seguro</AT1> pero <AT1>creo <WS1>que <AI1>un bebé en este caso llora.</AI1></WS1></AT1></Y2> <Y1><AI1>Además, había nadie caminado</AI1> y <AT1>el no sabia de <WS1>quien <AC1>era el bebé.</AC1></WS1></AT1></Y1> <AT1>Por eso, <WX6>cuando <AI1>una mujer pasó con otro bebé</AI1></WX6> el fue a darlo a ella. <WX2>Aunque, <AC1>lo no era su bebé.</AC1></WX2></AT1> <Y1><AT1>A causa de esa ella le puso rojo</AT1> y <AT1>rechazó el bebé.</AT1></Y1> <AT1>Después, el fue buscando otra persona <WR1>que <AC1>posible <WS1>que <AC1>sea el padre del bebé.</AC1></WS1></AC1></WR1></AT1> <AI1>Llegó a un hombre justo al lado de la esquina.</AI1> <Y1><AC1>Era un hombre mas mayor,</AC1> y <AT1>no pudiera rechazar el bebé <WX6>cuando <AT1>Charlie había corriendo.</AT1></WX6></AT1></Y1> <AT1>Momentos después el hombre mas mayor fue buscando de <WS1>quien <AC1>era el bebé.</AC1></WS1></AT1> <AT1><WX1><AC1>Por suerte o que sea,</AC1></WX1> encontró, también la misma mujer con otro bebé en una carrito por los bebés.</AT1> <AT1>Y el, <WX5><AT1>sin la mujer mirando,</AT1></WX5> dejó el bebé, otra vez, en el carrito.</AT1> <AT1><WX6>Cuando <AI1>la mujer salió de la tienda <WR1>que <AI1>había adentro,</AI1></WR1></AI1></WX6> ella lo ha visto <WS1>que <AC1>el bebé era con su hijo <WX6>cuando <AI1>Charlie caminaba a su lado.</AI1></WX6></AC1></WS1></AT1> <Y1><AT1><WX6>Cuando <AT1>le dio cuenta <WS1>que <AC1>el bebé era lo mismo <WR1>que <AI1>se vio antes</AI1></WR1></AC1></WS1></AT1></WX6> fue a pegar Charlie</AT1> y <AT1>dárselo.</AT1></Y1> <AT1>Al final, Charlie encontró un papel <WR1>que <AT1>se decía, <WS1><AT1>mas desea, <WS1><Y1>que <AT1>alguien ama</AT1> y <AT1>cuida el bebé sin padres.</AT1></Y1></WS1></AT1></WS1></AT1></WR1></AT1> <Y1><AT1>Entonces, Charlie quedó con el niño</AT1> y <AI1>el video se terminó ahí.</AI1></Y1>

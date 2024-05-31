@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: JP_WR_18_21_3_14_SBD
+Year data collection: 2018
+Placement test score (raw): 18 / 43
+Placement test score (%): 41.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 21
+School/University/Institution: Seisen
+Major: Langua española
+Year at university/school: 3
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese), Spellchecker
+Text: <AT1>Ello enconté que un bebe.</AT1> <Y2><AT1>Es muy pequeño y muy bonito</AT1> pero <AT1>no se gusto bebe.</AT1></Y2> <AT1>Esta muy preocupado por eso,</AT1> <WX1><AT1>pone lo en otoro cochecito</AT1> porque <AT1>eso es con la madre y su hija.</AT1></WX1>
+<AT1>Ello muy muy preocupado. Quiere poner lo.</AT1> <Y2><AT1>buscando a los padres del bebé.</AT1> Pero <AT1>no puede buscar ningún.</AT1></Y2> <AT1>Pensó en elevarse a sí mismo.</AT1>

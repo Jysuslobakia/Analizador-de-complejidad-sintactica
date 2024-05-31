@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: AR_WR_39_20_3_14_MK
+Year data collection: 2019
+Placement test score (raw): 39 / 43
+Placement test score (%): 90.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 20
+School/University/Institution: La Universidad de Jordania
+Major: La Universidad de Jordania
+Year at university/school: cuarto año
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 19
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 0
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 18
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <AI1><WX6>Mientras <AC1>él estaba caminando</AC1></WX6> se echó algo sucio de arriba,</AI1> <AI1>el suspendió,</AI1> <Y1><AT1>cogió una cigarra,</AT1> y <AT1>la tomó,</AT1></Y1> <Y1><AT1>quitó sus guantas en la basura,</AT1> y <AT1>de repente, vio a un bebé <WR1>que <AC1>estaba en la tierra</AC1></WR1></AT1></Y1> y <AT1>empezó a <WS1><AT1>buscar alrededor de él <WX3><Y3>para que <AT1>encontrara a su familia</AT1> o <AC1>para <WR1>quién <AC1>era este niño,</AC1></WR1></AC1></Y3></WX3></AT1></WS1></AT1> <Y1><AT1>vio a una mujer con el carro del bebé</AT1> y <AC1>parecía <WS1>que <AC1>estaba buscando a su hijo,</AC1></WS1></AC1></Y1> <Y2><AI1>se dirigió a ella <WX3>para <AT1>darle el bebé</AT1></WX3></AI1> pero <AI1>ella se enfadó mucho <WX1>porque <AC1>él no estaba su hijo,</AC1></WX1></AI1></Y2> <AT1>por eso Charles le volvió a su lugar en la tierra,</AT1> <Y1><AT1>durante estos ratos pareció un hombre, <WR2>el que <AC1>era como una policía,</AC1></WR2></AT1> y <AC1>parecía muy enfadado <WX1>por lo que <AT1>Charles estaba haciendo</AT1></WX1></AC1></Y1> <Y1><AT1>por eso tomó el bebé</AT1> y <AI1>se fue,</AI1></Y1> <AT1>pero un hombre le persiguió,</AT1> <AT1><WR2><AT1>aprovechando esto para <WS1><AT1>liberar a si mismo de este niño,</AT1></WS1></AT1></WR2> Charles empezó a arreglar sus zapatos</AT1> y <AT1>dio el bebé al hombre,</AT1> <Y1><AI1>de repente Charles escapó</AI1> y <AI1>se escondió.</AI1></Y1> <Y1><AT1>El hombre tomó al bebé</AT1> y <AT1>le puso en el carro de la mujer</AT1></Y1> <Y1><WX6>cuando <AT1>ella le vio,</AT1></WX6> <AI1>se enfadó mucho</AI1> y <AT1>empezó a 
+pagar Charles <WX1>porque <AT1>ella creyó <WS1>que <AC1>él es <WR1>quién <AT1>le puso en su carro</AT1></WR1></AC1></WS1></AT1></WX1></AT1></Y1> y <AT1>le dio el bebé otra vez,</AT1> <Y1><AI1>él se sentó en la calle con el niño</AI1> y <AT1>encontró un mensaje dentro de la ropa del bebé,</AT1></Y1> <AI1>Después de esto se puso triste por la situación de este bebé,</AI1> <Y1><AI1>por eso le abrazó</AI1> y <AT1>le acompañó con él.</AT1></Y1>

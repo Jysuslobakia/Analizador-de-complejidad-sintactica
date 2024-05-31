@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_23_20_1_14_A
+Year data collection: 2020
+Placement test score (raw): 23 / 43
+Placement test score (%): 53.5
+Proficiency: Lower intermediate
+Sex: Female
+Age: 20
+School/University/Institution: 清泉女子大学
+Major: 文学部スペイン語スペイン文学科
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese), Monolingual dictionary (Spanish)
+Text: <AC1>Color de vídeo son blanco y negro.</AC1> <AC1>Esta chaplain.</AC1> <AT1>Encuentra un bebe.</AT1> <AT1>El bebé estaba llorando.</AT1> <AT1>Entregó el bebé a abuela.</AT1>  <AT1>Ella rechazó al bebé.</AT1> <AT1>Después chaplain entregó el bebé a abuelo.</AT1> <AT1>Abuelo Entregó el bebé a abuela.</AT1>

@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: AR_WR_15_26_0.5_14_HO
+Year data collection: 2019
+Placement test score (raw): 15 / 43
+Placement test score (%): 34.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 26
+School/University/Institution: University of Jordan
+Major: University of Jordan
+Year at university/school: 3
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 21
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): Level 3 for beginners
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Arabic)
+Text: Charles <AT1>Chaplin encontró bebé lado basura.</AT1> <AT1>Intenta darle el niño to una mujer.</AT1> <AT1>Ella mujer que no.</AT1>  <AT1>Dejar al bebé.</AT1> <AT1>police hombre que no.</AT1> <AT1>Encontró una carta.</AT1> <AT1>Te amo el bebé.</AT1> <AT1>Toma al bebé.</AT1>  
+<AI1>apenad,</AI1> <AT1>no saber poco más.</AT1> apenad, no saber poco más. apenad, no saber poco más. apenad, no saber poco más. apenad, no saber poco más. apenad, no saber poco más. apenad, no saber poco más. apenad, no saber poco más.

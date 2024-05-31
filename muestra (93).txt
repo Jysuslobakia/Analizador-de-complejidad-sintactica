@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_38_51_5_14_H
+Year data collection: 2018
+Placement test score (raw): 38 / 43
+Placement test score (%): 88.4
+Proficiency: Lower advanced
+Sex: Female
+Age: 51
+School/University/Institution: Ninguno
+Major: 
+Year at university/school: 
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 28
+Years studying Spanish: 5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 1996-2018
+Stay abroad (months): 
+Language certificates (type and level): B2 de escuela oficial de idioma
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <AC1>En la película, estaba  un hombre fumando y andando.</AC1> <AT1>Él encontró un bebé en el suelo.</AT1> <AC1>Parece abandonado.</AC1> <AT1>Entonces este hombre cogio el bebé.</AT1> <AT1><WX6><AT1>Cuando vio una madre con un bebé <WR1>que <AT1>está en el carrito,</AT1></WR1></AT1></WX6> él puso bebé abandonado en ese carrito.</AT1> <AI1>Sin embargo la madre se enfado mucho <WX1>porque <AC1>el bebé no era suyo.</AC1></WX1></AI1> <Y1><AT1>El hombre coge el bebé otra vez</AT1> y <AT1>buscó una solución.</AT1></Y1> <Y1><AT1>Es ese momento pasó  un vendigo</AT1> y <AT1>le da el bebé.</AT1></Y1> <AT1>El vendigo dejó el bebé en el carrito de mujer <WR1>que <AI1>salió anteriormente.</AI1></WR1></AT1> <Y1><AI1><WX6>Cuando <AT1>pasó el hombre protagonista derante del carrito,</AT1></WX6> la mujer se enfadó  otra vez</AI1> y <AT1>pegó muchas veces al hombre con la paraguaya <WX1>porque <AT1>pensó <WS1>que <AT1>él dejó el bebé en carrito de nuevo.</AT1></WS1></AT1></WX1></AT1></Y1> <Y1><AT1><WX6><AI1>Cuando apareció un policía,</AI1></WX6> el protagonista cogió el bebé</AT1> y <AI1>se alejó del policía.</AI1></Y1>

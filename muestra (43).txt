@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_18_23_1_14_AAG
+Year data collection: 2018
+Placement test score (raw): 18 / 43
+Placement test score (%): 41.9
+Proficiency: Upper beginner
+Sex: Male
+Age: 23
+School/University/Institution: CUNY New York City College of Technology SPA 2201
+Major: Liberal Arts
+Year at university/school: 4
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 22
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <Y1><AC1>Senor Chaplin es caminando</AC1> y <AC1>fumar.</AC1> <Y1><AT1>La gente tira basura a el desde las ventanas</AT1> <AT1>el encuentra un bebe durante su caminar.</AT1> <AT1>El trata de <WS1><AT1>darle el bebe a otras personas.</AT1></WS1></AT1> <AT1>Una madre no quiere el bebe, <WX1><AC1>el bebe es no ella.</AC1></WX1></AT1> <Y2><AT1>El regrasa el bebe a la calle</AT1> pero <AT1>la policia lo ve.</AT1></Y2> <AT1>El da el bebe a un hombre.</AT1> <AT1>El hombre da el bebe a la madre.</AT1> <AT1>La madre golpea a Charlie con un paraguas.</AT1> <Y1>Al final <AI1>Charlie se sienta</AI1> y <AT1>lee la carta del bebe.</AT1></Y1> <AT1>El toma al bebe.</AT1>

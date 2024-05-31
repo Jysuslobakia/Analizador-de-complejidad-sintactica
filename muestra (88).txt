@@ -1,0 +1,50 @@
+Subcorpus: Learners
+Filename: JP_WR_37_44_15_14_SS
+Year data collection: 2017
+Placement test score (raw): 37 / 43
+Placement test score (%): 86
+Proficiency: Lower advanced
+Sex: Female
+Age: 44
+School/University/Institution: Ninguno
+Major: Economía internacional
+Year at university/school: 
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 15
+Years studying Spanish: 15
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language reading: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese)
+Text: <AT1>Una tarde <WX6><AT1>cuando Chaplin estaba dando un paseo,</AT1></WX6> unas cajas grandes vinieron volando hacia él.</AT1> <AC1>Fue una señora <WR1><AT1>que estaba las tirando desde arriba del edificio.</AT1></WR1></AC1> <Z>Qué brutal la señora,</Z> <AT1>él pensó.</AT1> <AT1>Pero siguió caminando.</AT1> <AT1>Y de repente un montón de basura se cayeron de nuevo desde arriba hacia él .</AT1> <Z>Qué calle tan peligroso,</Z> <Y1><AT1>él pensó</AT1>  y <AT1><WX6>cuando <AT1>miró adelante,</AT1></WX6> encontró un bebé llorando en la calle.</AT1></Y1> <Y1><AT1>Él pensó <WS1>que <AT1>este bebé también tiraron desde arriba</AT1></WS1></AT1> y <AT1>empezó a <WS1><AT1>buscar su madre <WX3>para <AT1>llevarselo.</AT1></WX3></AT1></WS1></AT1></Y1> <AT1><WX6><AT1>Al ver alrededor de sí mismo,</AT1></WX6> vió una señora <WR1><AT1>llevando cochecito del bebé.</AT1></WR1></AT1> <Y1><AI1>Él acercó a la señora, <WX5><AT1>diciendo <WS1>que <AT1>había caido su bebé</AT1></WS1></AT1></WX5></AI1> y <AT1>lo metó en su cochecito <WX5>donde <AC1>ya había estado el otro bebé.</AC1></WX5></AT1></Y1> <AT1>Pero ella le dijo <WS1><Y1>que <AC1>no era su bebé</AC1> y <AT1>que lo quitara.</AT1></Y1></WS1></AT1> <Y1><AT1>Entonces él lo llevó de nuevo</AT1> y <AT1>intentó a <WS1><AT1>tirarlo en la calle <WX5>donde <AC1>había estado antes.</AC1></WX5></AT1></WS1></AT1></Y1> 
+
+  <AI1>En ese momento, acercó una policía detras de él, <WX1>por eso <AT1>él lo cogió de nuevo sin ninguna manera.</AT1></WX1></AI1> <AT1><WX6><AT1>Al girar en la esquina,</AT1></WX6> afortunadamente había un viejo caminando.</AT1> <AT1>Le dió una buena idea a Chaplin.</AT1> <Y1><AI1>Él acercó a ese viejo</AI1> y <AT1>pidió <WS1>que <AT1>lo llevara por un ratio <WX6>mientras <AI1>apretaría los cordones de los zapatos.</AI1></WX6></AT1></WS1></AT1></Y1> <Y1><AT1>Y lo dejó en sus brazos del viejo</AT1> y <AI1>se escapó.</AI1></Y1> 
+
+  <AT1>Y ahora el viejo, buscó a Chaplin <WX3>para <AT1>devolverselo.</AT1></WX3></AT1> <Y1><AT1>Y en la calle encontró aquel cochecito de aquella señora</AT1> y <AT1>lo dejó en eso.</AT1></Y1> <Y1><AT1>Un ratito después aquella señora regresó al cochecito</AT1> y <AT1>encontró el bebé dormido.</AT1></Y1> <AT1>En justo de ese momento, Chaplin pasó al lado de ese cochecito.</AT1>
+
+<Y1><AT1><WX1><AC1>Como la señora estaba enfadada,</AC1></WX1> lo sigió a él</AT1> y <AT1>lo pegó.</AT1></Y1> <AT1>Y en ese momento la policía vinó.</AT1> <AI1>Entonces la señora se quejó a la policía de <WS1>que <AT1>Chaplin intentó a <WS1><AT1>dejar el bebé.</AT1></WS1></AT1></WS1></AI1>
+
+  <Y1><AT1>Chaplin lo cogió de nuevo</AT1> y <AT1>buscó un lugar <WX5>donde <AT1>pudiera tirarlo.</AT1></WX5></AT1></Y1> <Y1><AI1>Se sentó, <WX5><AT1>sintiendo el cansancio</AT1></WX5></AI1> y <AT1><WX6><AI1>al ver abajo,</AI1></WX6> había una cuneta.</AT1></Y1> <Y2><AT1>Pensó <WS1>que <AT1>iba a tirarlo en esa,</AT1></WS1></AT1> pero <AT1>lo detuvo.</AT1></Y2>
+
+　<AT1>Dentro de la mantilla del bebé él encontró un papelito en <WR1>que <AT1>estuvo escrito <WS1><Y1>que <AT1>lo amara</AT1> y <AT1>cuidara.</AT1></Y1></WS1></AT1></WR1></AT1> <Y1><AI1><WX6><AT1>Al mirar al bebé,</AT1></WX6> se dió cuenta de <WS1>que <AC1>estaba sonriendo hacia él</AC1></WS1></AI1> y <AC1>era muy amoroso.</AC1></Y1> <Y1><AT1>Y encima de la cara de Chaplin, apareció una sonrisa</AT1> y <AI1>se levantó llevándolo con el pensamiento de <WS1><AT1>cuidarlo.</AT1></WS1></AI1></Y1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_18_23_3_14_SA
+Year data collection: 2019
+Placement test score (raw): 18 / 43
+Placement test score (%): 41.9
+Proficiency: Upper beginner
+Sex: Female
+Age: 23
+School/University/Institution: الجامعة الاردنية
+Major: اللغات الاجنبيه الاسبانية و الانجليزية
+Year at university/school: السنة الرابعة
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 20
+Years studying Spanish: 3
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Background readings about the task topic (newspapers, internet, TV, etc.)
+Text: <AT1>La historia de la película sobre un niño pequeño,</AT1> <Y1><AI1>Charlie sale de su casa</AI1> y, <WX6><AI1>al caminar,</AI1></WX6> <AT1>encontró <WS1>que <AT1>un niño pequeño no sabía <WS1>qué <AI1>hacer con el niño.</AI1></WS1></AT1></WS1></AT1></Y1> <Y2><AT1>Intentó <WS1><AT1>irse en un automóvil con otro niño,</AT1></WS1></AT1> pero <AT1>no tuvo éxito.</AT1></Y2>  <Y1><AT1>Trató de <WS1><AT1>dárselo a una segunda persona</AT1></WS1></AT1> y <AT1>lo puso con el mismo niño en el carruaje.</AT1></Y1> <Y1>Pero <AT1>la mujer encontró a Charlie</AT1> y <AI1>el policía le gritó.</AI1></Y1> <Y1><AT1>Charlie tomó al niño</AT1> y <AT1>no supo <WS1>qué hacer.</WS1></AT1></Y1> <Y2><AT1>Pensó en arrojar al niño a la alcantarilla,</AT1> pero <Y1><AT1>no pudo.</AT1></Y2>  Y <AT1>guárdalo con él.</AT1></Y1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_19_20_2_14_BH
+Year data collection: 2019
+Placement test score (raw): 19 / 43
+Placement test score (%): 44.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 20
+School/University/Institution: Facultad de idiomas
+Major: Kfr elsheikh
+Year at university/school: 2016
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 1.75 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Monolingual dictionary (Spanish), Spellchecker
+Text: <AT1>Hay un hombre <WR1><Y1><AT1>encuentra un chico en calle</AT1></WR1> y <Y2><AT1>trato de <WS1><AT1>deshacerlo por <WS1><AT1>ponerlo con una madre <WR1><AT1>quien tiene otro chico</AT1></WR1></AT1></WS1></AT1></WS1></AT1></Y1>  pero <AT1>no lo sabe.</AT1></Y2></AT1> <Y2><AT1>En otra vez trato de ponerlo en su lugar</AT1> pero <AT1>el polício le encuentro</AT1></Y2> <AT1>Entonces en lo último, le gusta guárdalo</AT1>

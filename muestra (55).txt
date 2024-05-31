@@ -1,0 +1,43 @@
+Subcorpus: Learners
+Filename: JP_WR_9_20_2_14_S
+Year data collection: 2020
+Placement test score (raw): 9 / 43
+Placement test score (%): 20.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 20
+School/University/Institution: Seisen
+Major: Lengua y Literatura Española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Inside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese)
+Text: <AT1>Un día, <WX6>Cuando <AI1>Chaplin caminaba por la ciudad</AI1></WX6> que encontró a un bebé en la carretera.</AT1> <AT1>No pudo encontrar a los padres del bebé.</AT1> <AC1>Chaplin estaba perplejo.</AC1> <Y2><Y3><AT1>Entréguesela a los residentes de otras ciudades</AT1> o <AT1>póngala en la carretera</AT1></Y3> ... Pero <AT1>el bebé definitivamente regresará a Chaplin.</AT1></Y2> <Y1><AC1>Chaplin está perdido</AC1> y <AI1>se sentó en la carretera.</AI1></Y1> <AT1>Entonces, encontró la carta en la tela <WR1>que <AT1>envolvía al bebé.</AT1></WR1></AT1> 
+<AT1>Chaplin creía que <WS1>tirar esta bebé</WS1></AT1> <AT1>Sin embargo 
+Decía: <WS1>"Por favor <AT1>críe a esta niña encantadora".</AT1></WS1></AT1>  
+<AT1>Decidió criar al bebé</AT1>

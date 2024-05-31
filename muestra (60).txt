@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_12_30_0.7_14_NC
+Year data collection: 2017
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 30
+School/University/Institution: CUNY New York City College of Technology” and the Spanish course you’re taking: “SPA 1102
+Major: LIBERAL ARTS
+Year at university/school: SENIOR
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 30
+Years studying Spanish: 0.7
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 20
+Where the task was done: Outside classroom
+Resources used: Help from a Spanish native speaker, Bilingual dictionary (English/Spanish), Spellchecker
+Text: <Y1><AT1>UNA PELÍCULA SOBRE UN BEBÉ ENCONTRADO</AT1> Y <AT1>BUSCANDO AMOR.</AT1> <Y1><AT1>BEBÉ APARECE DEL CIELO</AT1> Y <AT1>EL HOMBRE NO LO QUIERE.</AT1></Y1> <AT1>MUJER NO QUIERE EL BEBÉ.</AT1> <AT1>COP CHASE EL HOMBRE.</AT1> <Y1><AT1>EL HOMBRE ENCUENTRA UNA NOTA EN EL BOLSILLO <WX5>PARA QUE <Y1><AT1>EL BEBÉ SE AMA</AT1> Y <AT1>CUIDADO</AT1></Y1></WX5></AT1> Y <AT1>EL TOMA EN EL BEBÉ.</AT1></Y1> <AT1>HOMBRE ES SIMPÁTICO PARA EL BEBÉ <WR1>QUE <AT1>NADIE QUIERE CUIDAR.</AT1></WR1></AT1> <Y1><AI1>La carta le hace sentirse triste</AI1> y <AT1>él mantendrá al bebé.</AT1></Y1> <AT1>gustó la película <WX1>fue corta y al punto</WX1></AT1>

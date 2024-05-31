@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_42_26_2_14_MG
+Year data collection: 2018
+Placement test score (raw): 42 / 43
+Placement test score (%): 97.7
+Proficiency: Upper advanced
+Sex: Female
+Age: 26
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 21
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2012
+Stay abroad (months): 6
+Language certificates (type and level): DELE B2
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.75 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1><WX6><Y1><AI1>Mientras Charlie Chaplin camina</AI1> y <AT1>fuma su cigarillo</AT1></Y1></WX6> encuentra un bebe dejado en la calle.</AT1> <Y1><AI1>De repente, una mujer pasa por ahi con una carroza</AI1> y <AI1><WX5><AT1>suponiendo <WS1>que <AC1>es de ella</AC1></WS1></AT1></WX5> se lo deja.</AI1></Y1> <Y1><AC1>Parece <WS1>que <AC1>la mujer no es la madre de bebe</AC1></WS1></AC1> y <AT1>Chrlie Chaplin decide <WS1><AT1>dejarlo en el mismo sitio <WR1>que <AT1>lo encontre,</AT1></WR1></AT1></WS1></AT1></Y1> <AI1>pero aparece un policia.</AI1> <Y1><AT1>Teniendo miedo de el, lo coge otra vez</AT1> y <AT1>con un truco lo deja a un pobre senor <WX4><AT1>resultando <WS1>que <AI1>el bebe termina otra vez en la carroza de la senora.</AI1></WS1></AT1></WX4></AT1></Y1> <Y1><AI1>Ella se enfada</AI1> y <AT1>pega a Charlie Chaplin</AT1></Y1> y <Y1><AI1><WX6><AI1>mientras se pelean</AI1></WX6> aparece otra vez la policia</AI1> y <AT1>el protagonista tiene que coger otra vez el bebe e irse.</AT1></Y1> <AT1>En ese momento, <WX5><AI1>sentado en la acera</AI1></WX5> descubre un papel cubierto en la ropa de bebe en <WR1>el que <AC1>esta escrito <WS1><Y1>que <AC1>es un huerfano</AC1> y <AT1>necesita amor y carino.</AT1></Y1></WS1></AC1></WR1></AT1>

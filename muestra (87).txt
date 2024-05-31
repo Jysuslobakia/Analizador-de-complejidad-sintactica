@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: EN_WR_39_24_1.5_14_JM
+Year data collection: 2017
+Placement test score (raw): 39 / 43
+Placement test score (%): 90.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 24
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 23
+Years studying Spanish: 1.5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Central America
+Stay abroad (when): 2012
+Stay abroad (months): 1
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <AT1>Charlie Chaplin tuvo un día muy extraño.</AT1> <AI1>Caminaba por la calle, <WX6>cuando de repente, <AT1>encontró un bebé.</AT1></WX6></AI1> <Y1><AC1>El bebé era muy joven</AC1> y <AT1>llevaba mantas.</AT1></Y1> <Y2><AT1>A Charlie no le gustaban los bebés,</AT1> pero <AT1>no quería <WS1><AT1>dejarlo allí.</AT1></WS1></AT1></Y2> <AT1>Por suerte, vio a una mujer <WR1><AT1>que tenía un bebé también.</AT1></WR1></AT1> <Y1><AI1>Charlie corrió a ella</AI1> y <AT1>puso al bebé en su cochecito.</AT1></Y1> <AC1>Ella no estuvo feliz.</AC1> <Y1><AT1>Charlie regresó <WX5>a donde <AT1>el encontró al bebé</AT1></WX5></AT1> y <AT1>lo puso en el suelo.</AT1></Y1>
+<AT1>Desafortunadamente, un policía estuvo mirando.</AT1> <Y2><AT1>Charlie siguió intentando,</AT1> pero <AT1>no pudo <WS1><AT1>dejar al bebé.</AT1></WS1></AT1></Y2> <AT1>En el final, encontró una nota con el bebé con las palabras <WS1><Y1><AT4>"Por favor, ame</AT4> y <AT4>cuide de este niño huérfano".</AT4></Y1></WS1></AT1> <Y1><AT1>Charlie miró al bebé</AT1> y <AI1>sonrió.</AI1></Y1>  <AT1>Vivieron una vida feliz juntos.</AT1>

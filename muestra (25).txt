@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_41_37_4_14_SA
+Year data collection: 2019
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Female
+Age: 37
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 19
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Upper intermediate (B2)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 3.75 / 6
+Additional foreign language(s): French, English
+Proficiency (self-assessment) in additional language speaking: Lower advanced (C1)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>Chaplin va saliendo a la calle en un sitio <WR1>donde <AT1>tiran bajura por la ventana</AT1></WR1></AT1>. <Y1><AT1><WX6>Despues de limpiarse</WX6> enciende un cigarrillo</AT1> y <AT1><WR2>caminando por la calle</WR2> encuentra un bebe tirado en el suelo.</AT1></Y1> <Y2>Poco despues, <AT1>intenta ponerlo en un coche de una señora <WR1>que <AT1>tenia ya otro bebe,</AT1></WR1></AT1> pero <WX1>como <AI1>ella grita con el</AI1></WX1></Y2> <Y1><AT1>lo vuelve a recoger</AT1> y <Y2><AT1>una vez mas <WR1>caminando por la calle</AT1></WR1> <AT1>intenta dejarlo en el mismo sitio</AT1></Y1> pero <Y1><AT1>un policia lo miro</AT1> y <AT1>lo vuelve a recoger.</AT1></Y1></Y2> <Y1><AT1><WX6><AI1>Encuanto caminaba una vez mas,</AI1></WX6> encuentra un anciano</AT1> e <AT1>intenta dejarle la cria <WX5>simulando hacer los cordones.</WX5></AT1></Y1> <Y1><AT1>El senõr mira al un coche con un bebe, el mismo <WR1>que <AT1>Chaplin habia visto,</AT1></WR1></AT1> y <AT1>deja alla el bebe.</AT1></Y1> <Y1><AT1><WX6>Mientras Chaplin cruza la calle</WX6> la señora se enfada con el</AT1> y <AT1>este vuelve a recoger la cria <WX6>una vez que <AC1>el polocia esta presente.</AC1></WX6></AT1></Y1> <AT1>Por fin, <WR2>sentado en el paseo se da cuenta de</WR2> <WS1>que <AT1>hay un billete en el pecho de la cria</AT1> <WR1>que <AT1>pedia para</AT1> <WS1><AT1>dar amor y cuidados al pequeño uerfano.</AT1></WS1></WR1></WS1></AT1>

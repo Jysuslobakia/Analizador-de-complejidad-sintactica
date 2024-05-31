@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_14_20_1_14_DYD
+Year data collection: 2018
+Placement test score (raw): 14 / 43
+Placement test score (%): 32.6
+Proficiency: Upper beginner
+Sex: Male
+Age: 20
+School/University/Institution: New York City College of Technology
+Major: Human Services
+Year at university/school: Junior
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 19
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 1.75 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish), Spellchecker
+Text: <AT1>En el cortometraje de 1921, "The Kid" por Charlie Chaplin, un hombre se ve obligado a <WS1><AT1>cuidar de un bebé <WR1>que <AT1>no tiene padres.</AT1></WR1></AT1></WS1></AT1> <AT1>Charlie Chaplin juega "Vagabundo" en esta película, <WR1>donde <AC1>él es un hombre <WR1>que <AI1>va caminando por un barrio.</AI1></WR1></AC1></WR1></AT1> <Y1><AT1>Es fumar</AT1> y <AT1>jugueteaban <WX6>hasta que <AT1>él consigue golpe con un montón de asfalto.</AT1></WX6></AT1></Y1> <Y1>Entonces, <AT1>él está buscando a su derecha y en el piso,</AT1> <AI1>se da cuenta de un bebé llorando.</AI1></Y1> <AT1><WX5>Como la película va,</WX5> él va alrededor tratando de <WS1><AT1>encontrar a la madre o el padre del niño.</AT1></WS1></AT1> <Y1>Después de <WS1>que <AT1>él no tiene éxito,</AT1></WS1> <AT1>va en la manta de los bebés</AT1> y <AI1>da cuenta de una nota <WR1>que <AT1>dice: "Por favor, <WS1><Y1><AT1>amar</AT1> y <AT1>cuidar a este niño huérfano".</AT1></Y1></WS1></AT1></WR1></AI1></Y1> <Y1>Después de <WS1>que <AT1>él lea esto,</AT1></WS1> <AI1>sonríe al bebé</AI1> y <AT1>lo lleva a casa.</AT1></Y1>

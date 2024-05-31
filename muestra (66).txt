@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_12_26_0.5_14_EH
+Year data collection: 2020
+Placement test score (raw): 12 / 43
+Placement test score (%): 27.9
+Proficiency: Lower beginner
+Sex: Female
+Age: 26
+School/University/Institution: جامعه
+Major: كفرالشيخ
+Year at university/school: 2015
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 25
+Years studying Spanish: 0.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Arabic)
+Text: <Y1><AT1><WX6>Cuando <AC1>Chaplin estaba caminando,</AC1></WX6> vio a un niño al lado de uno de los contenedores de basura</AT1> y <AT1>quiso <WS1><AT1>buscar a su madre.</AT1></WS1></AT1></Y1> <Y2><AI1><WX6>Cuando <AT1>vio a una mujer <WR1><AI1>caminando en su automóvil con un niño con él,</AI1></WR1></AT1></WX6> se dio cuenta de <WS1>que <AC1>era su hijo,</AC1></WS1></AI1> pero <AT1><Y1><AT1>lo giró</AT1> y <AT1>le pidió <WS1>que <AT1>dejara al niño árabe.</AT1></WS1></AT1></Y1></AT1></Y2>  <Y1><AT1>Para un hombre pobre</AT1> y <AI1>huyó,</AI1></Y1> <Y2><AT1>el hombre siguió buscándolo,</AT1> pero <AT1>no lo encontró,</AT1></Y2> <Y1><AT1>por lo que lo colocó en su automóvil, la mujer con un niño,</AT1> y <AT1><WX6>cuando <AI1>Chaplin se aseguró de <WS1>que <AC1>estaba a salvo,</AC1></WS1></AI1></WX6> apareció de nuevo,</AT1></Y1> <Y1><AT1>pero por su mala suerte, la mujer lo volvió a ver</AT1> y <AT1>lo castigó,</AT1></Y1> y <AT1>la policía le informó sobre él.</AT1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_40_33_6_14_AA
+Year data collection: 2018
+Placement test score (raw): 40 / 43
+Placement test score (%): 93
+Proficiency: Lower advanced
+Sex: Female
+Age: 33
+School/University/Institution: University of California, Irvine
+Major: Speech and Hearing Science
+Year at university/school: PostDoctoral Education Researcher
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English, Spanish
+Age of exposure to Spanish: 13
+Years studying Spanish: 6
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain, Argentina, Chile
+Stay abroad (when): 2004, 2006, 2014
+Stay abroad (months): 16
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower advanced (C1)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): French
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AI1>Un día, Charlie Chaplin estaba caminado por un callejón <WS6><AT1>cuando el vecino estaba botando algo por la ventana.</AT1></WS6></AI1> <Y1><AT1>Paró al lado de una caneca</AT1> y <AT1>encendió su cigarro, <WX5>prendiendo el fósforo contra su zapato.</WX5></AT1></Y1> <AT1><WX6><AI1>Cuando estaba fumando,</AI1></WX6> vio <WS1>que <AT1>había un bebé acostado en el suelo por un lado del callejón.</AT1></WS1></AT1> <Y1><AT1>Levantó al bebe</AT1> y <AT1>miraba por todos lados <WX6><AT1>cuando vio una señora con su cochecito.</AT1></WX6></AT1></Y1> <Y2><AT1>La señora llevaba otro bebé,</AT1> pero <AT1>Charlie pensaba <WS1><AC1>que el bebé <WR2><AT1>que había encontrado</AT1></WR2> también era de la señora,</AC1></WS1></AT1></Y2> <Y1><AI1>así que fue</AI1> y <AT1>puso el bebé en el cochecito de la señora.</AT1></Y1> <AI1><WX6><AI1>Cuando salió la señora,</AI1></WX6> se puso furiosa <WX1>porque <AC1>no era su bebé.</AC1></WX1></AI1> <Y1><AT1>Entonces, Charlie llevó all bebé de  nuevo</AT1> y <AT1>lo iba a poner en el mismo sitio <WR1>donde <AT1>lo había encontrado.</AT1></WR1></AT1></Y1> <AI1>Pero justo <WX6>cuando <AT1>iba a poner el bebé allá,</AT1></WX6> pasó un policía, <WX4>así que <AT1>Charlie seguía cargando el bebé.</AT1></WX4></AI1> <AT1>Vio <WS1>que <AT1>había un señor cojo caminando en la calle.</AT1></WS1></AT1> <Y1><AI1>Charlie fue</AI1> y <AT1>le pidió al señor <WS1>que <AT1>le cargara el niño <WX6>mientras <AT1>él ataba su zapato.</AT1></WX6></AT1></WS1></AT1></Y1> <AI1><WX6>Mientras <AT1>el señor le tenía el bebé,</AT1></WX6> Charlie se fue corriendo.</AI1> <Y2><AT1>El señor no sabía <WS1><AI2>que hacer,</AI2></WS1></AT1> pero <AT1>también vio el cochecito de la misma señora</AT1></Y2> y <Y1><AI1>se fue</AI1> y <AT1>dejó el bebé allá.</AT1></Y1> <AI1>La señora salió otra vez de una tienda <Y2><AT1>(me pregunto <WS1><AI4>porque había dejado a su bebé en un cochecito solo en la calle,</AI4></WS1></AT1> pero <AC1>esa es otra historia)</AC1></Y2> justo <WX6><AT1>cuando Charlie estaba pasando en frente.</AT1></WX6></AI1> <Y1><AT1>Llamó al policía</AT1> y <AI1>Charlie se fue otra vez con el bebé.</AI1></Y1> <Y1><AI1>Se fue a sentar con el bebé</AI1> y <AT1>encontró una nota <WR1><AT1>que decía <WS1><AT4>"Por favor cuide a este bebé huérfano".</AT4></WS1></AT1></WR1></AT1></Y1> <AC1>Y parecía entonces <WS1>que <AT1>Charlie decidió <WS1><AT1>quedarse con el bebé.</AT1></WS1></AT1></WS1></AC1>

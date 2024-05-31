@@ -1,0 +1,51 @@
+Subcorpus: Learners
+Filename: JP_WR_20_19_1.5_14_TAQ
+Year data collection: 2019
+Placement test score (raw): 20 / 43
+Placement test score (%): 46.5
+Proficiency: Upper beginner
+Sex: Female
+Age: 19
+School/University/Institution: 帝京大学
+Major: 外国語学部外国語学科スペイン語コース
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 1.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.25 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 60
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (Spanish/Japanese)
+Text: <AI1>Un hombre está caminando.</AI1> 
+<AI1>Y él fumando.</AI1>
+<AT1>después la busura ha caido.</AT1>
+<Y1><AT1>Se quita los guantes</AT1> y <AT1>saca otro cigarrillo.</AT1></Y1>
+<AT1>Luego,desecha los guantes.</AT1>
+<Y1><AT1>Él encontrar un bebé</AT1> y <AT1>lo levanta.</AT1></Y1>
+<Y1><AT1>Él pone este bebé en cochecito de la mujer.</AT1> Pero <AT1>la mujer se enfada.</AT1></Y1>
+<AT1>Otra vez lleva el bebé.</AT1>
+<WX6><AT1>Cuando ponía el bebé,</AT1> <AT1>había la policía.</AT1></WX6>
+<Y1><AT1>Entregue el bebé al viejo</AT1> y <AT1>huye.</AT1></Y1>
+<AT1>El viejo pone este bebé en cochecito de la mujer.</AT1> <Y1>Después <AT1>ella se enfada</AT1> y <AT1>golpea a un hombre.</AT1></Y1>
+<Y1>Otra vez <AT1>lleva el bebé</AT1> y <AT1>sentarse en la calle</AT1></Y1>. <AT1>Entonces encontró una carta.</AT1>

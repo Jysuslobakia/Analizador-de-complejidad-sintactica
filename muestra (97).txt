@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: AR_WR_37_30_8_14_A
+Year data collection: 2020
+Placement test score (raw): 37 / 43
+Placement test score (%): 86
+Proficiency: Lower advanced
+Sex: Male
+Age: 30
+School/University/Institution: Universidad de  Cairo
+Major: Universidad de  minia
+Year at university/school: Graduado
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 18
+Years studying Spanish: 8
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2.25 / 6
+Additional foreign language(s): French
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Lower beginner (A1)
+Proficiency (self-assessment) in additional language writing: Lower beginner (A1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>El video cuenta  las acciones de <WS1><AT1>quitar un bebé en la calle  .</AT1></WS1></AT1> <Y2><AT1>intenta dejarle ,</AT1> pero <AT1>leo vio el policía.</AT1></Y2>  <Y1><AT1>Después  le dio a un anciano</AT1>  y  <AI1>corrió</AI1></Y1> y <AT1>el anciano por su vez intentó <WS1><AT1>dejarle al bebé  <WX5><AT1>encontrando  un carro <WX5><AT1>donde le puso  allí</AT1></WX5></AT1></WX5></AT1></WS1></AT1>  <Y2><AT1>cgablen le toma otra vez al bebé <WX3>para <AT1>dejarle en algún lugar</AT1></WX3></AT1> pero <PI1>todos los intentos fueron fracasados</PI1></Y2> <Y1><AT1>al final encontró una papel con el bebé</AT1> y <AT1>creo <WS1>que  <AT1>va a crearle.</AT1></WS1></AT1></Y1>

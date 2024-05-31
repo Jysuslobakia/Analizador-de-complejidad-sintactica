@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_35_34_13_14_CK
+Year data collection: 2018
+Placement test score (raw): 35 / 43
+Placement test score (%): 81.4
+Proficiency: Upper intermediate
+Sex: Male
+Age: 34
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 21
+Years studying Spanish: 13
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): , DELE B1, KΡΑΤΙΚΟ ΠΙΣΤΟΠΟΙΗΤΙΚΟ ΓΛΩΣΣΟΜΑΘΕΙΑΣB2
+Proficiency (self-assessment) speaking: Upper intermediate (B2)
+Proficiency (self-assessment) listening: Lower advanced (C1)
+Proficiency (self-assessment) reading: Lower advanced (C1)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 4.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 10
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>(Mi ordenador no puede escribir en espanol)</AT1> <AT1>Εn esta pequena pelicula podemos ver el actiz famoso Charles Chaplin en una historia carinosa.</AT1> <AT1><WX2>Aunque <AC1>es una actriz comica</AC1></WX2> quiere pasar algunos mensajes muy importantes relevemente con la vida.</AT1> <AT1>Por ejemplo vemos a Chaplin <WR1>que <AT1>intente <WS1><AT1>ayudar un nino <WR1>que <AT1>encuentra en las basuras.</AT1></WR1></AT1></WS1></AT1></WR1></AT1> <Y2><AT1>En el principio da el nino a una senora</AT1> pero <AT1>finalmente guarda este nino el mismo.</AT1></Y2> <Z>Una historia hermosa con emociones muy duras</Z>

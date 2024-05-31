@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: PT_WR_22_19_2.5_14_FACS
+Year data collection: 2019
+Placement test score (raw): 22 / 43
+Placement test score (%): 51.2
+Proficiency: Lower intermediate
+Sex: Female
+Age: 19
+School/University/Institution: Séc campos melo
+Major: Curso profissional
+Year at university/school: 12
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 17
+Years studying Spanish: 2.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AT1>Chaplin encontró a un bebé abandonado en la calle cuando <WX6>estaba encendiendo un cigarro,</WX6></AT1> <Y1><AT1>él miró al niño,</AT1> <AT1>lo cogió por el cuello</AT1>
+y <AI1>trató de dudar de una señora <WR1>que <AI1>estaba caminando en la calle con su hijo</AI1></WR1></Y1> <Y1>después <AT1>la señora vio</AT1> y <AT1>reprendió a él</AT1></Y1> <Y1><AT1>intentó por el cuello</AT1> y <AT1>un guardia vio,</AT1> <AT1>lo cogió otra vez</AT1> y <AT1>se quedó con él.</AT1></Y1> <AI1>Gusto mucho de lá película.ahahahahahahahahahahahahahahahahahahahahahahahahahah</AI1>

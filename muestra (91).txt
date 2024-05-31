@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_40_48_5_14_KK
+Year data collection: 2020
+Placement test score (raw): 40 / 43
+Placement test score (%): 93
+Proficiency: Lower advanced
+Sex: Female
+Age: 48
+School/University/Institution: Ninguno
+Major: Literatura norteamericana
+Year at university/school: Master
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 26
+Years studying Spanish: 5
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Spain
+Stay abroad (when): 2001-2002
+Stay abroad (months): 13
+Language certificates (type and level): DELE B2
+Proficiency (self-assessment) speaking: Lower intermediate (B1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper intermediate (B2)
+Proficiency (self-assessment) writing: Upper intermediate (B2)
+Proficiency (self-assessment): 3.5 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 50
+Where the task was done: Outside classroom
+Resources used: Spellchecker
+Text: <Y1><AT1>Chaplin que lleva un sombrero negro</AT1> y <AT1>tiene un bastón</AT1> y <AT1>viste una chaqueta negra y una corbata negra.</AT1></Y1> <AT1>Lleva los pantalones anchos y los zapatos grandes.</AT1> <AC1>Es muy Chaplin.</AC1> <AI1>Estaba caminando en un callecito <WR1><AC1>que parece <WS1><AC1>está en la zona <WX5>donde <AI1>viven los obreros.</AI1></WX5></AC1></WS1></AC1></WR1></AI1> <Y1><AC1>El calle está lleno de basuras,</AC1> y <AI1>justo Chaplin está pasando debajo de la ventana,</AI1></Y1> <AT1>un vecino tira las basuras a fuera.</AT1> <Y1><AI1>Chaplin se gira</AI1> y <AI1>sigue caminando</AI1> y <AI1>fumando el cigarro sin problema.</AI1></Y1> <Y1><AI1><WX6>Cuando <AT1>tiende el bastón,</AT1></WX6> de repente se callen piedras a él</AI1> y <AI1>se calle el cigarro.</AI1></Y1> <Y2><AT1>Chaplin busca un nuevo cigarro,</AT1> pero <AT1>en su cajon no queda ni un cigarro nuevo.</AT1></Y2> <AT1>Chaplin elige lo más largo.</AT1> <Y1><AC1>Sus guantes son muy viejos</AC1> y <AT1>tienen huecos.</AT1></Y1> <Y1><AT1>Toca el cigarro al cajón metálico</AT1> y <AI1>se quita las guantes</AI1></Y1> y <AT1>enciende el juego al cigarro.</AT1> <AT1>Chaplin tira las guantes a un cubo grande a su lado.</AT1> <AT1>Al mismo tiempo, se encuentra un bebé llorando en el rincón.</AT1> <AC1>Es un bebé abandonado.</AC1> <AT1>Chaplin mira arriba <WX5>como <AT1>si hubiera hay alguien <WR1><AT1>recién ha tirado el bebé por ventana.</AT1></WR1></AT1></WX5></AT1> <AT1>Lo coge.</AT1> <AI1>Viene una señora del vestido negro con su bebé en un carrito.</AI1>  <AT1>Chaplin piensa <WS1>que <AC1>es la madre del bebé.</AC1></WS1></AT1> <Y1><AT1>Chaplin acerca a la señora <WX5><AT1>llamando su atención</AT1></WX5></AT1> y <AT1>mete el bebé a su carrito</AT1></Y1> y <AT1>dice, <WS1><AT4>" Perdóname.</AT4> <AT1>Te ha caído algo."</AT1></WS1></AT1> <AT1>La señora lo niega furiosamente.</AT1> <AC1>Parece <WS1><AT1>dice <WS1>que <AC1>no es su bebé.</AC1></WS1></AT1></WS1></AC1> <Y1><AT1>Chaplin lo coge otra vez</AT1> y <AT1>decide <WS1><AT1>dejarlo a la calle.</AT1></WS1></AT1></Y1> <Y1><AI1>Sin embargo, viene un policía</AI1> y <AT1>vigira <WR1><AT1>lo que está haciendo Chaplin.</AT1></WR1></AT1></Y1> <AT1>Él no puede dejarlo.</AT1> <AT1><WX0><AT1>Si lo deja,</AT1></WX0> la policia va a detener a Chaplin por el negrezco de la paternidad.</AT1> <AT1>Chaplin no tiene otra opción,</AT1> <Y1><AI1>otra vez se lleva el bebé</AI1> y <AI1>aleja del policía.</AI1></Y1> <Y1><AT1>Gira la esquina</AT1> y <AT1>se encuentra un hombre viejo <WR1><AT1>que lleva un sombrero como Chaplin.</AT1></WR1></AT1></Y1> <AC1>Es un hombre de la misma clase de Chaplin.</AC1> <AT1>No tiene cara de el rico.</AT1> <AT1>Chaplin pasa el bebé a este hombre <WX5><AT1>imitando atar el cordon de su zapato.</AT1></WX5></AT1>  <AI1><WX6><AI1>Mientras esperando el hombre,</AI1></WX6> Chaplin se huya rápidamente.</AI1> <AT1>El hombre viejo busca a Chaplin escondido.</AT1> <Y1><AT1>No puede devolverselo</AT1> y <AT1>el hombre viejo mete el bebé al carrito de aquella señora.</AT1></Y1> <Y1><AT1>Sin tener la fortuna, la señora coincide a Chaplin</AT1> y <AT1>le da los golpes.</AT1></Y1> <Y1><AT1>Además volviendo la policía</AT1> y <AT1>la señora le reclama <WS1>que <AT1>Chaplin ha intentado algunas veces <WS1><AT1>dejar el bebé a su carrito.</AT1></WS1></AT1></WS1></AT1></Y1> <Z>l bebé otra vez en su mano.</Z> <Y1><AT1>Chaplin teniendo el bebe</AT1> y <AI1>se sienta al calle.</AI1></Y1> <Y2><AT1>Le pasa una idea de meterlo en el canal,</AT1> pero <AT1>no puede <WS1><AT1>cometir esa acción tan cruel.</AT1></WS1></AT1></Y2> <AT1>Al final Chaplin encuentra una nota <WR1><AT1>que escribió la madre del bebé en su manta.</AT1></WR1></AT1> <Y1><AT1>Chaplin siente el amor de la madre</AT1> y <AT1>decide <WS1><AI1>vivir con él.</AI1></WS1></AT1></Y1>

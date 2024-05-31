@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_28_21_2_14_SN
+Year data collection: 2018
+Placement test score (raw): 28 / 43
+Placement test score (%): 65.1
+Proficiency: Lower intermediate
+Sex: Male
+Age: 21
+School/University/Institution: Sophia University
+Major: International Business and Economics
+Year at university/school: 3
+L1: English
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: English, Japanese
+Age of exposure to Spanish: 19
+Years studying Spanish: 2
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Lower intermediate (B1)
+Proficiency (self-assessment) writing: Lower intermediate (B1)
+Proficiency (self-assessment): 2.5 / 6
+Additional foreign language(s): Japanese
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Lower advanced (C1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 24
+Where the task was done: Outside classroom
+Resources used: Monolingual dictionary, Spellchecker
+Text: <AI1>Un día, señor Chaplin estaba caminando <WX6><AI1>mientras estaba fumando.</AI1></WX6></AI1> <AT1>Entonces ve un bebe.</AT1> <AT1>Señor Chaplin entonces ve una mejor con cart de bebe.</AT1> <Y2><AT1>Él pregunta la mejor si es su bebe,</AT1> pero <AT1>ella dice no.</AT1></Y2> <AT1>Entonces él decide <WS1><AT1>pone el bebe <WX6><AT1>donde verlo.</AT1></WX6></AT1></WS1></AT1> <Y1><AT1>Pero entonces una policía encuentra</AT1> <AT1>él pone el bebe</AT1></Y1> <AT1>entonces señor Chaplin tiene que caminar con bebe.</AT1> <AT1>Él entonces ve una persona similar a él.</AT1> <AT1>Señor Chaplin da bebe a persona de similar.</AT1> <AT1>El persona de similar además ver cart de bebe  sin la mejor,</AT1> <Y1><AT1>entonces pone un bebe allí</AT1> <AI1>entonces camina a casa.</AI1></Y1> <AT1><WX6><AI1>Cuando la mejor va a fuera,</AI1></WX6> ella ve dos bebés.</AT1> <Y1><AT1>Ella entonces ve señor Chaplin</AT1> <AT1>entonces da el bebe.</AT1></Y1> <Y2><AT1>Señor Chaplin crea sobre sale el bebe,</AT1> pero <AT1>encuentra un carta de la madre del bebe.</AT1></Y2> <AT1>Lo dice <WS1><AT4>"Por favor, ama este bebe".</AT4></WS1></AT1>

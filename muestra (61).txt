@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_10_20_1_14_RC
+Year data collection: 2017
+Placement test score (raw): 10 / 43
+Placement test score (%): 23.3
+Proficiency: Lower beginner
+Sex: Male
+Age: 20
+School/University/Institution: City Tech
+Major: CST
+Year at university/school: 3
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 19
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1.25 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: 
+Proficiency (self-assessment) in additional language listening: 
+Proficiency (self-assessment) in additional language reading: 
+Proficiency (self-assessment) in additional language writing: 
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 30
+Where the task was done: Outside classroom
+Resources used: Bilingual dictionary (English/Spanish), Spellchecker, Grammar book
+Text: <Y1><AI1>Charlie Chaplin está caminando por algunos edificios <WX5>cuando <AT1>él consigue la basura lanzada en él</AT1></WX5></AI1> y <AT1>lo llaman un asno incómodo.</AT1></Y1> <AT1>A continuación, saca una lata <WR1>que <AT1>tiene cigarrillos en ellos,</AT1></WR1></AT1> <Y1><AT1>saca una</AT1> y <AI1>comienza a fumar.</AI1></Y1> <AT1><WX6>Mientras que <AT1>fuma</AT1></WX6> ve a un bebé <WR1>que <Y1><AI1>grita en la tierra</AI1> y <AT1>mira alrededor para la madre.</AT1></Y1> <AT1>Él ve a una mujer con un cochecito <WR1><AT1>pasando,</AT1></WR1></AT1> <AI1>se detiene</AI1> <Y1><AT1>le dice <WS1>"<AT4>perdóname <WX1><AT1>cayó algo</AT1></WX1></AT4>"</WS1></AT1> y <AT1>pone al bebé en el cochecito.</AT1></Y1> <Y1><AI1>Ellos discuten</AI1> y <AT1>él toma al bebé.</AT1></Y1> <Y2><AT1>Charlie va a poner al bebé en el mismo lugar <WR1>que <AT1>él lo encontró</AT1></WR1></AT1> pero <AT1>un policía lo ve</AT1></Y2> y <Y1><AT1>lo detiene</AT1> y <AI1>se va con el bebé.</AI1></Y1> <AT1><WX6>Mientras <AI1>camina con el bebé,</AI1></WX6> ve a un hombre viejo</AT1> y <Y2><AT1>le pide <WS1>que <AT1>sostenga al bebé <WX3>para que <AT1>pueda atarse el zapato,</AT1></WX3></AT1></WS1></AT1> pero <AT1>acaba <WS1><AI1>huyendo</AI1></WS1></AT1></Y2> y <AI1>se esconde.</AI1> <Y2><AT1>El viejo trata de seguirlo</AT1> pero <AT1>no puedo encontrarlo <WX4>así que <AI1>comienza a caminar</AI1></WX4></AT1></Y2> y <AT1>ve el mismo cochecito <WR1>que <AT1>la mujer de antes tiene</AT1></WR1></AT1> y <Y1><AT1>pone al bebé en el cochecito</AT1> y <AI1>se escapa.</AI1></Y1> <AT1>La mujer sale de la tienda</AT1> shes en <AT1>ve el segundo bebé</AT1> y <AT1>luego ve a Charlie caminando <WX1><Y1>por lo que <AI1>corre</AI1> y <AT1>lo golpea en la cabeza con un paraguas</AT1></Y1></WX1></AT1> <AT1>diciéndole <WS1>que <AT1>tomar el bebé de nuevo</AT1></WS1> y <Y2><AI1>él comienza a discutir,</AI1> pero <AI1>el policía se agacha</AI1> tan <AT1>Él toma al bebé sin más alboroto.</AT1> <AI1>Finalmente se sienta</AI1> <Y2>considera <WS1><AT1>poner al bebé en la alcantarilla</AT1></WS1> pero <AT1>no lo hace</AT1></Y2> <AT1>entonces lee la nota adjunta al bebé</AT1> <Y1><AI1>sonríe</AI1> y <AI1>se va.</AI1>

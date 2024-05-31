@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: PT_WR_41_40_5_14_SP
+Year data collection: 2019
+Placement test score (raw): 41 / 43
+Placement test score (%): 95.3
+Proficiency: Upper advanced
+Sex: Female
+Age: 40
+School/University/Institution: .
+Major: .
+Year at university/school: .
+L1: Portuguese
+Father's native language: Portuguese (European)
+Mother's nativelanguage: Portuguese (European)
+Languages spoken at home: Portuguese
+Age of exposure to Spanish: 21
+Years studying Spanish: 5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): Dele C2
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Upper advanced (C2)
+Proficiency (self-assessment): 6 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper intermediate (B2)
+Proficiency (self-assessment) in additional language listening: Lower advanced (C1)
+Proficiency (self-assessment) in additional language reading: Lower advanced (C1)
+Proficiency (self-assessment) in additional language writing: Upper intermediate (B2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 6
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>El video trata de un hombre <WR1>que <AI1>se encuentra a un bebé en la calle.</AI1></WR1></AT1> <Y2><AT1>Primero intenta <WS1><AT1>dejarselo con una mujer <WR1>que pasaba con un carro de bebé,</WR1></AT1></WS1></AT1> pero <Y1><AI1>ella se dió cuenta</AI1> y <AT1>le obligó a <WS1><AT1>llevar al niño.</AT1></WS1></AT1></Y1></Y2> <Y2><AT1>Casi lo deja en el mismo sitio, en el suelo,</AT1> pero <AT1><WX1>como <AI1>aparece un policia,</AI1></WX1> vueve a recogerlo.</AT1></Y2> <Y2><AT1>Mientras tanto, lo deja con un viejo, en la calle,</AT1> pero <AT1>este lo pone en la carro de bebé de la misma mujer.</AT1></Y2> <Y1><AT1><WX6>Cuando <AI1>el hombre pasa por ella,</AI1></WX6> ella lo reconoce</AT1> y <AI1>corre <WX3>para <AT1>pegarle con el paráguas</AT1></WX3></AI1></Y1> y <AT1>le obliga a coger el bebé.</AT1> <AT1>El hombre no tiene otro remedio <WS1>que <AT1>quedarse con el niño,</AT1></WS1> después de <WS1><AT1>encontrar un billete <WR1>que <AT1>pide para <WS1><AT1>cuidar al órfano.</AT1></WS1></AT1></WR1></AT1></WS1></AT1>

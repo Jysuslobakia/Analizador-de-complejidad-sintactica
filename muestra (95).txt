@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_37_36_1_14_ED
+Year data collection: 2018
+Placement test score (raw): 37 / 43
+Placement test score (%): 86
+Proficiency: Lower advanced
+Sex: Male
+Age: 36
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Greek
+Languages spoken at home: Greek
+Age of exposure to Spanish: 32
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Latin America
+Stay abroad (when): 2015
+Stay abroad (months): 13
+Language certificates (type and level): Δεν έχω διπλωμα
+Proficiency (self-assessment) speaking: Upper advanced (C2)
+Proficiency (self-assessment) listening: Upper advanced (C2)
+Proficiency (self-assessment) reading: Upper advanced (C2)
+Proficiency (self-assessment) writing: Lower advanced (C1)
+Proficiency (self-assessment): 5.75 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper advanced (C2)
+Proficiency (self-assessment) in additional language listening: Upper advanced (C2)
+Proficiency (self-assessment) in additional language reading: Upper advanced (C2)
+Proficiency (self-assessment) in additional language writing: Upper advanced (C2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 3
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1><WX6><Y1><AI1>Mientras Charlie está andando por la calle</AI1> y <AT1>fumando un cigarillo,</AT1></Y1></WX6> encuentra un bebé en la esquina de la calle.</AT1> <Y2><AT1>Al principio piensa <WS1>que <AC1>es de una señora pasando por ahí</AC1></WS1></AT1> pero <AT1>ella lo nega.</AT1></Y2> <Y2><AT1>Después, quiere <WS1><AT1>dejarlo a <WX5>donde <AT1>lo encontró</AT1></WX5></AT1></WS1></AT1> pero <AT1>al fin no puede hacerlo <WX1>por que <AT1>aparece un policia.</AT1></WX1></AT1></Y2> <AT1>En la próxima escena deja el bebé a las manos de un señor viejo, <WR2>quien <AT1>además lo pone al carrito de bebé de la mujer de antes.</AT1></WR2></AT1> <Y1><AT1>La señora ve Charlie <WS1><AI1>pasar</AI1></WS1></AT1> y <AI1>aa fin de la historia Charlie se queda con el bebé.</AI1></Y1>

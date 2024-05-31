@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: GR_WR_22_23_1_14_KP
+Year data collection: 2018
+Placement test score (raw): 22 / 43
+Placement test score (%): 51.2
+Proficiency: Lower intermediate
+Sex: Female
+Age: 23
+School/University/Institution: 
+Major: 
+Year at university/school: 
+L1: Greek
+Father's native language: Greek
+Mother's nativelanguage: Spanish
+Languages spoken at home: Spanish
+Age of exposure to Spanish: 2
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): Yes
+Stay abroad (where): Dominican Republic
+Stay abroad (when): 2002
+Stay abroad (months): 1
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower intermediate (B1)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language listening: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Lower intermediate (B1)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 5
+Where the task was done: Outside classroom
+Resources used: 
+Text: <Y1><AT1>En el video Charles Chaplin esta caminando</AT1> y <AT1>fuma un sigarillo <WX6>cuando <AT1>oye un bebe llorando en la calle.</AT1></WX6></AT1></Y1> <Y1><AT1>Encuentra el bebe en la calle</AT1> y <AT1>no se <WS1>que <AI1>hacer con el.</AI1></WS1></AT1></Y1> <Y2><AT1>Quiere dalo en un madre <WR1>que <AT1>tenia otro hijo <WX1>porque <AT1>el empiensa <WS1>que <AC1>el bebe es de Ella,</AC1></WS1></AT1></WX1></AT1></WR1></AT1> pero <AC1>ella estaba palliento con el <WX1>porque <AT1>ella no quire el bebe.</AT1></WX1></AC1></Y2> <Y2><AT1>Despues lo dejo a la calle</AT1> pero <AC1>la polisia esta aqui</AC1></Y2> y <Y1><AT1>lo mira</AT1> y <AT1>el lo cojio otra vez.</AT1></Y1> <Y1><AT1>Despues encuentra una persona</AT1> y <AT1>lo dejo en los brazos de el pero la persona</AT1></Y1> <AT1>lo dejo otra vez junto al otro bebe.</AT1> <Y1><AT1>La madre mira el bebe</AT1> y <AT1>pienza <WS1>que <AT1>Charles lo dejo aqui otra vez</AT1></WS1></AT1></Y1> y <AT1>se lo devuelve de nuevo.</AT1> <Y1><AT1>En termino charles busca un simioma de la madre de bebe</AT1> y <AT1>lo coje en abraso</AT1> y <AT1>quieria coje lo con el.</AT1>

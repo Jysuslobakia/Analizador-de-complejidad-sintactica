@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: JP_WR_31_20_1.5_14_SAE
+Year data collection: 2018
+Placement test score (raw): 31 / 43
+Placement test score (%): 72.1
+Proficiency: Upper intermediate
+Sex: Female
+Age: 20
+School/University/Institution: Universidad Seisen
+Major: Lengua y literatura española
+Year at university/school: 2
+L1: Japanese
+Father's native language: Japanese
+Mother's nativelanguage: Japanese
+Languages spoken at home: Japanese
+Age of exposure to Spanish: 18
+Years studying Spanish: 1.5
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Lower beginner (A1)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Lower intermediate (B1)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Inside classroom
+Resources used: 
+Text: <AT1>Chapprin está andad en la calle.</AT1>  <AI1>Fume mucho.</AI1>  <AT1>Algo caído sobre la cabeza.</AT1>  <AT1>Sabe <WS1>que <AC1>el bebé esté en la calle.</AC1></WS1></AT1> <Y2><AT1>Trae el bebé</AT1> pero <AT1>no cree <WS1><AI1>vivir con el bebé.</AI1></WS1></AT1></Y2> <AT1>Yo creo <WS1>que <AC1>esta película sea interesante y bonito.</AC1></WS1></AT1> <AT1>Quiero ver más.</AT1> <AC1>El Chapprin es muy famoso <WX1>por eso <AT1>tengo que ver una ves en mi vida.</AT1></WX1></AC1> <AT1>Creo <WS1>que <AT1>este país sea Italia.</AT1></WS1></AT1> <AT1>Quiero <WS1><AI1>viajar este país.</AI1></WS1></AT1>

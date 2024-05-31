@@ -1,0 +1,41 @@
+Subcorpus: Learners
+Filename: AR_WR_39_21_4_14_LS
+Year data collection: 2019
+Placement test score (raw): 39 / 43
+Placement test score (%): 90.7
+Proficiency: Lower advanced
+Sex: Female
+Age: 21
+School/University/Institution: Universidad de Pharos en Alejandría
+Major: Universidad de Pharos en Alejandría
+Year at university/school: Graduada
+L1: Arabic
+Father's native language: Arabic
+Mother's nativelanguage: Arabic
+Languages spoken at home: Arabic
+Age of exposure to Spanish: 17
+Years studying Spanish: 4
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Upper beginner (A2)
+Proficiency (self-assessment) listening: Upper beginner (A2)
+Proficiency (self-assessment) reading: Upper beginner (A2)
+Proficiency (self-assessment) writing: Upper beginner (A2)
+Proficiency (self-assessment): 2 / 6
+Additional foreign language(s): English
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Lower beginner (A1)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 15
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AT1>Nadie podrá huir de su destino.</AT1>
+<Y1><AT1>El vídeo empieza con chaplin que anda sin rumbo en la calle,</AT1> y de repente, <AT1>encontró a <WS1>un bebé tirado en el suelo.</WS1></AT1></Y1> <Y2><AT1><WX6>Cuando <AT1>vio a una madre con otro bebé,</AT1></WX6> creó <WS1>que <AC1>este tirado es suyo,</AC1></WS1></AT1> pero <AT1><WX6>cuando <AT1>le dio el bebé,</AT1></WX6> descubrió <WS1>que <AC1>no lo es,</AC1></WS1></AT1></Y2> <Y2>por eso, <AT1>decidió <WS1><AT1>devolverlo al suelo,</AT1></WS1> pero <AT1>no pudo <WX1>porque <AT1>había un oficial.</AT1></WX1></AT1></AT1></Y2> <Y1>Después, <AT1>Chaplin encontró a un hombre <WR1>que <AT1>le dio también el bebé</AT1></WR1></AT1> y <AI1>huyó.</AI1></Y1> <Y2><AT1>El hombre trató <SW1>de <AT1>encontrar a chaplin</AT1></SW1></AT1></Y2> pero <AT1>no pudo, <WX1>por eso, <WX6>cuando <AT1>vio al bebé de la misma mujer en su carrito,</AT1></WX6> <AT1>dejó con él al otro bebé.</AT1></WX1></AT1> <AI1>La mujer salió de la tienda sorprendida <WX1>de <AT1>verlo otra vez.</AT1></WX1></AI1> <AT1>Al mismo tiempo,el oficial y Chaplin surgieron,</AT1> por eso, <Y1><AT1>este último tuvo que devolver al bebé,</AT1> y al final, <AT1>sintió pena por él <WX1>porque <AT1>le dejaron.</AT1></WX1></AT1></Y1>

@@ -1,0 +1,40 @@
+Subcorpus: Learners
+Filename: EN_WR_16_19_1_14_YD
+Year data collection: 2018
+Placement test score (raw): 16 / 43
+Placement test score (%): 37.2
+Proficiency: Upper beginner
+Sex: Female
+Age: 19
+School/University/Institution: New York City college of technology
+Major: 
+Year at university/school: 
+L1: English
+Father's native language: English
+Mother's nativelanguage: English
+Languages spoken at home: English
+Age of exposure to Spanish: 18
+Years studying Spanish: 1
+Stay abroad in Spanish speaking country (>= 1 month): No
+Stay abroad (where): 
+Stay abroad (when): 
+Stay abroad (months): 0
+Language certificates (type and level): 
+Proficiency (self-assessment) speaking: Lower beginner (A1)
+Proficiency (self-assessment) listening: Lower beginner (A1)
+Proficiency (self-assessment) reading: Lower beginner (A1)
+Proficiency (self-assessment) writing: Lower beginner (A1)
+Proficiency (self-assessment): 1 / 6
+Additional foreign language(s): 
+Proficiency (self-assessment) in additional language speaking: Upper beginner (A2)
+Proficiency (self-assessment) in additional language listening: Upper beginner (A2)
+Proficiency (self-assessment) in additional language reading: Upper beginner (A2)
+Proficiency (self-assessment) in additional language writing: Upper beginner (A2)
+Medium: Written
+Task number: 14
+Task title: Chaplin
+Writting/audio details: written_online
+Minutes taken to complete the task: 25
+Where the task was done: Outside classroom
+Resources used: 
+Text: <AC1>El hombre es fumando.</AC1> <AC1>El es muy tonto.</AC1> <Y2><Y1><AT1>El hombre tomé el bebé</AT1> y <AT1>daba el bebé a una mujer.</AT1></Y1> Pero <AT1>el bebé no fue.</AT1></Y2> <Y2><AT1>El hombre toma el bebé a la policia</AT1> pero <AT1>la policia pensaba <WR1>el era tonto.</WR1></AT1></Y2>  <Y1><AT1>El hombre vea una nota</AT1> y <AT1>leerla.</AT1></Y1> <Y1>El bebé quiere tranquilo y <WS1><Y1><AT1>beber leche</AT1> y <AT1>dormir</AT1></Y1></WS1></Y1> <WX1>porque <AT1>tiene sed y hambre.</AT1></WX1> <AT1>En el finale el hombre, le bebé y la mujier fueron sepárate de la policia.</AT1> <AT1>El bebé quiere una mujer y una persona con responsabilidad.</AT1>
